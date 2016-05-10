@@ -5,7 +5,7 @@ Learn about design and it's relationship to narrative and technology.
 Establish web account:
   - github account
 
-## Introduction and Historical Context
+## Introduction
   - Find reading
      - http://www.designhistory.org/
 	 - Art/Design, technology, communications media;
