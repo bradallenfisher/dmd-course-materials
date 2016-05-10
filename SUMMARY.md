@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Design thinking](topics/design_thinking.md)
+* Experience Design
 * [Constructing meaning](topics/constructing_meaning.md)
 * Reasoning
 * Open design
@@ -11,5 +12,4 @@
 * Risk
 * Critical thinking
 * Systems thinking
-* Experience Design
 
