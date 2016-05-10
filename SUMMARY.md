@@ -9,4 +9,5 @@
 * Narrative
 * Design research
 * Risk
+* Critical thinking
 
