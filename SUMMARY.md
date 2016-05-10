@@ -10,4 +10,5 @@
 * Design research
 * Risk
 * Critical thinking
+* Systems thinking
 
