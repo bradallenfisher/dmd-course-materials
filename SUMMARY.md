@@ -5,4 +5,5 @@
 * [Constructing meaning](topics/constructing_meaning.md)
 * Reasoning
 * Open design
+* Language
 
