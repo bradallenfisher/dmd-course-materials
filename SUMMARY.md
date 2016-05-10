@@ -6,4 +6,5 @@
 * Reasoning
 * Open design
 * Language
+* Narrative
 
