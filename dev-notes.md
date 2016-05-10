@@ -34,10 +34,9 @@ Experience Design
   - Communications and meaning
      - Semiotics
      - top down, bottom up
-     - Meaning
+  - Reasoning and constraints
      - Constraints
      - Obstructions
-  - Reasoning and constraints
      - Deductive, inductive, and abductive sensemaking
 
 Speculative Design – Divergent/convergent thinking; Observation; Futurecasting; Drawing/illustrating for communication; Research and types of inquiry. 
