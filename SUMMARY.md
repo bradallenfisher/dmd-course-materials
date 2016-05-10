@@ -7,4 +7,5 @@
 * Open design
 * Language
 * Narrative
+* Design research
 
