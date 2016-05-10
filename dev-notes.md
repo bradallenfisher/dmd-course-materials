@@ -1,4 +1,4 @@
-#Course development notes
+# Course development notes
 
 Learn about design and it's relationship to narrative and technology.
 
@@ -12,7 +12,7 @@ Establish web account:
 	 - Universal principles in design, applications and ethics, aesthetics;
 	 - Creativity and innovation.
 
-Historical context
+## Historical context
   - Art/Design (Bauhaus)
   - Technology
   - Communications
@@ -23,7 +23,7 @@ Historical context
   - Process Template Problem/Solutions
   - http://dschool.stanford.edu/dgift/
 
-Experience Design
+## Experience Design
   - Design Thinking
      - Journey Mapping
      - Empathy activities
@@ -41,7 +41,8 @@ Experience Design
 
 Speculative Design – Divergent/convergent thinking; Observation; Futurecasting; Drawing/illustrating for communication; Research and types of inquiry. 
 
-Project 1: Identify and intensify problems through well thought out scenarios. Project 1: Links to Course Objectives 1, 2, 3.
+## Project 1:
+Identify and intensify problems through well thought out scenarios. Project 1: Links to Course Objectives 1, 2, 3.
 
 
 Speculative Design,
@@ -69,7 +70,8 @@ Introduction to Narrative and Story - Linear and nonlinear narratives; Concept a
 
 Manipulate markup for the web, apply narrative concepts, produce and deliver a concept. 
 
-Project 2: Links to course objectives 3, 5,
+## Project 2:
+Links to course objectives 3, 5,
 
 Brief Introduction to Narrative and Story, Project 2
 Linear and nonlinear narratives
@@ -89,7 +91,8 @@ DIY and hacking
 
 Collaboration and co-generation – Design teams; Communication roles and models; Design briefs and consultation;Constraints, economics, prototyping. 
 
-Project 3: Working effectively on a team to produce ideas, make decisions, and generate a creative work
+## Project 3:
+Working effectively on a team to produce ideas, make decisions, and generate a creative work
 
 Co-generate & Collaborate, Project 1
 
