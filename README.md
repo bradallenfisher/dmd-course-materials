@@ -1,2 +1,2 @@
 # Digital Multimedia Design
-Course Materials for DMD Program courses.
+ Course materials for DMD Program courses.
