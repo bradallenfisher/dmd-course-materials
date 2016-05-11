@@ -12,4 +12,5 @@
 * [Risk](topics/risk.md)
 * [Critical thinking](topics/critical_thinking.md)
 * [Systems thinking](topics/systems_thinking.md)
-* [Hypertext Narrative Project](projects/hyper_text_narrative_project.md)
+* [Hypertext Narrative Project](projects/projects/hypertext_narrative_project.md)
+
