@@ -12,4 +12,5 @@
 * [Risk](topics/risk.md)
 * [Critical thinking](topics/critical_thinking.md)
 * [Systems thinking](topics/systems_thinking.md)
+* Projects
 
