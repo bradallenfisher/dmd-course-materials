@@ -7,7 +7,7 @@
 * [Reasoning](topics/reasoning.md)
 * [Open design](topics/open_design.md)
 * [Language](topics/language.md)
-* Narrative
+* [Narrative](topics/narrative.md)
 * Design research
 * Risk
 * Critical thinking
