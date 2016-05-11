@@ -1,3 +1,4 @@
+![placeholder image](https://unsplash.it/g/600/300)
 # Hypertext Narrative Project
 ## What is a hypertext narrative?
 
