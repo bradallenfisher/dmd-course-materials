@@ -9,7 +9,7 @@
 * [Language](topics/language.md)
 * [Narrative](topics/narrative.md)
 * [Design research](topics/design_research.md)
-* Risk
+* [Risk](topics/risk.md)
 * Critical thinking
 * Systems thinking
 
