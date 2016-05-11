@@ -16,5 +16,5 @@
 * Projects
    * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
    * [Speculative Design Project](projects/speculative_design_project.md)
-   * Toolkit or Field Guide Design Project
+   * [Toolkit or Field Guide Design Project](projects/toolkit_or_field_guide_design_project.md)
 
