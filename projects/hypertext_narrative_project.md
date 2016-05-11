@@ -1,5 +1,5 @@
 # Hypertext Narrative Project
-![placeholder image](https://unsplash.it/3000/1500?image=38)
+![Photo of clouds and a small airplane contrail](https://unsplash.it/3000/1500?image=38)
 ## Project description
  In this project...
 ## Learning resources
