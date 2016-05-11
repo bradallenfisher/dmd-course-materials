@@ -6,7 +6,7 @@
 * [Constructing meaning](topics/constructing_meaning.md)
 * [Reasoning](topics/reasoning.md)
 * [Open design](topics/open_design.md)
-* Language
+* [Language](topics/language.md)
 * Narrative
 * Design research
 * Risk
