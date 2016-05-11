@@ -2,9 +2,9 @@
 
 * [Introduction](README.md)
 * [Experience Design](topics/experience_design.md)
-  * [Design thinking](topics/design_thinking.md)
+   * [Design thinking](topics/design_thinking.md)
 * [Constructing meaning](topics/constructing_meaning.md)
-* Reasoning
+* [Reasoning](topics/reasoning.md)
 * Open design
 * Language
 * Narrative
