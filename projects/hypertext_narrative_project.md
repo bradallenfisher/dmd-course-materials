@@ -1,7 +1,5 @@
-![placeholder image](https://unsplash.it/g/600/300)
 # Hypertext Narrative Project
-## What is a hypertext narrative?
-
+![placeholder image](https://unsplash.it/g/600/300)
 ## Project description
  In this project...
 ## Learning resources
