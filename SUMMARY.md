@@ -5,7 +5,7 @@
    * [Design thinking](topics/design_thinking.md)
 * [Constructing meaning](topics/constructing_meaning.md)
 * [Reasoning](topics/reasoning.md)
-* Open design
+* [Open design](topics/open_design.md)
 * Language
 * Narrative
 * Design research
