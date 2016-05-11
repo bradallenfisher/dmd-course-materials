@@ -1,5 +1,5 @@
 # Hypertext Narrative Project
-![placeholder image](https://unsplash.it/g/600/300)
+![placeholder image](https://unsplash.it/3000/1500?image=38)
 ## Project description
  In this project...
 ## Learning resources
