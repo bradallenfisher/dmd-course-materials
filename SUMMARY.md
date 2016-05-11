@@ -11,5 +11,5 @@
 * [Design research](topics/design_research.md)
 * [Risk](topics/risk.md)
 * [Critical thinking](topics/critical_thinking.md)
-* Systems thinking
+* [Systems thinking](topics/systems_thinking.md)
 
