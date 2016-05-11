@@ -10,6 +10,6 @@
 * [Narrative](topics/narrative.md)
 * [Design research](topics/design_research.md)
 * [Risk](topics/risk.md)
-* Critical thinking
+* [Critical thinking](topics/critical_thinking.md)
 * Systems thinking
 
