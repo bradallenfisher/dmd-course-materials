@@ -1,2 +1,0 @@
-# Hypertext Narrative Project
-
