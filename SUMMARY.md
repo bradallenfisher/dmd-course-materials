@@ -13,6 +13,7 @@
    * [Narrative](topics/narrative.md)
    * [Design research](topics/design_research.md)
    * [Risk and innovation](topics/risk_and_innovation.md)
+   * Design
 * Projects
    * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
    * [Speculative Design Project](projects/speculative_design_project.md)
