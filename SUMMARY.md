@@ -5,6 +5,7 @@
    * [How to use this book](introduction/how_to_use_this_book.md)
 * Topics
    * Design
+       * [Narrative](topics/narrative.md)
        * [Design research](topics/design_research.md)
        * [Experience Design](topics/experience_design.md)
        * [Open design](topics/open_design.md)
@@ -21,7 +22,6 @@
        * [Reasoning](topics/reasoning.md)
        * [Constructing meaning](topics/constructing_meaning.md)
        * [Language](topics/language.md)
-   * [Narrative](topics/narrative.md)
    * Science, technology, and society
        * Singularity
 * Projects
