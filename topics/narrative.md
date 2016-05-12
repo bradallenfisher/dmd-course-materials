@@ -19,9 +19,16 @@ Gustav Freytag (1816 - 1895), a German dramatist and novelist, developed the str
 6. resolution
 7. dénouement
 
+### Three Act
+#### ACT 1
+ The beginning.
+#### ACT 2
+ The middle.
+#### ACT 3
+ The end.
+
 ### Five Act
 
-### Three Act
 
 ### Syd Field's Paradigm
 
@@ -36,5 +43,5 @@ http://www.storyboardthat.com/articles/education/english/narrative-structures
 ### Film
 ### Novels
 ### Games
-## Artists and authors
+### Artists and authors
 [Mark Amerika](http://www.altx.com/amerika.online/)
