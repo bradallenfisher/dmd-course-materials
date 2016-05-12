@@ -1,7 +1,7 @@
 # Hypertext Narrative Project
 ![Photo of clouds and a small airplane contrail](https://unsplash.it/3000/1500?image=38)
 ## Project description
- In this project, you will be creating a hypertext narrative. You will use software called Twine to combine storytelling fundamentals with hypertext technology to create an interactive experience. 
+ In this project, you will be creating a hypertext narrative. You will use software called Twine to combine storytelling with hypertext technology. 
  
 ## Readings and screenings
 
