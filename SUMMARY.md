@@ -21,7 +21,7 @@
        * [Critical thinking](topics/critical_thinking.md)
        * [Systems thinking](topics/systems_thinking.md)
        * [Reasoning](topics/reasoning.md)
-       * Semiotics
+       * [Semiotics](topics/semiotics.md)
        * [Constructing meaning](topics/constructing_meaning.md)
        * [Language](topics/language.md)
    * Technology and society
