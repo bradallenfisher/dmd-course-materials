@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-   * Preface
+   * [Preface](introduction/preface.md)
 * Topics
    * Design
        * [Design research](topics/design_research.md)
