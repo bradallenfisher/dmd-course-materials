@@ -38,4 +38,5 @@
    * Program structure
    * [Advising](toolkit/advising.md)
    * Social media
+   * Program hub
 
