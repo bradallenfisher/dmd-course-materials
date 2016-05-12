@@ -3,7 +3,7 @@
 * [Introduction](README.md)
    * [Preface](introduction/preface.md)
    * [How to use this book](introduction/how_to_use_this_book.md)
-   * How to win
+   * Measuring success
 * Topics
    * Design
        * [Narrative](topics/narrative.md)
