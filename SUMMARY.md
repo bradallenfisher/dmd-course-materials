@@ -12,7 +12,7 @@
    * [Language](topics/language.md)
    * [Narrative](topics/narrative.md)
    * [Design research](topics/design_research.md)
-   * [Risk](topics/risk.md)
+   * [Risk and innovation](topics/risk.md)
 * Projects
    * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
    * [Speculative Design Project](projects/speculative_design_project.md)
