@@ -34,8 +34,8 @@
    * [Toolkit or Field Guide Design Project](projects/toolkit_or_field_guide_design_project.md)
 * Tools
    * Digital and analogue
-* Program hub
 * Toolkit
+   * Program hub
    * Program structure
    * [Advising](toolkit/advising.md)
    * Social media
