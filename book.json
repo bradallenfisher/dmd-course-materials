@@ -1,3 +1,21 @@
 {
-    "plugins": ["bibtex-citation"]
+    "title": "Today I Learned",
+    "author": "Leon Bambrick",
+    "plugins": ["autocover"],["bibtex-citation"],
+    "pluginsConfig": {
+        "autocover": {
+          "font": {
+                "size": null,
+                "family": "Impact",
+                "color": "#FFF"
+            },
+            "size": {
+                "w": 1800,
+                "h": 2360
+            },
+            "background": {
+                "color": "#09F"
+            }
+        }
+    }
 }
