@@ -5,6 +5,7 @@
    * Design
    * [Design research](topics/design_research.md)
    * [Open design](topics/open_design.md)
+   * [Risk and innovation](topics/risk_and_innovation.md)
    * Thinking and reasoning
        * [Design thinking](topics/design_thinking.md)
        * [Critical thinking](topics/critical_thinking.md)
@@ -14,7 +15,6 @@
    * [Experience Design](topics/experience_design.md)
    * [Language](topics/language.md)
    * [Narrative](topics/narrative.md)
-   * [Risk and innovation](topics/risk_and_innovation.md)
 * Projects
    * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
    * [Speculative Design Project](projects/speculative_design_project.md)
