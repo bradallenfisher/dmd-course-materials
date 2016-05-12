@@ -1,2 +1,3 @@
 # How to use this book
 
+ When we set out to make this program, we knew we wanted to take a very different approach. This digital book is intended as a sort of index for design knowledge. As you progress through your academic career, you will undoubtedly see these topics emerge as part of your coursework. There have been hundreds and possibly thousands of books written about each topic in print, and an extraordinary amount of articles, papers, essays, and blog posts have been authored to extend this multifaceted knowledge.
