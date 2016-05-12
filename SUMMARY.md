@@ -3,7 +3,7 @@
 * [Introduction](README.md)
    * [Preface](introduction/preface.md)
    * [How to use this book](introduction/how_to_use_this_book.md)
-   * Measuring success
+   * [Measuring success](introduction/measuring_success.md)
 * Topics
    * Design
        * [Narrative](topics/narrative.md)
