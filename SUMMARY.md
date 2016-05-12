@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * Topics
    * Design
-   * Ways of thinking
+   * Thinking and reasoning
      * [Design thinking](topics/design_thinking.md)
      * [Critical thinking](topics/critical_thinking.md)
      * [Systems thinking](topics/systems_thinking.md)
