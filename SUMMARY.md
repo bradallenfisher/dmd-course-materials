@@ -35,6 +35,6 @@
 * Tools
    * Digital and analogue
 * Toolkit
-   * [Advising](toolkit/advising.md)
    * Program structure
+   * [Advising](toolkit/advising.md)
 
