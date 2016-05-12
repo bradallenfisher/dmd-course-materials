@@ -16,12 +16,12 @@
        * Architecture
        * Game design
        * Media
-       * Semiotics
    * Thinking and reasoning
        * [Design thinking](topics/design_thinking.md)
        * [Critical thinking](topics/critical_thinking.md)
        * [Systems thinking](topics/systems_thinking.md)
        * [Reasoning](topics/reasoning.md)
+       * Semiotics
        * [Constructing meaning](topics/constructing_meaning.md)
        * [Language](topics/language.md)
    * Technology and society
