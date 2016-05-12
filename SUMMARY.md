@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
    * [Preface](introduction/preface.md)
+   * How to use this book
 * Topics
    * Design
        * [Design research](topics/design_research.md)
