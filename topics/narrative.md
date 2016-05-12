@@ -45,3 +45,5 @@ http://www.storyboardthat.com/articles/education/english/narrative-structures
 ### Games
 ### Artists and authors
 [Mark Amerika](http://www.altx.com/amerika.online/)
+### Recommended books
+Digital Storytelling: A Creator's Guide to Interactive Entertainment. Carolyn Handler Miller. 2014
