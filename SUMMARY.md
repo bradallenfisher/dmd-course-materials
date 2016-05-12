@@ -22,7 +22,7 @@
        * [Reasoning](topics/reasoning.md)
        * [Constructing meaning](topics/constructing_meaning.md)
        * [Language](topics/language.md)
-   * Science, technology, and society
+   * Technology and society
        * Singularity
 * Projects
    * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
