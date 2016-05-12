@@ -4,8 +4,8 @@
 * Topics
    * Design
    * [Design thinking](topics/design_thinking.md)
+   * [Critical thinking](topics/critical_thinking.md)
    * [Experience Design](topics/experience_design.md)
-       * [Design thinking](topics/design_thinking.md)
        * [Critical thinking](topics/critical_thinking.md)
        * [Systems thinking](topics/systems_thinking.md)
    * [Constructing meaning](topics/constructing_meaning.md)
