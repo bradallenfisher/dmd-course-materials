@@ -4,6 +4,7 @@
 * Topics
    * Design
    * [Design research](topics/design_research.md)
+   * [Open design](topics/open_design.md)
    * Thinking and reasoning
        * [Design thinking](topics/design_thinking.md)
        * [Critical thinking](topics/critical_thinking.md)
@@ -11,7 +12,6 @@
    * [Reasoning](topics/reasoning.md)
    * [Constructing meaning](topics/constructing_meaning.md)
    * [Experience Design](topics/experience_design.md)
-   * [Open design](topics/open_design.md)
    * [Language](topics/language.md)
    * [Narrative](topics/narrative.md)
    * [Risk and innovation](topics/risk_and_innovation.md)
