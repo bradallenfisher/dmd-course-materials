@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * Topics
    * Design
+   * [Design thinking](topics/design_thinking.md)
    * [Experience Design](topics/experience_design.md)
        * [Design thinking](topics/design_thinking.md)
        * [Critical thinking](topics/critical_thinking.md)
