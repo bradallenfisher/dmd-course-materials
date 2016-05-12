@@ -8,6 +8,7 @@
        * [Open design](topics/open_design.md)
        * [Risk and innovation](topics/risk_and_innovation.md)
        * Graphic design
+       * Industrial design
    * Thinking and reasoning
        * [Design thinking](topics/design_thinking.md)
        * [Critical thinking](topics/critical_thinking.md)
