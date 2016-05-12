@@ -11,9 +11,9 @@
        * [Design thinking](topics/design_thinking.md)
        * [Critical thinking](topics/critical_thinking.md)
        * [Systems thinking](topics/systems_thinking.md)
-   * [Reasoning](topics/reasoning.md)
-   * [Constructing meaning](topics/constructing_meaning.md)
-   * [Language](topics/language.md)
+     * [Reasoning](topics/reasoning.md)
+     * [Constructing meaning](topics/constructing_meaning.md)
+     * [Language](topics/language.md)
    * [Narrative](topics/narrative.md)
 * Projects
    * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
