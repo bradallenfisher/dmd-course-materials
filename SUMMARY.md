@@ -10,6 +10,7 @@
        * Graphic design
        * Industrial design
        * Architecture
+       * Game design
    * Thinking and reasoning
        * [Design thinking](topics/design_thinking.md)
        * [Critical thinking](topics/critical_thinking.md)
