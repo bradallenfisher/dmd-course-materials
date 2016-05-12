@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * Topics
    * Design
+   * [Design research](topics/design_research.md)
    * Thinking and reasoning
        * [Design thinking](topics/design_thinking.md)
        * [Critical thinking](topics/critical_thinking.md)
@@ -13,7 +14,6 @@
    * [Open design](topics/open_design.md)
    * [Language](topics/language.md)
    * [Narrative](topics/narrative.md)
-   * [Design research](topics/design_research.md)
    * [Risk and innovation](topics/risk_and_innovation.md)
 * Projects
    * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
