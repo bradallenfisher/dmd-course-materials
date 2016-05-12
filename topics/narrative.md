@@ -1,19 +1,36 @@
 # Narrative
 
+## Storytelling
+https://openlibrary.org/books/OL7024013M/A_history_of_story-telling
 
-## Freytag's analysis
+A heuristic for how to tell compelling stories has developed over time, called dramatic structure.
+## Dramatic Structure
+### Freytag's Analysis
 
 (Insert SVG Image)
 
-Gustav Freytag (1816 - 1895), a German dramatist and novelist, developed the structure for the way stories are told in ancient Greek and Shakespearean drama. This analysis is known as Freytag's analysis. His analysis consisted of dividing a play into FIVE parts:
+Gustav Freytag (1816 - 1895), a German dramatist and novelist, developed the structure for the way stories are told in ancient Greek and Shakespearean drama. This analysis is known as Freytag's analysis. His analysis consisted of dividing a play into the following parts:
 
 1. exposition
-2. rising action
-3. climax
-4. falling action
-5. resolution
+2. inciting incident
+3. rising action
+4. climax
+5. falling action
+6. resolution
+7. dénouement
 
-**Attribution Link:** https://eslenglish2.wikispaces.com/Narrative+Structure
+### Five Act
+
+### Three Act
+
+### Syd Field's Paradigm
+
+### Frank Daniel's Sequence
+
+**Attribution Links:**
+http://paulgorman.org/writing/dramatic_structure.php
+http://users.aber.ac.uk/jpm/ellsa/ellsa_openboat3.html
+http://www.storyboardthat.com/articles/education/english/narrative-structures
 
 
 ## Artists and authors
