@@ -16,6 +16,7 @@
        * Architecture
        * Game design
        * Media
+       * Semiotics
    * Thinking and reasoning
        * [Design thinking](topics/design_thinking.md)
        * [Critical thinking](topics/critical_thinking.md)
