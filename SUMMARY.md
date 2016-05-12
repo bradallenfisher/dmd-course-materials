@@ -8,9 +8,9 @@
      * [Open design](topics/open_design.md)
      * [Risk and innovation](topics/risk_and_innovation.md)
    * Thinking and reasoning
-       * [Design thinking](topics/design_thinking.md)
-       * [Critical thinking](topics/critical_thinking.md)
-       * [Systems thinking](topics/systems_thinking.md)
+     * [Design thinking](topics/design_thinking.md)
+     * [Critical thinking](topics/critical_thinking.md)
+     * [Systems thinking](topics/systems_thinking.md)
      * [Reasoning](topics/reasoning.md)
      * [Constructing meaning](topics/constructing_meaning.md)
      * [Language](topics/language.md)
