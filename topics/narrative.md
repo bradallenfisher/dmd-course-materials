@@ -6,15 +6,10 @@ https://openlibrary.org/books/OL7024013M/A_history_of_story-telling
 A heuristic for how to tell compelling stories has developed over time.
 
 #### Dramatic Structure
-![Dramatic structure plot diagram](dramatic_structure_plot_diagram.png)
 
+![](plot_diagram_reverse2.png)
 ### Three Act
-#### ACT 1
- The beginning.
-#### ACT 2
- The middle.
-#### ACT 3
- The end.
+
 
 ### Five Act
 #### Freytag's Analysis
