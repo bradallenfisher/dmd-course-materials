@@ -5,7 +5,7 @@ https://openlibrary.org/books/OL7024013M/A_history_of_story-telling
 
 A heuristic for how to tell compelling stories has developed over time, called dramatic structure.
 
-
+![Dramatic structure plot diagram](plot_diagram.svg)
 ### Three Act
 #### ACT 1
  The beginning.
