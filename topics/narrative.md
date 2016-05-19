@@ -27,10 +27,11 @@ Almost all Hollywood films, Shakespearean plays, and Greek and Roman Mythologies
 
 - Three Act Structure
 - Five Act Structure
+- Journey
 
 [https://openlibrary.org/books/OL7024013M/A_history_of_story-telling]( https://openlibrary.org/books/OL7024013M/A_history_of_story-telling)
 
-#### Plot Diagram
+#### Three Act Plot Diagram
 
 ![](plot_diagram_reverse2.png)
 
