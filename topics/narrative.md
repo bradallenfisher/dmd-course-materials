@@ -7,11 +7,10 @@ Story can be integral to the design process or may be the intended product. The 
 4. Delivery Media
 
 ## Purpose
-Why are you telling this story? What does it mean to be a story teller from a designer's perspective?
+Why are you telling this story? What does it mean to be a story teller from a designer's perspective? When considering these questions, consider the following impacts:
 
-- User Experience Design
-  - Meaning and message
-  - Emotion and engagement
+- Meaning and message
+- Emotion and engagement
 
 > **Case study:** How can you tell a story to a human ten thousand years into the future with current language? This, as it turns out, is quite difficult.
 > 
