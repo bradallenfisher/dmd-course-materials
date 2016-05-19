@@ -18,7 +18,9 @@ Why are you telling this story? What does it mean to be a story teller from a de
 > (**Tags:** language, semiotics, graphic design, storytelling)
 
 ## Narrative structure
-A few structures for storytelling have been developed over time, including:
+A narrative structure orders or disorders the content of a story for the audience. Hollywood film financiers tend to favor safe and time-tested structures to better the chances of a profitable return on their investment. The perception is that experimental or less used narrative structures tend to be risky investments. The same can be said for large game developers who are prone to sequels of high selling titles.
+
+This can explain why many exciting and novel stories tend to come from independent authors and screenwriters, indie game developers, indie filmmakers, and so on.
 
 ### Linear Narrative:
 - Three Act Structure
