@@ -5,10 +5,6 @@
  
  The narrative you will be producing will be a text-based journey.
  
-## Success metrics
-1. Create sense of tension
-2. Teach something
-3. ...
  
 ## Readings and screenings
 
@@ -30,6 +26,12 @@ http://www.whoi.edu/science/B/people/kamaral/hypertext.html
 [Twine Tutorial](http://www.auntiepixelante.com/twine/)
 
 [Twine Wiki](http://twinery.org/wiki/twine2:guide)
+
+## Success metrics
+1. Create sense of tension
+2. Teach something
+3. ...
+4. 
 ## Steps to completion 
 1. Propose at least three story concepts
 2. Choose one concept to develop
