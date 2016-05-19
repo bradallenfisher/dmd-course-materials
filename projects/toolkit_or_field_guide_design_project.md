@@ -1,4 +1,4 @@
-# Toolkit or Design Project
+# Toolkit Design Project
 ![Photo of an old collection of tools hanging on a wall](https://unsplash.it/3000/1500?image=284)
 ## Project description
 In this project
