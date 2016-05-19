@@ -1,5 +1,5 @@
 # Narrative
-Story can be integral to the design process or may be the intended product. The main considerations for the storytelling process are as follows:
+Story can be integral to the design process and is often times the intended product. Story is always built into a visual or physical object. The main considerations for the storytelling process are as follows:
 
 1. Purpose
 2. Narrative structure
@@ -7,10 +7,7 @@ Story can be integral to the design process or may be the intended product. The 
 4. Delivery Media
 
 ## Purpose
-Why are you telling this story? What does it mean to be a story teller from a designer's perspective? When considering these questions, consider the following impacts:
-
-- Meaning and message
-- Emotion and engagement
+Why are you telling this story? What does it mean to be a story teller from a designer's perspective?
 
 > **Case study:** How can you tell a story to a human ten thousand years into the future with current language? This, as it turns out, is quite difficult.
 > 
@@ -44,13 +41,15 @@ Infinite possibilities based on viewer's choices and preferences.
 Example: [No Mans's Sky](http://www.no-mans-sky.com/about/)
 
 ## Content
-A typical novel will contain the following components
+A typical novel will contain the following components:
 
 1. Plot
 2. Characters
 3. Setting
 4. Theme
 5. Conflict
+
+Story authors tend to design their own custom plot devices for storytelling, which helps establish a style. 
 
 ### Delivery Media
 
