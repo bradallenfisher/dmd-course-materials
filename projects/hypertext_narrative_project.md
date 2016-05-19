@@ -24,7 +24,7 @@ Software download: [Twinery.org](https://twinery.org/)
 ## Steps to completion
 1. Ideate at least three story concepts
 2. Choose a narrative structure
-3. describe content
+3. Describe content
 4. Map out the story
 5. Program the story with Twine
 6. Publish project link on course website
