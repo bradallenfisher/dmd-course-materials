@@ -24,7 +24,7 @@ What does it mean to be a story teller as a designer?
 
 **Transmedia** ...
 
-> **Case study:** How can you tell a story to a human a thousand years into the future with current language? This, as it turns out, is quite difficult.
+> **Case study:** How can you tell a story to a human ten thousand years into the future with current language? This, as it turns out, is quite difficult.
 > 
 > Listen: [99% Invisible Podcast - Ten Thousand Years](http://99percentinvisible.org/episode/ten-thousand-years/) 
 > Tag: language, semiotics, graphic design, storytelling
