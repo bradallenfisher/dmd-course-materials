@@ -1,39 +1,47 @@
 # Narrative
-The main components of the storytelling process are as follows:
+Story can be integral to the design process or may be the intended product. The main components of the storytelling process are as follows:
 
 1. Purpose
-2. Structure
+2. Narrative structure
 3. Content
 4. Delivery Media
 
-### Purpose
+## Purpose
 Why are you telling this story? What does it mean to be a story teller from a designer's perspective?
+
+- User Experience Design
+  - Meaning and message
+  - Emotion and engagement
 
 > **Case study:** How can you tell a story to a human ten thousand years into the future with current language? This, as it turns out, is quite difficult.
 > 
 > Listen: [99% Invisible Podcast - Ten Thousand Years](http://99percentinvisible.org/episode/ten-thousand-years/) 
 > (**Tags:** language, semiotics, graphic design, storytelling)
 
-### Structure
+## Narrative structure
 A few structures for storytelling have been developed over time, including:
 
-**Linear Narrative Structures:**
+### Linear Narrative:
 - Three Act Structure
 - Five Act Structure
 
-
-one of which is used heavily in Hollywood. This is called the Three Act Structure. There are many variations, and 
-
-
 [https://openlibrary.org/books/OL7024013M/A_history_of_story-telling]( https://openlibrary.org/books/OL7024013M/A_history_of_story-telling)
-
-
 
 #### Plot Diagram
 
 ![](plot_diagram_reverse2.png)
 
-### Content
+### Non-linear Narrative:
+Not necessarily chronological or cause and effect based.
+
+### Interactive Narration:
+
+### Interactive Narrative: (check source)
+Infinite possibilities based on viewer's choices and preferences.
+
+Example: [No Mans's Sky](http://www.no-mans-sky.com/about/)
+
+## Content
 
 1. Plot
 2. Characters
@@ -97,6 +105,6 @@ Gustav Freytag (1816 - 1895), a German dramatist and novelist, developed the str
 
 
 ## Attribution Links:
-http://paulgorman.org/writing/dramatic_structure.php
-http://users.aber.ac.uk/jpm/ellsa/ellsa_openboat3.html
-http://www.storyboardthat.com/articles/education/english/narrative-structures
+- http://www.storyboardthat.com/articles/education/english/narrative-structures
+- https://www.smashingmagazine.com/2010/01/better-user-experience-using-storytelling-part-one/
+- http://www.kickerstudio.com/2008/12/the-disciplines-of-user-experience/
