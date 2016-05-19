@@ -20,7 +20,6 @@
        * Creativity
        * Topology
        * Model
-   * Thinking and reasoning
        * [Design thinking](topics/design_thinking.md)
        * [Critical thinking](topics/critical_thinking.md)
        * [Systems thinking](topics/systems_thinking.md)
@@ -28,7 +27,6 @@
        * [Semiotics](topics/semiotics.md)
        * [Constructing meaning](topics/constructing_meaning.md)
        * [Language](topics/language.md)
-   * Technology and society
        * Singularity
        * Automation and AI
        * Programming
