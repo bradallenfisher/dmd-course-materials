@@ -1,18 +1,26 @@
 # Narrative
 
 ## Story
-What does it mean to be a story teller as a designer?
+The main components of the storytelling process are as follows:
 
 1. Purpose
 2. Content
 3. Delivery Media
 
 ###Purpose
-**Films, novels, and games** tell a story to highlight a moral or ethical quandary or contribute to discourse on a popular or marginalized subject. 
+What does it mean to be a story teller as a designer?
+
+**Films, novels, and games** tell a story to highlight a moral or ethical quandary, contribute to discourse on a popular or marginalized subject, or as a teaching tool. 
 
 **Product design** uses visual and sculptural elements to can tell a person a story about how to operate or interact with it to make an object intuitive. 
 
 **Architecture** uses form and dimension of space and structure to tell the story of how people should use space by directing foot traffic flow, creating places for rest or work, navigating, etc.
+
+**Graphic design** ...
+
+**Music** ...
+
+**Performance** ...
 
 **Transmedia** ...
 
@@ -25,7 +33,7 @@ What does it mean to be a story teller as a designer?
 
 ###Content
 
-###Delivery Media
+
 
 https://openlibrary.org/books/OL7024013M/A_history_of_story-telling
 
@@ -34,6 +42,9 @@ A heuristic for how to tell compelling stories has developed over time.
 #### Plot Diagram
 
 ![](plot_diagram_reverse2.png)
+
+###Delivery Media
+###History of Storytelling
 
 #### Aristotle
 
@@ -58,11 +69,9 @@ http://paulgorman.org/writing/dramatic_structure.php
 http://users.aber.ac.uk/jpm/ellsa/ellsa_openboat3.html
 http://www.storyboardthat.com/articles/education/english/narrative-structures
 
-## Examples
-### Film
-### Novels
-### Games
+
 ### Artists and authors
 [Mark Amerika](http://www.altx.com/amerika.online/)
-### Recommended books
+
+### Recommended reading
 Digital Storytelling: A Creator's Guide to Interactive Entertainment. Carolyn Handler Miller. 2014
