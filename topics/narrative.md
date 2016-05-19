@@ -1,6 +1,4 @@
 # Narrative
-
-## Story
 The main components of the storytelling process are as follows:
 
 1. Purpose
@@ -11,13 +9,10 @@ The main components of the storytelling process are as follows:
 ### Purpose
 Why are you telling this story? What does it mean to be a story teller from a designer's perspective?
 
-
 > **Case study:** How can you tell a story to a human ten thousand years into the future with current language? This, as it turns out, is quite difficult.
 > 
 > Listen: [99% Invisible Podcast - Ten Thousand Years](http://99percentinvisible.org/episode/ten-thousand-years/) 
 > (**Tags:** language, semiotics, graphic design, storytelling)
-
-
 
 ### Structure
 A few structures for storytelling have been developed over time, including:
