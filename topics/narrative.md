@@ -1,17 +1,40 @@
 # Narrative
 
-## Storytelling
+## Story
+What does it mean to be a story teller as a designer?
+
+1. Purpose
+2. Content
+3. Delivery Media
+
+###Purpose
+**Films** tell a story to highlight a moral or ethical quandary or contribute to discourse on a popular or marginalized subject. 
+
+**Product design** uses visual and sculptural elements to can tell a person a story about how to operate or interact with it to make an object intuitive. 
+
+**Architecture** uses form and dimension of space and structure to tell the story of how people should use space by directing foot traffic flow, creating places for rest or work, navigating, etc.
+
+> **Case study:** How can you tell a story to a human a thousand years into the future with current language? This, as it turns out, is quite difficult.
+> 
+> Listen: [99% Invisible Podcast - Ten Thousand Years](http://99percentinvisible.org/episode/ten-thousand-years/) 
+> Tag: language, semiotics, graphic design, storytelling
+
+
+
+###Content
+
+###Delivery Media
+
 https://openlibrary.org/books/OL7024013M/A_history_of_story-telling
 
 A heuristic for how to tell compelling stories has developed over time.
 
-#### Dramatic Structure
+#### Plot Diagram
 
 ![](plot_diagram_reverse2.png)
-### Three Act
 
+#### Aristotle
 
-### Five Act
 #### Freytag's Analysis
 
 (Insert SVG Image)
