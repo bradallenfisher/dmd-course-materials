@@ -16,7 +16,7 @@
        * Architecture
        * Game design
        * Media
-       * Hypertext
+       * [Hypertext](topics/hypertext.md)
    * Thinking and reasoning
        * [Design thinking](topics/design_thinking.md)
        * [Critical thinking](topics/critical_thinking.md)
