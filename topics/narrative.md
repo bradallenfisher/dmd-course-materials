@@ -8,11 +8,13 @@ What does it mean to be a story teller as a designer?
 3. Delivery Media
 
 ###Purpose
-**Films** tell a story to highlight a moral or ethical quandary or contribute to discourse on a popular or marginalized subject. 
+**Films, novels, and games** tell a story to highlight a moral or ethical quandary or contribute to discourse on a popular or marginalized subject. 
 
 **Product design** uses visual and sculptural elements to can tell a person a story about how to operate or interact with it to make an object intuitive. 
 
 **Architecture** uses form and dimension of space and structure to tell the story of how people should use space by directing foot traffic flow, creating places for rest or work, navigating, etc.
+
+**Transmedia** ...
 
 > **Case study:** How can you tell a story to a human a thousand years into the future with current language? This, as it turns out, is quite difficult.
 > 
