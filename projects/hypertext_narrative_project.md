@@ -5,7 +5,7 @@
  
  The narrative you will be producing will be a text-based journey.
  
-## Goals
+## Success metrics
 1. Create sense of tension
 2. Teach something
 3. ...
