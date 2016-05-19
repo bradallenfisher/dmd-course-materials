@@ -109,4 +109,3 @@ Gustav Freytag (1816 - 1895), a German dramatist and novelist, developed the str
 - https://www.smashingmagazine.com/2010/01/better-user-experience-using-storytelling-part-one/
 - http://www.kickerstudio.com/2008/12/the-disciplines-of-user-experience/
 - https://www.smashingmagazine.com/2010/02/better-user-experience-through-storytelling-part-2/
-- http://www.whoi.edu/science/B/people/kamaral/hypertext.html
