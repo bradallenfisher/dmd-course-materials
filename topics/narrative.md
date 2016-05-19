@@ -1,5 +1,5 @@
 # Narrative
-Story can be integral to the design process or may be the intended product. The main components of the storytelling process are as follows:
+Story can be integral to the design process or may be the intended product. The main considerations for the storytelling process are as follows:
 
 1. Purpose
 2. Narrative structure
@@ -42,6 +42,7 @@ Infinite possibilities based on viewer's choices and preferences.
 Example: [No Mans's Sky](http://www.no-mans-sky.com/about/)
 
 ## Content
+A typical novel will contain the following components
 
 1. Plot
 2. Characters
@@ -51,7 +52,7 @@ Example: [No Mans's Sky](http://www.no-mans-sky.com/about/)
 
 ### Delivery Media
 
-**Design thinking** ...
+**Design thinking** sessions are team-based work sessions where problems are identified and quick prototypes are generated. Story can help team members empathize with the audience to create a better product or service and recognize new ways of approaching solutions.
 
 **Films, novels, and games** tell a story to highlight a moral or ethical quandary, contribute to discourse on a popular or marginalized subject, or as a teaching tool. 
 
@@ -94,10 +95,7 @@ Gustav Freytag (1816 - 1895), a German dramatist and novelist, developed the str
 [Mark Amerika](http://www.altx.com/amerika.online/)
 
 
----
-
-
-## Bookshelf
+## For your bookshelf
 [Digital Storytelling: A Creator's Guide to Interactive Entertainment. Carolyn Handler Miller. 2014. ISBN-10: 0415836948](http://www.amazon.com/Digital-Storytelling-creators-interactive-entertainment/dp/0415836948)
 
 
@@ -108,3 +106,4 @@ Gustav Freytag (1816 - 1895), a German dramatist and novelist, developed the str
 - http://www.storyboardthat.com/articles/education/english/narrative-structures
 - https://www.smashingmagazine.com/2010/01/better-user-experience-using-storytelling-part-one/
 - http://www.kickerstudio.com/2008/12/the-disciplines-of-user-experience/
+- https://www.smashingmagazine.com/2010/02/better-user-experience-through-storytelling-part-2/
