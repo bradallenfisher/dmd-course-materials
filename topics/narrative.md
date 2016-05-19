@@ -29,8 +29,6 @@ Almost all Hollywood films, Shakespearean plays, and Greek and Roman Mythologies
 - Five Act Structure
 - Journey
 
-[https://openlibrary.org/books/OL7024013M/A_history_of_story-telling]( https://openlibrary.org/books/OL7024013M/A_history_of_story-telling)
-
 #### Three Act Plot Diagram
 
 ![](plot_diagram_reverse2.png)
@@ -75,6 +73,7 @@ A typical novel will contain the following components
 **Transmedia** ...
 
 ## History of Storytelling
+[https://openlibrary.org/books/OL7024013M/A_history_of_story-telling]( https://openlibrary.org/books/OL7024013M/A_history_of_story-telling)
 
 ### Aristotle
 ...
