@@ -33,6 +33,7 @@
        * Color
        * Speculative design
        * Research
+       * Statement writing
 * Projects
    * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
    * [Speculative Design Project](projects/speculative_design_project.md)
