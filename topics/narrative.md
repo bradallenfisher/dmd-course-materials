@@ -54,9 +54,9 @@ A typical novel will contain the following components
 
 **Design thinking** sessions are team-based work sessions where problems are identified and quick prototypes are generated. Story can help team members empathize with the audience to create a better product or service and recognize new ways of approaching solutions.
 
-**Films, novels, and games** tell a story to highlight a moral or ethical quandary, contribute to discourse on a popular or marginalized subject, or as a teaching tool. 
+**Films, novels, drawings and paintings, comic books, and games** are products that tell a story to highlight a moral or ethical quandary, contribute to discourse on a popular or marginalized subject, or as a teaching tool. 
 
-**Product design** uses visual and sculptural elements to can tell a person a story about how to operate or interact with it to make an object intuitive.
+**Consumer products** use visual and sculptural elements to communicate how to operate or interact with it to make an object intuitive.
 
 **Architecture** uses form and dimension of space and structure to tell the story of how people should use space by directing foot traffic flow, creating places for rest or work, navigating, etc.
 
