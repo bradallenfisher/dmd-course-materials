@@ -17,6 +17,7 @@
        * Game design
        * Media
        * [Hypertext](topics/hypertext.md)
+       * Creativity
    * Thinking and reasoning
        * [Design thinking](topics/design_thinking.md)
        * [Critical thinking](topics/critical_thinking.md)
