@@ -31,7 +31,8 @@ http://www.whoi.edu/science/B/people/kamaral/hypertext.html
 1. Create sense of tension
 2. Teach something
 3. ...
-4. 
+
+
 ## Steps to completion 
 1. Propose at least three story concepts
 2. Choose one concept to develop
