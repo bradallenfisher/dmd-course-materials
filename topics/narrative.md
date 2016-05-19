@@ -93,10 +93,6 @@ Gustav Freytag (1816 - 1895), a German dramatist and novelist, developed the str
 #### Frank Daniel's Sequence
 
 
-## Storytellers
-[Mark Amerika](http://www.altx.com/amerika.online/)
-
-
 ## For your bookshelf
 [Digital Storytelling: A Creator's Guide to Interactive Entertainment. Carolyn Handler Miller. 2014. ISBN-10: 0415836948](http://www.amazon.com/Digital-Storytelling-creators-interactive-entertainment/dp/0415836948)
 
