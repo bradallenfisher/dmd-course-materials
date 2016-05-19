@@ -23,6 +23,8 @@ A narrative structure orders or disorders the content of a story for the audienc
 This can explain why many exciting and novel stories tend to come from independent authors and screenwriters, indie game developers, indie filmmakers, and so on.
 
 ### Linear Narrative:
+Almost all Hollywood films, Shakespearean plays, and Greek and Roman Mythologies fall into this category.
+
 - Three Act Structure
 - Five Act Structure
 
