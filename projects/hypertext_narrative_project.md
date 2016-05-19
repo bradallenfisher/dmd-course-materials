@@ -3,7 +3,12 @@
 ## Project description
  In this project, you will be creating a hypertext narrative. You will use software called Twine to combine non-linear storytelling with hypertext technology. 
  
- The narrative you will be producing will be a text-based journey
+ The narrative you will be producing will be a text-based journey.
+ 
+## Goals
+1. Create sense of tension
+2. Teach something
+3. ...
  
 ## Readings and screenings
 
@@ -17,17 +22,26 @@
 
 http://www.whoi.edu/science/B/people/kamaral/hypertext.html
 
-## Tools and techniques
-Software download: [Twinery.org](https://twinery.org/)
+## Tools
+[Twinery.org](https://twinery.org/)
+[Github.com](http://github.com)
 
+## Tutorials
 [Twine Tutorial](http://www.auntiepixelante.com/twine/)
-## Steps to completion
-1. Ideate at least three story concepts
-2. Choose a narrative structure
-3. Describe content
-4. Map out the story
-5. Program the story with Twine
-6. Publish project link on course website
-7. Write project statement based on **statement standards**
+
+[Twine Wiki](http://twinery.org/wiki/twine2:guide)
+## Steps to completion 
+1. Propose at least three story concepts
+2. Choose one concept to develop
+3. Choose a narrative structure
+4. Identify content
+5. Perform research on content
+6. Map out the story
+7. Program the story with Twine
+8. Put onto github.com
+9. Publish git repo link on course website
+10. Write project statement based on **statement standards**
+11. Obtain feedback
+12. Revise
 
 ## Deliverables
