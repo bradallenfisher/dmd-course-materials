@@ -7,7 +7,7 @@ The main components of the storytelling process are as follows:
 2. Content
 3. Delivery Media
 
-###Purpose
+### Purpose
 What does it mean to be a story teller as a designer?
 
 **Films, novels, and games** tell a story to highlight a moral or ethical quandary, contribute to discourse on a popular or marginalized subject, or as a teaching tool. 
@@ -31,7 +31,7 @@ What does it mean to be a story teller as a designer?
 
 
 
-###Content
+### Content
 
 
 
@@ -43,8 +43,8 @@ A heuristic for how to tell compelling stories has developed over time.
 
 ![](plot_diagram_reverse2.png)
 
-###Delivery Media
-###History of Storytelling
+### Delivery Media
+### History of Storytelling
 
 #### Aristotle
 
