@@ -18,6 +18,7 @@
        * Media
        * [Hypertext](topics/hypertext.md)
        * Creativity
+       * Topology
    * Thinking and reasoning
        * [Design thinking](topics/design_thinking.md)
        * [Critical thinking](topics/critical_thinking.md)
