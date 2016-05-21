@@ -32,18 +32,23 @@ http://www.whoi.edu/science/B/people/kamaral/hypertext.html
 2. Teach something
 3. ...
 
+## Constraints
+- Pages must contain at least one hyperlink
+- Must use example of hyperlink to perform an action as part of the story, a space.
+
 ## Steps to completion 
 1. Propose at least three story concepts
-2. Choose one concept to develop
-3. Choose a narrative structure
-4. Identify content
-5. Perform research on content
-6. Map out the story
-7. Program the story with Twine
-8. Put onto github.com
-9. Publish git repo link on course website
-10. Write project statement based on **statement standards**
-11. Obtain feedback
-12. Revise
+2. Obtain feedback
+3. Choose one concept to develop
+4. Choose a narrative structure
+5. Identify content
+6. Perform research on content
+7. Map out the story
+8. Program the story with Twine
+9. Put onto github.com
+10. Publish git repo link on course website
+11. Write project statement based on **statement standards**
+12. Obtain feedback
+13. Revise
 
 ## Deliverables
