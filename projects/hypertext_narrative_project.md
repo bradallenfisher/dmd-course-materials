@@ -71,7 +71,7 @@ The story should remain somewhere between [possible and probable](http://sds.par
 13. Revise
 
 ## Concept development
-[Concept development topic](./topics/concept_development.md)
+[Concept development topic](../topics/concept_development.md)
 
 ### Example concept development process
 Theme(issue): Poverty
