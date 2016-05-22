@@ -37,7 +37,7 @@ http://www.whoi.edu/science/B/people/kamaral/hypertext.html
 The story should remain somewhere between [possible and probable](http://sds.parsons.edu/transdesign/seminar/speculating-beyond-the-possible/), as to help readers suspend disbelief. (Every person on Earth gaining the innate ability to fly tomorrow is outside of the possible realm, whereas every person on Earth being given jet packs to fly is within the possible realm. Highly unprobable, yet possible.)
 
 ### Technical format
-* Must create a twine, and upload to github.com.
+* Must create a twine, and upload to a specified location on github.com.
 * Pages must contain at least one hyperlink
 * Must contain the following types of hyperlinks:
   - Perform an action. 
