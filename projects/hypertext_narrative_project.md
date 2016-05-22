@@ -23,13 +23,13 @@ Link to example project
 http://www.whoi.edu/science/B/people/kamaral/hypertext.html
 
 ## Tools
-[Twinery.org](https://twinery.org/)
-[Github.com](http://github.com)
+* **Developing:** Pencil and paper, Photoshop
+* **Constructing:** [Twinery.org](https://twinery.org/)
+* **Hosting:** [Github.com](http://github.com)
 
 ## Tutorials
-[Twine Tutorial](http://www.auntiepixelante.com/twine/)
-
-[Twine Wiki](http://twinery.org/wiki/twine2:guide)
+* **Learn Twine:** [Twine Tutorial](http://www.auntiepixelante.com/twine/)
+* **Master Twine:** [Twine Wiki](http://twinery.org/wiki/twine2:guide)
 
 ## Constraints
 
@@ -37,12 +37,13 @@ http://www.whoi.edu/science/B/people/kamaral/hypertext.html
 The story should remain somewhere between [possible and probable](http://sds.parsons.edu/transdesign/seminar/speculating-beyond-the-possible/), as to help readers suspend disbelief. (Every person on Earth gaining the innate ability to fly tomorrow is outside of the possible realm, whereas every person on Earth being given jet packs to fly is within the possible realm. Highly unprobable, yet possible.)
 
 ### Technical format
-- Must create a twine, and upload to github.com.
-- Pages must contain at least one hyperlink
-- Must contain the following types of hyperlinks:
+* Must create a twine, and upload to github.com.
+* Pages must contain at least one hyperlink
+* Must contain the following types of hyperlinks:
   - Perform an action. 
   - Describe a physical space (real or imagined).
-  - 
+
+### Formal constraints
 
 ## Steps to completion 
 1. Propose at least three story concepts
@@ -68,10 +69,13 @@ The story should remain somewhere between [possible and probable](http://sds.par
 The issue, otherwise known as the theme, is the impetus for writing a story in the first place. This should be based on a topic that you are passionate about and interested in exploring.
 
 ### Deconstructing the issue
-In a constructivist perspective, everything is made of smaller parts, and figure out what those parts are can lead to moments of insight.
+In a constructivist perspective, everything is made of smaller parts, and figuring out what those parts are can lead to moments of insight. You can figure out what the parts are by describing the subject and how it functions in more general, or abstract language.
 
 ### Contextualization
-Now that you have deconstructed the issue at hand, it is time to apply the insights to plausible scenarios and solution proposals.
+Now that you have deconstructed the issue at hand, it is time to apply the insights to plausible scenarios and expressions of possible solutions.
+
+### Formal presentation
+Form refers to shape of the idea's expression. Whether written, visual, or physically constructed, you give your audience a method for engaging with your ideas. Refer to the formal constraints of the project for details.
 
 ### Example concept development process
 Theme(issue): Poverty
