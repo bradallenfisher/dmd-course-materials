@@ -41,6 +41,7 @@ The story should remain somewhere between [possible and probable](http://sds.par
 
 
 ### Formal constraints
+* Non-linear narrative structure (hyperlinks allow you to experience the story in a way not tied to chronological events). You allow viewers to jump to different points along the plot diagram.
 * Text must be written with English
 * Pages must contain at least one hyperlink
 * Must contain the following types of hyperlinks:
