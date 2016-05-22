@@ -38,12 +38,17 @@ The story should remain somewhere between [possible and probable](http://sds.par
 
 ### Technical format
 * Must create a twine, and upload to a specified location on github.com.
-* Pages must contain at least one hyperlink
-* Must contain the following types of hyperlinks:
-  - Perform an action. 
-  - Describe a physical space (real or imagined).
+
 
 ### Formal constraints
+* Text must be written with English
+* Pages must contain at least one hyperlink
+* Must contain the following types of hyperlinks:
+  - Link for performing an action. 
+  - Link to a page that describes a physical space (real or imagined).
+  - Link that describes a character.
+  - Link that progresses you through the plot (can also be any of the other types of links).
+* Assessment emphasis is not placed on styling, layout, and color. You are free to style as desired through CSS and related methods allowed in the Twine. Please ensure there is enough contrast between text, background, and links to maintain readability. All default style options are acceptable for submission.
 
 ## Steps to completion 
 1. Propose at least three story concepts
