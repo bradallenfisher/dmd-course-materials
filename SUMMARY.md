@@ -5,7 +5,7 @@
    * [How to use this book](introduction/how_to_use_this_book.md)
    * [Measuring success](introduction/measuring_success.md)
 * Topics
-   * Design
+   * [Design](topics/design.md)
        * [Narrative](topics/narrative.md)
        * [Design research](topics/design_research.md)
        * [Experience Design](topics/experience_design.md)
