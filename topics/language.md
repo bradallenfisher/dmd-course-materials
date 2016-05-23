@@ -21,8 +21,8 @@ Metalanguage applies to every kind of communication, including visual, auditory,
 * Conjunction
 * Interjection
 
-**Programming language structure**  REVISE for specific language (C++)
-[The Structure of Programming Languages](http://delivery.acm.org/10.1145/370000/365175/p67-raphael.pdf?ip=146.186.230.6&id=365175&acc=ACTIVE%20SERVICE&key=A792924B58C015C1%2E782FA3A5BE459501%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=789403744&CFTOKEN=78558408&__acm__=1464020369_08a079d35c6f266dab72d91e4da148b1)
+**Programming language structure**  REVISE for specific language (C++)  
+[The Structure of Programming Languages](http://delivery.acm.org/10.1145/370000/365175/p67-raphael.pdf?ip=146.186.230.6&id=365175&acc=ACTIVE%20SERVICE&key=A792924B58C015C1%2E782FA3A5BE459501%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=789403744&CFTOKEN=78558408&__acm__=1464020369_08a079d35c6f266dab72d91e4da148b1)  
 * Elementary statements
   * Metalanguage: string, function, loop, 
 * Statement linking mechanisms
