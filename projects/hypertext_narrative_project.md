@@ -23,7 +23,7 @@ Link to example project
 http://www.whoi.edu/science/B/people/kamaral/hypertext.html
 
 ## Tools
-* **Developing:** Pencil and paper, Photoshop
+* **Ideation:** Pencil and paper, Photoshop
 * **Constructing:** [Twinery.org](https://twinery.org/)
 * **Hosting:** [Github.com](http://github.com)
 
