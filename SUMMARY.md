@@ -27,7 +27,6 @@
        * [Semiotics](topics/semiotics.md)
        * [Constructing meaning](topics/constructing_meaning.md)
        * [Language](topics/language.md)
-       * Singularity
        * Automation and AI
        * Programming
        * Color
