@@ -27,7 +27,7 @@
        * [Semiotics](topics/semiotics.md)
        * [Constructing meaning](topics/constructing_meaning.md)
        * [Language](topics/language.md)
-       * Automation and AI
+       * Automation
        * Programming
        * Color
        * Speculative design
