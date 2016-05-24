@@ -6,9 +6,9 @@
    * [Measuring success](introduction/measuring_success.md)
 * Topics
    * [Design](topics/design.md)
+       * [Experience Design](topics/experience_design.md)
        * [Narrative](topics/narrative.md)
        * [Design research](topics/design_research.md)
-       * [Experience Design](topics/experience_design.md)
        * [Open design](topics/open_design.md)
        * [Risk and innovation](topics/risk_and_innovation.md)
        * Graphic design
