@@ -36,7 +36,7 @@ A programming language can mix paradigms despite being described as a particular
 ## Social issues [Move to it's own topic and reference]
 When framing programming concepts to the way humans self-organize, you can start to gain perspective on the visible and invisible forces designing and shaping a given society.
 
-### Consent
+### Consent and choice
 - http://www2.fiu.edu/~mizrachs/consent.html
 - http://hope.journ.wwu.edu/tpilgrim/j190/Chomsky.summary.html
 
