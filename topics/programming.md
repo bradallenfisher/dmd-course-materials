@@ -23,10 +23,12 @@ Array
   * Common examples include *if statements* and *loops*
   * [AI control structures](http://www.pling.org.uk/cs/lpa.html) are very complex
 * Data Structures
-  * Describes how data is stored for efficiency and easy access
+  * Describes how data is stored and accessed
   * Common types
-    * List (a series of values)
-    * Map (id number with associated value)
+    * Linear
+    * Tree
+    * Hash
+    * Graph
 * Syntax
   * Symbol combinations that describe the program within a particular language
 
