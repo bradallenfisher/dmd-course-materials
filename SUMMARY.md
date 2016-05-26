@@ -11,7 +11,7 @@
        * [Design research](topics/design_research.md)
        * [Open design](topics/open_design.md)
        * [Risk and innovation](topics/risk_and_innovation.md)
-       * Graphic design
+       * [Graphic design](topics/graphic_design.md)
        * Industrial design
        * Architecture
        * Game design
