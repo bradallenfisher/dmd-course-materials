@@ -8,3 +8,6 @@ Sign: Signifier and signified.
 
 **Attribution:**
 http://www.cs.indiana.edu/~port/teach/103/sign.symbol.short.html
+
+Case study: Flag design
+SVA D-Crit presentation
