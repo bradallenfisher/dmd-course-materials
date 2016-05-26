@@ -47,6 +47,7 @@ When framing programming concepts to the way humans self-organize, you can start
 ### Marketing
 ### Peer groups
 ### Politics
+### Social theory
 
 ---
 [1] John Gabrieli. 9.00SC Introduction to Psychology, Fall 2011. (Massachusetts Institute of Technology: MIT OpenCourseWare), http://ocw.mit.edu (Accessed 26 May, 2016). License: Creative Commons BY-NC-SA
