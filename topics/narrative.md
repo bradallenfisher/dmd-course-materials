@@ -1,5 +1,5 @@
 # Narrative
-Story can be integral to the design process and is often times the intended product. Story is always built into a visual or physical object. The main considerations for the storytelling process are as follows:
+Story can be integral to the design process and is often times the intended product. Story is always built into a visual or physical object. Some major considerations for the storytelling include:
 
 1. Purpose
 2. Narrative structure
@@ -7,12 +7,20 @@ Story can be integral to the design process and is often times the intended prod
 4. Delivery Media
 
 ## Purpose
+>Design adds story to everyday life...
+>
+>*-Ellen Lupton, Design Fictions, https://vimeo.com/90492776*
+
 Why are you telling this story? What does it mean to be a story teller from a designer's perspective?
 
-> **Case study:** How can you tell a story to a human ten thousand years into the future with current language? This, as it turns out, is quite difficult.
-> 
-> Listen: [99% Invisible Podcast - Ten Thousand Years](http://99percentinvisible.org/episode/ten-thousand-years/) 
-> (**Tags:** language, semiotics, graphic design, storytelling)
+---
+
+**Case study:** How can you tell a story to a human ten thousand years into the future with current language? This, as it turns out, is quite difficult.
+
+Listen: [99% Invisible Podcast - Ten Thousand Years](http://99percentinvisible.org/episode/ten-thousand-years/) 
+(**Tags:** language, semiotics, graphic design, storytelling)
+
+---
 
 ## Narrative structure
 A narrative structure orders or disorders the content of a story for the audience. Hollywood film financiers tend to favor safe and time-tested structures to better the chances of a profitable return on their investment. The perception is that experimental or less used narrative structures tend to be risky investments. The same can be said for large game developers who are prone to sequels of high selling titles.
@@ -56,6 +64,9 @@ Story authors tend to design their own custom plot devices for storytelling, whi
 **Design thinking** sessions are team-based work sessions where problems are identified and quick prototypes are generated. Story can help team members empathize with the audience to create a better product or service and recognize new ways of approaching solutions.
 
 **Films, novels, drawings and paintings, comic books, and games** are products that tell a story to highlight a moral or ethical quandary, contribute to discourse on a popular or marginalized subject, or as a teaching tool. 
+
+** Podcasts**
+https://vimeo.com/150176538
 
 **Consumer products** use visual and sculptural elements to communicate how to operate or interact with it to make an object intuitive.
 
