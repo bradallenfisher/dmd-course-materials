@@ -28,7 +28,7 @@
        * [Constructing meaning](topics/constructing_meaning.md)
        * [Language](topics/language.md)
        * Automation
-       * Programming
+       * [Programming](topics/programming.md)
        * Color
        * Speculative design
        * Research
