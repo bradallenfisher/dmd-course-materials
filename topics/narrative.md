@@ -23,7 +23,7 @@ Listen: [99% Invisible Podcast - Ten Thousand Years](http://99percentinvisible.o
 ---
 
 ## Narrative structure
-A narrative structure orders or disorders the content of a story for the audience. Hollywood film financiers tend to favor safe and time-tested structures to better the chances of a profitable return on their investment. The perception is that experimental or less used narrative structures tend to be risky investments. The same can be said for large game developers who are prone to sequels of high selling titles.
+A narrative structure orders or disorders the content of a story for the audience. Hollywood film financiers tend to favor safe and time-tested structures to better the chances of a profitable return on their investment (ROI). The perception is that experimental or less used narrative structures tend to be risky investments. The same can be said for large game developers who are prone to sequels of high selling titles.
 
 This can explain why many exciting and novel stories tend to come from independent authors and screenwriters, indie game developers, indie filmmakers, and so on.
 
