@@ -6,8 +6,7 @@
  Framing a contemporary issue within the context of a fictional technological and social reality can help a designer to discover new and surprising insights. The science fiction genre does this extensively, often by showing events that result in undesired consequences, inspiring the audience into self-reflection.
  
 ## Project theme
-
-- 
+ 
 
 ## Example project
 Link to example project
