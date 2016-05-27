@@ -3,7 +3,7 @@
 ## Project description
  In this project, you will be creating a hypertext narrative. You will use software called Twine to construct a non-linear, speculative story that describes an event in the near future. The goal of your story is to allow you to explore the main issue in any way that is interesting and engaging.
  
- Framing a contemporary issue within the context of a fictional technological and social reality can allow one to discover new and surprising insights. The science fiction genre does this extensively, often by showing events that result in undesired consequences, inspiring the audience into self-reflection. To communicate these insights, yet enable viewers to draw their own conclusions, it helps to communicate in a way that is not overly didactic.
+ Framing a contemporary issue within the context of a fictional technological and social reality can help a designer to discover new and surprising insights. The science fiction genre does this extensively, often by showing events that result in undesired consequences, inspiring the audience into self-reflection. ~~To communicate these insights, yet enable viewers to draw their own conclusions, it helps to communicate in a way that is not overly didactic.~~
 
 ## Example project
 Link to example project
