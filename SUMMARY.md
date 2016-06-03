@@ -31,9 +31,14 @@
        * [Graphic design](topics/graphic_design.md)
        * Industrial design
        * Architecture
+       * Animation and VFX
+       * Entrepreneurship
    * Tools and Technology
        * Automation
        * [Programming](topics/programming.md)
+       * Digital imaging
+       * 3D
+       * Web
 * [Projects](projects.md)
    * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
    * [Speculative Design Project](projects/speculative_design_project.md)
