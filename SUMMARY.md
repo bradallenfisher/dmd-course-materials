@@ -5,19 +5,6 @@
    * [How to use this book](introduction/how_to_use_this_book.md)
    * [Measuring success](introduction/measuring_success.md)
 * Topics
-   * Methods
-       * [Concept development](topics/concept_development.md)
-       * Research
-       * Statement writing
-   * Fields
-       * [Experience Design](topics/experience_design.md)
-       * Game design
-       * [Graphic design](topics/graphic_design.md)
-       * Industrial design
-       * Architecture
-   * Tools and Technology
-       * Automation
-       * [Programming](topics/programming.md)
    * [Principles](topics/design.md)
        * [Narrative](topics/narrative.md)
        * [Open design](topics/open_design.md)
@@ -34,6 +21,19 @@
        * Color
        * Speculative design
        * Modularity
+   * Methods
+       * [Concept development](topics/concept_development.md)
+       * Research
+       * Statement writing
+   * Fields
+       * [Experience Design](topics/experience_design.md)
+       * Game design
+       * [Graphic design](topics/graphic_design.md)
+       * Industrial design
+       * Architecture
+   * Tools and Technology
+       * Automation
+       * [Programming](topics/programming.md)
 * [Projects](projects.md)
    * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
    * [Speculative Design Project](projects/speculative_design_project.md)
