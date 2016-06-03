@@ -37,6 +37,7 @@
        * Modular
        * [Concept development](topics/concept_development.md)
        * Physcology
+       * Principles
 * [Projects](projects.md)
    * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
    * [Speculative Design Project](projects/speculative_design_project.md)
