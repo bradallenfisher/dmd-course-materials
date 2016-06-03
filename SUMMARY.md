@@ -5,8 +5,11 @@
    * [How to use this book](introduction/how_to_use_this_book.md)
    * [Measuring success](introduction/measuring_success.md)
 * Topics
-   * [Design](topics/design.md)
+   * Methods
+   * Fields
        * [Experience Design](topics/experience_design.md)
+   * Tools and Technology
+   * [Principles](topics/design.md)
        * [Narrative](topics/narrative.md)
        * [Design research](topics/design_research.md)
        * [Open design](topics/open_design.md)
