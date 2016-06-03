@@ -7,6 +7,8 @@
 * Topics
    * Methods
        * [Concept development](topics/concept_development.md)
+       * Research
+       * Statement writing
    * Fields
        * [Experience Design](topics/experience_design.md)
        * Game design
@@ -22,9 +24,6 @@
        * [Risk and innovation](topics/risk_and_innovation.md)
        * Media
        * [Hypertext](topics/hypertext.md)
-       * Creativity
-       * Topology
-       * Model
        * [Design thinking](topics/design_thinking.md)
        * [Critical thinking](topics/critical_thinking.md)
        * [Systems thinking](topics/systems_thinking.md)
@@ -34,10 +33,7 @@
        * [Language](topics/language.md)
        * Color
        * Speculative design
-       * Statement writing
-       * Theme
-       * Modular
-       * Physcology
+       * Modularity
 * [Projects](projects.md)
    * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
    * [Speculative Design Project](projects/speculative_design_project.md)
