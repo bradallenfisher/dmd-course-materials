@@ -27,13 +27,14 @@ Link to example project
 http://www.whoi.edu/science/B/people/kamaral/hypertext.html
 
 ## Tools
-* **Ideation:** Pencil and paper, Photoshop
-* **Constructing:** [Twinery.org](https://twinery.org/)
-* **Hosting:** [Github.com](http://github.com)
+- **Ideation:** Pencil and paper, Photoshop
+- **Constructing:** [Twinery.org](https://twinery.org/)
+- **Hosting:** [Github.com](http://github.com)
 
 ## Tutorials
-* **Learn Twine:** [Twine Tutorial](http://www.auntiepixelante.com/twine/)
-* **Master Twine:** [Twine Wiki](http://twinery.org/wiki/twine2:guide)
+- **Video:** Video of a sample project being created
+- **Learn Twine:** [Twine Tutorial](http://www.auntiepixelante.com/twine/)
+- **Master Twine:** [Twine Wiki](http://twinery.org/wiki/twine2:guide)
 
 ## Constraints
 
@@ -41,19 +42,21 @@ http://www.whoi.edu/science/B/people/kamaral/hypertext.html
 The story should remain somewhere between [possible and probable](http://sds.parsons.edu/transdesign/seminar/speculating-beyond-the-possible/), as to help readers suspend disbelief. (Every person on Earth gaining the innate ability to fly tomorrow is outside of the possible realm, whereas every person on Earth being given jet packs to fly is within the possible realm. Highly unprobable, yet possible.)
 
 ### Technical format
-* Must create a twine, and upload to a specified location on github.com.
+
+- **Video:** Video of a sample project being created
+- Must create a twine, and upload to a specified location on github.com.
 
 
 ### Formal constraints
 * Non-linear narrative structure (hyperlinks allow you to experience the story in a way not tied to chronological events). Viewers are allowed and encouraged to jump to different points along the plot diagram.
-* Text must be written with English
+* Text must be written primarily in English language, but can make use of other languages.
 * Pages must contain at least one hyperlink
 * Must contain the following types of hyperlinks:
-  - Link for performing an action. 
-  - Link to a page that describes a physical space (real or imagined).
-  - Link that describes a character.
-  - Link that progresses you through the plot (can also be any of the other types of links).
-* Assessment emphasis is not placed on styling, layout, and color. You are free to style as desired through CSS and related methods compatible with Twine. Please ensure there is enough contrast between text, background, and links to maintain readability. All default style options are acceptable for submission.
+  - Link for performing an action. **(Example image)**
+  - Link to a page that describes a physical space (real or imagined). **(Example image)**
+  - Link that describes a character. **(Example image)**
+  - Link that progresses you through the plot (can be any of the other types of links). **(Example image)**
+* Assessment emphasis is not placed on styling, layout, and color. You are free to style as desired through CSS and related methods compatible with Twine. However, please ensure there is enough contrast between text, background, and links to maintain readability. All default style options are acceptable for submission.
 
 ## Steps to completion 
 1. Propose at least three story concepts
