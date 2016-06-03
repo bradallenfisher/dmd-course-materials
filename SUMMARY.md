@@ -45,7 +45,6 @@
    * [Speculative Design Project](projects/speculative_design_project.md)
    * [Toolkit Design Project](projects/toolkit_design_project.md)
 * Tools
-   * Digital and analogue
 * Toolkit
    * Program hub
    * Program structure
