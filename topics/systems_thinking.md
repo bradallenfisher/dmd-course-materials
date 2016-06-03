@@ -1,12 +1,12 @@
 # Systems thinking
-A design decision that considers the impact on an entire network of affected systems, rather than a specific part, is known as systems thinking. Systems are bounded, can be nested, overlap with other systems, are autonomous in operation, parts can be distributed or co-located, and interact with the larger environment.
+A design decision that considers the impact on an entire network of affected systems, rather than a specific part, is known as systems thinking. Systems are bounded, can be nested, overlap with other systems, are autonomous in operation, parts can be distributed or co-located, and interact with the larger environment. 
 
-If you consider that an expert in any given field is an expert on the system or systems situated in that field, then people who work across systems from different fields can be considered to be transdisciplinary. A transdisciplinarian is a multi-systems worker and takes liberty to follow the networked paths to make new discoveries of patterns. 
+If you consider that an expert in any given field is an expert on the system or systems situated in that field, then people who work across systems from different fields can be considered to be transdisciplinary. A transdisciplinarian is a multi-systems worker and takes liberty to follow the networked paths discovering patterns made from . 
 
 Though scholars will continue to propose and negate the existence of theory-of-everything models, one such model developed by Derek Cabrera is called DSRP which stands for Distinctions, Systems, Relationships, and Perspectives. This model shows
 
 ## Design field examples
-Cradle-to-cradle design accounts for social, economic, and ecological systems.
+Cradle-to-cradle design accounts for social, economic, and ecological systems when designing consumer products.
 
 
 ## Social issues [Move to it's own topic and reference]
