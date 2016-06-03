@@ -18,7 +18,6 @@
        * [Programming](topics/programming.md)
    * [Principles](topics/design.md)
        * [Narrative](topics/narrative.md)
-       * [Design research](topics/design_research.md)
        * [Open design](topics/open_design.md)
        * [Risk and innovation](topics/risk_and_innovation.md)
        * Media
