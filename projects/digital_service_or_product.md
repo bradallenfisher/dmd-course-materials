@@ -1,2 +1,2 @@
-# Digital service or product
+# Digital Service or Product Project
 
