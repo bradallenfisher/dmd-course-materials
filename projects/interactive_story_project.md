@@ -1,7 +1,7 @@
 # Interactive Story Project
 
 ## Brief
-
+In this project, you will create an interactive story that uses empathy for helping people better understand an issue.
 
 
 ### Examples:
