@@ -25,7 +25,7 @@
        * [Concept development](topics/concept_development.md)
        * Research
        * Statement writing
-       * [The design brief](the_design_brief.md)
+       * [The design brief](topics/the_design_brief.md)
    * Fields
        * [Experience Design](topics/experience_design.md)
        * Game design
