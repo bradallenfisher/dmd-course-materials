@@ -21,6 +21,7 @@
        * Color
        * Speculative design
        * Modularity
+       * Sound
    * Methods
        * [Concept development](topics/concept_development.md)
        * Research
