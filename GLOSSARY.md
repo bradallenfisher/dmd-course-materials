@@ -11,3 +11,5 @@ Design approach that incorporates biomimicry as model for processing materials t
 ## Empathy
 
 Being in the position of another person to better understand their unique perspective.
+
+Designers can use empathy as a tool in the design process to better predict the way people might assign value, interact, and respond to products and services.
