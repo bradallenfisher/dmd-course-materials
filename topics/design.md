@@ -1,5 +1,5 @@
-# Design
-There is one central idea that is reiterated in countless books about design. The notion is this – everything a person experiences, from the time they wake up to the time they go to bed, has been designed by someone. Steve Jobs famously recounts this idea,
+# Design Principles
+There is one central idea that is reiterated in countless books about design. The notion is this; everything a person experiences, from the time they wake up to the time they go to bed, has been designed by someone. Steve Jobs famously recounts this idea,
 
 > When you grow up you tend to get told the world is the way it is and you're life is just to live your life inside the world. 
 > 
