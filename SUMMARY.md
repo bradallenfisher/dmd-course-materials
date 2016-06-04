@@ -44,6 +44,7 @@
    * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
    * [Speculative Design Project](projects/speculative_design_project.md)
    * [Toolkit Design Project](projects/toolkit_design_project.md)
+   * Interactive Story Project
 * Toolkit
    * Program hub
    * Program structure
