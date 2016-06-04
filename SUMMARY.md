@@ -47,6 +47,7 @@
    * [Speculative Design Project](projects/speculative_design_project.md)
    * [Toolkit Design Project](projects/toolkit_design_project.md)
    * [Interactive Story Project](projects/interactive_story_project.md)
+   * Digital service or product
 * Toolkit
    * Program hub
    * Program structure
