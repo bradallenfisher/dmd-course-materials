@@ -26,6 +26,7 @@
        * Research
        * Statement writing
        * [The design brief](topics/the_design_brief.md)
+       * Two Diamonds
    * Fields
        * [Experience Design](topics/experience_design.md)
        * Game design
