@@ -5,7 +5,7 @@
    * [How to use this book](introduction/how_to_use_this_book.md)
    * [Measuring success](introduction/measuring_success.md)
 * Topics
-   * [Principles](topics/design.md)
+   * Principles
        * [Narrative](topics/narrative.md)
        * [Open design](topics/open_design.md)
        * [Risk and innovation](topics/risk_and_innovation.md)
@@ -36,7 +36,6 @@
        * Architecture
        * Animation and VFX
        * Entrepreneurship
-       * [Design](topics/design.md)
    * Tools and Technology
        * Automation
        * [Programming](topics/programming.md)
