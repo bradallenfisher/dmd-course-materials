@@ -36,6 +36,7 @@
        * Architecture
        * Animation and VFX
        * Entrepreneurship
+       * Design
    * Tools and Technology
        * Automation
        * [Programming](topics/programming.md)
