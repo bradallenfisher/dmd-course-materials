@@ -53,5 +53,5 @@
    * Program structure
    * [Advising](toolkit/advising.md)
    * Social media
-   * Career trajectory
+   * [Career trajectory](toolkit/career_trajectory.md)
 
