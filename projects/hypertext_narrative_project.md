@@ -29,7 +29,7 @@
 ## Learning resources
 
 ### Readings and screenings
-**Todo:** Locate readings and video that elaborate on project goals.
+**[Locate readings and video that elaborate on project goals.]**
 
 [Why No One Clicked on the Great Hypertext Story](http://www.wired.com/2013/04/hypertext/)
 
