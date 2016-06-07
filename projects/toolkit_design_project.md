@@ -10,6 +10,8 @@ Your toolkit must be feasible for a person to complete in an hour.
 ### Example toolkit
 
 ### Design case study
+https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/22800/Au_washington_0250E_11500.pdf?sequence=1
+
 ## Learning resources
 ### Software:
 Illustrator tutorial
