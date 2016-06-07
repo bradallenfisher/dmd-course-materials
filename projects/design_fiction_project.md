@@ -22,3 +22,28 @@ Drawing for design: Pencil and paper tutorial **[Must produce or find a video fo
 ## Steps to completion
 
 ## Deliverables
+
+---
+
+
+**Pre-req Topics:**
+1. Divergent thinking
+2. Convergent thinking
+3. Observation
+4. Futurecasting
+5. Drawing/illustrating for communication
+6. Research
+7. Design Thinking
+8. Journey Mapping
+9. Empathy activities
+10. top down, bottom up
+11. Universal & Accessible Design
+12. Audience
+13. Sustainability
+14. Creating Personas
+15. Meaning
+16. Constraints
+17. Obstructions
+18. Reasoning
+19. Deductive, inductive, and abductive sensemaking
+
