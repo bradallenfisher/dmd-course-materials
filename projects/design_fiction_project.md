@@ -13,5 +13,6 @@ Design fictions are useful for referencing current issues, while proposing how s
 Topic: [Speculative Design](../topics/speculative_design.md)
 ### Readings and screenings
 ### Tools and techniques
+Drawing for design: Pencil and paper tutorial **[Must produce or find a video for this]**
 ## Steps to completion
 ## Deliverables
