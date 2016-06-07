@@ -9,7 +9,7 @@
  
 
 ## Example project
-Link to example project
+**[Create example project and tutorial]**
 
 ## Readings and screenings
 **Todo:** Locate readings and video that elaborate on project goals.
