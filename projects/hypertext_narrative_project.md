@@ -44,6 +44,7 @@
 http://www.whoi.edu/science/B/people/kamaral/hypertext.html
 
 ### Tools and techniques
+- Topic: [Concept development](../topics/concept_development.md)
 - **Ideation:** Pencil and paper, Photoshop **[Produce example and tutorial]**
 - **Constructing:** [Twinery.org](https://twinery.org/) **[Produce example and tutorial]**
 - **Hosting:** [Github.com](http://github.com) **[Produce example and tutorial]**
@@ -68,8 +69,5 @@ http://www.whoi.edu/science/B/people/kamaral/hypertext.html
 11. Write project statement based on **statement standards**
 12. Obtain feedback
 13. Revise
-
-## Concept development
-[Concept development topic](../topics/concept_development.md)
 
 ## Deliverables
