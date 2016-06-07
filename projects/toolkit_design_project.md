@@ -13,6 +13,7 @@ Your toolkit must be feasible for a person to complete in an hour.
 ## Learning resources
 ### Software:
 Illustrator tutorial
+
 PDF creation tutorial
 
 ### Concepts:
