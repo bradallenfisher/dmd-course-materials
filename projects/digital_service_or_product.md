@@ -1,11 +1,16 @@
 # Digital Service or Product Project
-## Brief
+## Project brief
 In this project, you will create an digital service or product based on [sustainable design](../topics/sustainable_design.md) principles.
+ 
+### Scope and constraints
+### Technical format
+### Formal constraints
+### Example project
 
+## Learning resources
 
-
-## Tools
-
+### Readings and screenings
+### Tools and techniques
 1. Research
   - 
 2. Ideation
@@ -14,3 +19,12 @@ In this project, you will create an digital service or product based on [sustain
   - InvisionApp
 
 
+
+## Steps to completion
+## Deliverables
+---
+
+**Learning outcomes:**
+
+
+**Pre-req Topics:**
