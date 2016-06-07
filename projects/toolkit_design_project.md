@@ -6,7 +6,7 @@ In this project, you will be designing a toolkit. Toolkits are developed as a me
 Project must contain a set of step-by-step, visual instructions specifying an approximate time it should take a person to complete each step.
 
 ### Scope and constraints
-You will be creating a downloadable PDF document that anyone can print and use. Your toolkit must be feasible for a person to complete in an hour.
+You will be creating a downloadable PDF document that anyone can print and use **[Should this also be something to also teach accessible design? Then a web version should be produced instead]**. Your toolkit must be feasible for a person to complete in an hour.
 
 ### Example project
 
