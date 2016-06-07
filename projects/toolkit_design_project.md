@@ -7,10 +7,10 @@ In this project, you will be designing a toolkit. Toolkits are developed as a me
 You will be creating a PDF document that anyone can print out and use.
 Your toolkit must be feasible for a person to complete in an hour.
 
-### Example toolkit
+### Example project
 
-### Design case study
-https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/22800/Au_washington_0250E_11500.pdf?sequence=1
+
+### Case studies
 
 ## Learning resources
 ### Software:
@@ -19,7 +19,9 @@ Illustrator tutorial
 PDF creation tutorial
 
 ### Concepts:
-Graphic design
+Form design: [What Difference Does a Form Make: Redesign and Evaluation of a Form for Documenting In-Hospital Cardiac Arrest](https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/22800/Au_washington_0250E_11500.pdf?sequence=1)
+
+
 
 ### Readings and screenings
 ### Tools and techniques
