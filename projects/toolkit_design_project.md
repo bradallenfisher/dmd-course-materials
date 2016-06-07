@@ -8,7 +8,7 @@ Project must contain a set of step-by-step, visual instructions specifying an ap
 
 ### Scope and constraints
 
-You will be creating a downloadable PDF document that anyone can print and use **[Should this also be something to also teach accessible design? Then a web version should be produced instead]**. Your toolkit must be feasible for a person to complete in an hour.
+You will be creating a web-based toolkit that uses hyperlinks and principles of narrative to guide a person through the use of the toolkit. Must follow accessibility guidelines. The toolkit must be feasible for a person to complete in an hour.
 
 ### Example project
 
