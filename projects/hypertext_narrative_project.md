@@ -5,7 +5,7 @@
  
  Framing a contemporary issue within the context of a fictional technological and social reality can help a designer to discover new and surprising insights. The science fiction genre does this extensively, often by showing events that result in undesired consequences, inspiring the audience into self-reflection.
  
-### Scope
+### Scope and constraints
  
 
 ### Example project
@@ -36,9 +36,6 @@ http://www.whoi.edu/science/B/people/kamaral/hypertext.html
 - **Master Twine:** [Twine Wiki](http://twinery.org/wiki/twine2:guide)
 
 ## Constraints
-
-### Inside realm of possibility
-The story should remain somewhere between [possible and probable](http://sds.parsons.edu/transdesign/seminar/speculating-beyond-the-possible/), as to help readers suspend disbelief. (Every person on Earth gaining the innate ability to fly tomorrow is outside of the possible realm, whereas every person on Earth being given jet packs to fly is within the possible realm. Highly unprobable, yet possible.)
 
 ### Technical format
 
