@@ -71,3 +71,17 @@ http://www.whoi.edu/science/B/people/kamaral/hypertext.html
 13. Revise
 
 ## Deliverables
+
+
+---
+
+
+**Pre-req Topics:**
+1. Narrative
+2. Hypertext
+3. Language
+4. Constructing meaning
+5. Concept development
+6. Curation
+7. Remix
+8. Intellectual property
