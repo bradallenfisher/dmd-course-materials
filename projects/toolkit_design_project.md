@@ -9,6 +9,7 @@ Your toolkit must be feasible for a person to complete in an hour.
 
 ### Example project
 Project management toolkit **[include same delvierables as this assignment]**
+- This will also double as an included tool for helping students manage their creative projects! Sneaky!
 
 ### Case studies
 
