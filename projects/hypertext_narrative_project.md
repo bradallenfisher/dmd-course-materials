@@ -44,7 +44,7 @@
 http://www.whoi.edu/science/B/people/kamaral/hypertext.html
 
 ### Tools and techniques
-- Topic: [Concept development](../topics/concept_development.md)
+- [Concept development](../topics/concept_development.md)
 - **Ideation:** Pencil and paper, Photoshop **[Produce example and tutorial]**
 - **Constructing:** [Twinery.org](https://twinery.org/) **[Produce example and tutorial]**
 - **Hosting:** [Github.com](http://github.com) **[Produce example and tutorial]**
