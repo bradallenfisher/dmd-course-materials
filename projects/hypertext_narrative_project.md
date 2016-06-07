@@ -75,6 +75,8 @@ http://www.whoi.edu/science/B/people/kamaral/hypertext.html
 
 ---
 
+**Learning outcomes:**
+
 
 **Pre-req Topics:**
 1. Narrative
