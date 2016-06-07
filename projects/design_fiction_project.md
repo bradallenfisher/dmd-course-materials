@@ -25,6 +25,9 @@ Drawing for design: Pencil and paper tutorial **[Must produce or find a video fo
 
 ---
 
+**Learning outcomes:**
+
+
 
 **Pre-req Topics:**
 1. Divergent thinking
