@@ -59,7 +59,14 @@ Based on [Double Diamond](../topics/double_diamond.md) method.
 
 
 ---
-
+1. Narrative
+2. Hypertext
+3. Language
+4. Constructing meaning
+5. Concept development
+6. Curation
+7. Remix
+8. Intellectual property
 Tools and technology
 Community
 eco-politics
