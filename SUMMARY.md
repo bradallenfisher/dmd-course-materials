@@ -54,5 +54,5 @@
    * [Advising](toolkit/advising.md)
    * Social media
    * [Career trajectory](toolkit/career_trajectory.md)
-   * Project Management
+   * [Project Management](toolkit/project_management.md)
 
