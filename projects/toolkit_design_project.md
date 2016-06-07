@@ -69,7 +69,7 @@ Based on [Double Diamond](../topics/double_diamond.md) method.
 6. Curation
 7. Remix
 8. Intellectual property
-9. 1. Divergent thinking
+9. Divergent thinking
 10. Convergent thinking
 11. Observation
 12. Futurecasting
