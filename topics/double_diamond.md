@@ -8,7 +8,7 @@
 ### Solution Proposal
 
 ## Deliverables
-### Research investigation boards
+### Research investigation
 ### Re-briefing presentation, How might we questions
 ### Ideation process documentation
 ### Development log/journal
