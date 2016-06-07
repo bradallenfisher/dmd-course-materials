@@ -32,7 +32,8 @@ PDF creation tutorial
 5. Produce documentation
 6. Iterate design
 7. Publish
-8. Relfect
+8. Reflect
+
 ## Deliverables
 Based on [Double Diamond](../topics/double_diamond.md) method.
 
