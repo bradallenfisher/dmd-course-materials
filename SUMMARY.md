@@ -19,7 +19,7 @@
        * [Constructing meaning](topics/constructing_meaning.md)
        * [Language](topics/language.md)
        * Color
-       * Speculative design
+       * [Speculative design](topics/speculative_design.md)
        * Modularity
        * Sound
    * Methods
