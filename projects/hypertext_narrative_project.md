@@ -7,6 +7,21 @@
  
 ### Scope and constraints
  
+### Technical format
+
+- **Video:** Video of a sample project being created
+- Must create a twine, and upload to a specified location on github.com.
+
+### Formal constraints
+* Non-linear narrative structure (hyperlinks allow you to experience the story in a way not tied to chronological events). Viewers are allowed and encouraged to jump to different points along the plot diagram.
+* Text must be written primarily in English language, but can make use of other languages.
+* Pages must contain at least one hyperlink
+* Must contain the following types of hyperlinks:
+  - Link for performing an action. **(Example image)**
+  - Link to a page that describes a physical space (real or imagined). **(Example image)**
+  - Link that describes a character. **(Example image)**
+  - Link that progresses you through the plot (can be any of the other types of links). **(Example image)**
+* Assessment emphasis is not placed on styling, layout, and color. You are free to style as desired through CSS and related methods compatible with Twine. However, please ensure there is enough contrast between text, background, and links to maintain readability. All default style options are acceptable for submission.
 
 ### Example project
 **[Create example project and tutorial]**
@@ -34,25 +49,6 @@ http://www.whoi.edu/science/B/people/kamaral/hypertext.html
 - **Hosting:** [Github.com](http://github.com) **[Produce example and tutorial]**
 - **Learn Twine:** [Twine Tutorial](http://www.auntiepixelante.com/twine/)
 - **Master Twine:** [Twine Wiki](http://twinery.org/wiki/twine2:guide)
-
-## Constraints
-
-### Technical format
-
-- **Video:** Video of a sample project being created
-- Must create a twine, and upload to a specified location on github.com.
-
-
-### Formal constraints
-* Non-linear narrative structure (hyperlinks allow you to experience the story in a way not tied to chronological events). Viewers are allowed and encouraged to jump to different points along the plot diagram.
-* Text must be written primarily in English language, but can make use of other languages.
-* Pages must contain at least one hyperlink
-* Must contain the following types of hyperlinks:
-  - Link for performing an action. **(Example image)**
-  - Link to a page that describes a physical space (real or imagined). **(Example image)**
-  - Link that describes a character. **(Example image)**
-  - Link that progresses you through the plot (can be any of the other types of links). **(Example image)**
-* Assessment emphasis is not placed on styling, layout, and color. You are free to style as desired through CSS and related methods compatible with Twine. However, please ensure there is enough contrast between text, background, and links to maintain readability. All default style options are acceptable for submission.
 
 ## Steps to completion 
 1. Propose at least three story concepts
