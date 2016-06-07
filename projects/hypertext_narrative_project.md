@@ -1,6 +1,6 @@
 # Hypertext Narrative Project
 ![Photo of clouds and a small airplane contrail](https://unsplash.it/3000/1500?image=38)
-## Project description
+## Project brief
  In this project, you will be creating a hypertext narrative. You will use software called Twine to construct a non-linear, speculative story that describes an event in the near future. The goal of your story is to allow you to explore the main issue in any way that is interesting and engaging.
  
  Framing a contemporary issue within the context of a fictional technological and social reality can help a designer to discover new and surprising insights. The science fiction genre does this extensively, often by showing events that result in undesired consequences, inspiring the audience into self-reflection.
