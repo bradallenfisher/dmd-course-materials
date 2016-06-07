@@ -60,7 +60,7 @@ Based on [Double Diamond](../topics/double_diamond.md) method.
 
 ---
 
-
+**Pre-req Topics:**
 1. Narrative
 2. Hypertext
 3. Language
