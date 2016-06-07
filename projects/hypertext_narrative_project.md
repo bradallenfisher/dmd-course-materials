@@ -32,9 +32,6 @@ http://www.whoi.edu/science/B/people/kamaral/hypertext.html
 - **Ideation:** Pencil and paper, Photoshop **[Produce example and tutorial]**
 - **Constructing:** [Twinery.org](https://twinery.org/) **[Produce example and tutorial]**
 - **Hosting:** [Github.com](http://github.com) **[Produce example and tutorial]**
-
-## Tutorials
-- **Video:** Video of a sample project being created
 - **Learn Twine:** [Twine Tutorial](http://www.auntiepixelante.com/twine/)
 - **Master Twine:** [Twine Wiki](http://twinery.org/wiki/twine2:guide)
 
