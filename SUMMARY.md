@@ -44,7 +44,7 @@
        * Web
 * [Projects](projects.md)
    * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
-   * [Design Fiction Project](projects/speculative_design_project.md)
+   * [Design Fiction Project](projects/design_fiction_project.md)
    * [Toolkit Design Project](projects/toolkit_design_project.md)
    * [Interactive Story Project](projects/interactive_story_project.md)
    * [Digital Service or Product Project](projects/digital_service_or_product.md)
