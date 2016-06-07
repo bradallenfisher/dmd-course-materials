@@ -22,7 +22,7 @@
        * [Speculative design](topics/speculative_design.md)
        * Modularity
        * Sound
-       * Sustainable design
+       * [Sustainable design](topics/sustainable_design.md)
    * Methods
        * [Concept development](topics/concept_development.md)
        * Research
