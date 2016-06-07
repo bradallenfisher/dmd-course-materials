@@ -8,7 +8,7 @@ You will be creating a PDF document that anyone can print out and use.
 Your toolkit must be feasible for a person to complete in an hour.
 
 ### Example project
-
+Project management toolkit [include same delvierables as this assignment]
 
 ### Case studies
 
