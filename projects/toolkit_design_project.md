@@ -27,3 +27,16 @@ Form design: [What Difference Does a Form Make: Redesign and Evaluation of a For
 ### Tools and techniques
 ## Steps to completion
 ## Deliverables
+
+Delvierables based on [Double Diamond](../topics/double_diamond.md)
+
+1. Research investigation
+  - Images and tags (some kind of studio interface?)
+2. Re-briefing presentation, How might we questions
+  - Blog post with write-up
+3. Ideation process documentation
+  - Blog post with images (on personal portfolio site) 
+4. Development log/journal
+  - Blog post: Discuss design iterations based on feedback 
+5. Proposed solution
+  - PDF Document
