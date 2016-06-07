@@ -29,6 +29,7 @@ You will be creating a downloadable PDF document that anyone can print and use *
 - PDF creation tutorial **[Locate on Lynda.com and youtube]**
 
 ## Steps to completion
+
 1. Go through the Double Diamond process
 2. Test and obtain feedback **[link to testing methodology from stanford d.school's toolkit]**
 3. Produce documentation
@@ -40,6 +41,7 @@ You will be creating a downloadable PDF document that anyone can print and use *
 8. Reflect
 
 ## Deliverables
+
 Based on [Double Diamond](../topics/double_diamond.md) method.
 
 1. Research investigation
