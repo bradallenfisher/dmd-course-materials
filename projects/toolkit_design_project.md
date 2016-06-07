@@ -60,6 +60,9 @@ Based on [Double Diamond](../topics/double_diamond.md) method.
 
 ---
 
+**Learning outcomes:**
+
+
 **Pre-req Topics:**
 1. Narrative
 2. Hypertext
