@@ -9,19 +9,23 @@ Project must contain a set of step-by-step, visual instructions specifying an ap
 You will be creating a downloadable PDF document that anyone can print and use. Your toolkit must be feasible for a person to complete in an hour.
 
 ### Example project
-[Project management toolkit](../toolkit/project_management.md) **[include same delvierables as this assignment]**
-- This will also double as an included tool for helping students manage their creative projects! *Sneaky!*
+
 
 ### Case studies
 
 ## Learning resources
+
 ### Readings and screenings
+
 Form design: [What Difference Does a Form Make: Redesign and Evaluation of a Form for Documenting In-Hospital Cardiac Arrest](https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/22800/Au_washington_0250E_11500.pdf?sequence=1)
+
 ### Tools and techniques
 
-Illustrator tutorial
-
-PDF creation tutorial
+- Tutorial: Creating a toolkit tutorial from start to finish
+  - [Project management toolkit](../toolkit/project_management.md) **[include same delvierables as this assignment]**
+    - This will also double as an included tool for helping students manage their creative projects! *Sneaky!*
+- Illustrator tutorial **[Locate on Lynda.com and youtube]**
+- PDF creation tutorial **[Locate on Lynda.com and youtube]**
 
 ## Steps to completion
 1. Go through the Double Diamond process
