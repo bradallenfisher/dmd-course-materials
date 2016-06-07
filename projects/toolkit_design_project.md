@@ -29,7 +29,10 @@ PDF creation tutorial
 3. Produce documentation
 3. Iterate design
 4. Test and obtain feedback
-5. Produce doc
+5. Produce documentation
+6. Iterate design
+7. Publish
+8. Relfect
 ## Deliverables
 Based on [Double Diamond](../topics/double_diamond.md) method.
 
@@ -43,3 +46,4 @@ Based on [Double Diamond](../topics/double_diamond.md) method.
   - Blog post: Discuss design iterations based on feedback 
 5. Proposed solution
   - PDF Document
+  - Blog post reflection on project
