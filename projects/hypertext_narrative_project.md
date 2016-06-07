@@ -5,13 +5,15 @@
  
  Framing a contemporary issue within the context of a fictional technological and social reality can help a designer to discover new and surprising insights. The science fiction genre does this extensively, often by showing events that result in undesired consequences, inspiring the audience into self-reflection.
  
-## Project theme
+### Scope
  
 
-## Example project
+### Example project
 **[Create example project and tutorial]**
 
-## Readings and screenings
+## Learning resources
+
+### Readings and screenings
 **Todo:** Locate readings and video that elaborate on project goals.
 
 [Why No One Clicked on the Great Hypertext Story](http://www.wired.com/2013/04/hypertext/)
@@ -26,10 +28,10 @@
 
 http://www.whoi.edu/science/B/people/kamaral/hypertext.html
 
-## Tools
-- **Ideation:** Pencil and paper, Photoshop
-- **Constructing:** [Twinery.org](https://twinery.org/)
-- **Hosting:** [Github.com](http://github.com)
+### Tools and techniques
+- **Ideation:** Pencil and paper, Photoshop **[Produce example and tutorial]**
+- **Constructing:** [Twinery.org](https://twinery.org/) **[Produce example and tutorial]**
+- **Hosting:** [Github.com](http://github.com) **[Produce example and tutorial]**
 
 ## Tutorials
 - **Video:** Video of a sample project being created
