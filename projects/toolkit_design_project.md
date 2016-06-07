@@ -59,6 +59,8 @@ Based on [Double Diamond](../topics/double_diamond.md) method.
 
 
 ---
+
+
 1. Narrative
 2. Hypertext
 3. Language
@@ -67,15 +69,34 @@ Based on [Double Diamond](../topics/double_diamond.md) method.
 6. Curation
 7. Remix
 8. Intellectual property
-Tools and technology
-Community
-eco-politics
-Activism
-Standards
-DIY and hacking
-Heuristics
-Frameworks & Economies of scale
-Adapting frameworks
-Project Documentation
-Presentation guidelines
-Social media and web presence
+9. 1. Divergent thinking
+10. Convergent thinking
+11. Observation
+12. Futurecasting
+13. Drawing/illustrating for communication
+14. Research
+15. Design Thinking
+16. Journey Mapping
+17. Empathy activities
+18. top down, bottom up
+19. Universal & Accessible Design
+20. Audience
+21. Sustainability
+22. Creating Personas
+23. Meaning
+24. Constraints
+25. Obstructions
+26. Reasoning
+27. Deductive, inductive, and abductive sensemaking
+28. Tools and technology
+29. Community
+30. eco-politics
+31. Activism
+32. Standards
+33. DIY and hacking
+34. Heuristics
+35. Frameworks & Economies of scale
+36. Adapting frameworks
+37. Project Documentation
+38. Presentation guidelines
+39. Social media and web presence
