@@ -55,3 +55,20 @@ Based on [Double Diamond](../topics/double_diamond.md) method.
 5. Proposed solution
   - PDF Document
   - Blog post reflection on project
+
+
+
+---
+
+Tools and technology
+Community
+eco-politics
+Activism
+Standards
+DIY and hacking
+Heuristics
+Frameworks & Economies of scale
+Adapting frameworks
+Project Documentation
+Presentation guidelines
+Social media and web presence
