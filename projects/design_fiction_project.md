@@ -9,6 +9,7 @@ Design fictions are useful for referencing current issues, and yet proposing how
 ## Project breif
 
 ## Learning resources
+[Speculative Design](../topics/speculative_design.md)
 ### Readings and screenings
 ### Tools and techniques
 ## Steps to completion
