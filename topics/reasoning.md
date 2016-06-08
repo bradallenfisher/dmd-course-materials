@@ -1,3 +1,1 @@
-# Reasoning
-
-## Mental models
+# Mental models
