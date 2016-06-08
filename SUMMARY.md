@@ -14,7 +14,7 @@
        * [Design thinking](topics/design_thinking.md)
        * [Critical thinking](topics/critical_thinking.md)
        * [Systems thinking](topics/systems_thinking.md)
-       * [Reasoning](topics/reasoning.md)
+       * [Mental model](topics/reasoning.md)
        * [Semiotics](topics/semiotics.md)
        * [Constructing meaning](topics/constructing_meaning.md)
        * [Language](topics/language.md)
