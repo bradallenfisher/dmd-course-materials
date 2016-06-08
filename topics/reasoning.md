@@ -1,1 +1,1 @@
-# Mental models
+# Mental model
