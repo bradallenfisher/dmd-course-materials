@@ -2,13 +2,13 @@
 ![Photo of an old collection of tools hanging on a wall](https://unsplash.it/3000/1500?image=284)
 ## Project brief
 
-In this project, you will be designing a toolkit. Toolkits are developed as a means to help people put learned concepts into practice. This project will result in the development of a toolkit that includes two step; a concept teaching step and an implementation step. You will help users of your toolkit generate ideas and then put those ideas into action.
+In this project, you will be designing a toolkit. Toolkits are developed as a means to help people put learned concepts into practice. This project will result in the development of a toolkit that includes two steps; a concept teaching step and an implementation step. You will help users of your toolkit generate ideas and then put those ideas into action.
 
 Project must contain a set of step-by-step, visual instructions specifying an approximate time it should take a person to complete each step.
 
 ### Scope and constraints
 
-You will be creating a web-based toolkit that uses hyperlinks and principles of narrative to guide a person through the use of the toolkit. Must follow accessibility guidelines. The toolkit must be feasible for a person to complete in an hour.
+You will be creating a web-based toolkit that uses hyperlinks and principles of narrative to guide a person through the use of the toolkit. The toolkit must follow accessibility guidelines. The toolkit must be feasible for a person to complete in an hour.
 
 ### Example project
 
