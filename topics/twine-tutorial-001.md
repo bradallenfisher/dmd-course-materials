@@ -15,9 +15,9 @@ In this tutorial, you will be guided through the steps to create a simple hypter
   - You will see that a new passage has been created automatically called "Go away."
   - The untitled passage should now be named ***Begin***.
 8. Double click on ***Go away*** to go into edit mode.
-9. Type the following text into the body: ```Wait. [[Come back!|Begin]].```
+9. Type the following text into the body: ```Wait. [[Come back!|Begin]]```
 10. Press escape or click the x to close edit mode.
 11. Press the Play button to test the story.
-12. If done correctly you will see the following.
+12. If done correctly you will see the following:
    
 
