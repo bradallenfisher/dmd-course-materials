@@ -1,7 +1,7 @@
 # Digital Multimedia Design
 
 
-This book is meant to be a companion as you progress through your education. It is designed to evolve over time, becoming more inclusive of the relevant topics and ideas. This book is an example of open design. Topic areas feed seamlessly into learning systems to aid in the formation of courses. Reading ahead is encouraged. 
+This book is meant to be a companion as you progress through your education in the Digital Multimedia Design Program. Topics will be continually added and removed as necessary.
 
 ## Contributing
-To recommend additions to this book, submit a [pull request on github.com](https://github.com/dmd-program/dmd-course-materials).
+To recommend additions or alterations to this book, submit a [pull request on github.com](https://github.com/dmd-program/dmd-course-materials) or file an issue in the [issue queue](https://github.com/dmd-program/dmd-course-materials/issues).
