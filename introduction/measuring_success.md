@@ -1,8 +1,3 @@
----
-Todo: Rewrite section for tone and structure.
-
----
-
 # Measuring success
 
 To measure success in a way that we can compare one to another, we must have a common understanding about what we mean by success and what we mean by measurement. Some key aspects of success are not overtly teachable, measurable, or relevant for everyone. Determining what success looks like is difficult, as the qualities of a successful student can be different in given contexts. Therefore, to have a universal measurement system that works to any degree of accuracy often means that objective and quantifiable metrics are chosen over subjective and qualitative metrics – and the former of which may be poor indicators of success for a multifaceted design program.
