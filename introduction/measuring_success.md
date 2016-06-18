@@ -7,7 +7,7 @@ Todo: Rewrite section for tone and structure.
 
 To measure success, we must have a common understanding about what we mean by success and what we mean by measurement. Some key aspects of success are not teachable, measurable, or relevant for everyone. Determining measurement metrics is also no small ordeal, as there would first need to be a universally agreed upon notion of success.
 
-In many educational institutions, the grade point average (GPA) measures a student's ability to meet the success metrics as set by an instructor or governing assessment entity. It is possible that there is correlation between GPA and success post graduation, but a high GPA does not guarantee a person will get a job, become well-rounded, or be prepared for the unexpected challenges ahead. Design is a constant struggle against ignorance and the forces underlying poor decisions. In this program, a successful students will require the following:
+In many educational institutions, the grade point average (GPA) measures a student's ability to meet the success metrics as set by an instructor or governing assessment entity. It is possible that there is correlation between GPA and success post graduation, but a high GPA does not guarantee a person will get a job, become well-rounded, or be prepared for the unexpected challenges ahead. Therefore, a better indicator of success is more likely determined by a student's ability to apply decision making and problem solving capabilities to overcome obstacles. Capable design students have the following attributes:
  
  1. Adaptability
    - shift mental models to approach problems differently
@@ -22,3 +22,5 @@ In many educational institutions, the grade point average (GPA) measures a stude
  4. Perseverance
    - iterate to the best result within constraints
    - apply time an energy
+ 5. Skill
+   - what you can do
