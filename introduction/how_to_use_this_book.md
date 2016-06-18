@@ -1,3 +1,3 @@
 # How to use this book
 
- When we set out to make this program, we knew we wanted to take a very different approach. This digital book is intended as an evolving index for design knowledge. As you progress through your academic career, you will see these topics emerge as part of your coursework and personal investigation. Thousands of books, articles, papers, essays, films, and blog posts have been created about the multifaceted issues explored in the DMD program.
+ This digital book is intended as an evolving index for design knowledge. As you progress through your academic career, you will see these topics emerge as part of your coursework and personal investigation. Thousands of books, articles, papers, essays, films, and blog posts have been created about the multifaceted issues explored in the DMD program.
