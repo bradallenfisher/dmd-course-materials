@@ -18,6 +18,8 @@ In this tutorial, you will be guided through the steps to create a simple hypter
 9. Type the following text into the body: ```I kept quite still and said nothing. For a whole hour I did not move a muscle, and in the meantime I did not hear him lie down. He was still sitting up in the bed listening;--just as I have done, night after night, hearkening to the death watches in the wall. [[Go Back|Start]]```
 10. Press escape or click the x to close edit mode.
 11. Press the Play button to test the story.
-  - 
+12. Publish the story to HTML by choosing
    
+## Using the grid to visualize the plot
 
+Because Twine has
