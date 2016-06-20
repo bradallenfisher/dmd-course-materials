@@ -51,7 +51,7 @@
    * [Interactive Story Project](projects/interactive_story_project.md)
    * [Digital Service or Product Project](projects/digital_service_or_product.md)
 * Exercises
-   * Linear Narrative
+   * [Linear Narrative](practice/linear_narrative.md)
    * Non-linear Narrative
    * Drawing a Journey Map
    * Diagram a Daily Habbit
