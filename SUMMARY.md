@@ -53,6 +53,7 @@
 * Exercises
    * Linear Narrative
    * Non-linear Narrative
+   * Drawing a Journey Map
 * Toolkit
    * Program hub
    * Program structure
