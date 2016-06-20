@@ -2,12 +2,14 @@
 ![Photo of a dissasembled consumer camera with its parts neatly laid out on a table](https://unsplash.it/3000/1500?image=36)
 ## Breif
 
-Design fictions are useful for referencing current issues, while proposing how something could be. In this project, you will design and prototype a fictional ...
+Design fictions are useful for referencing current issues, while proposing how something could be. In this project, you will design and prototype a fictional interface that connects you with another person.
 
 
 [Insert passage from educause paper](http://files.eric.ed.gov/fulltext/EJ1043438.pdf)
 
 ### Scope
+You will produce interface mockups and visualizations of scenarios in which the interface is used.
+
 
 ## Learning resources
 
