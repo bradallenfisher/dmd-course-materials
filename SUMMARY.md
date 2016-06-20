@@ -55,6 +55,7 @@
    * Non-linear Narrative
    * Drawing a Journey Map
    * Diagram a Daily Habit
+   * Curating for an Idea
 * Toolkit
    * Program hub
    * Program structure
