@@ -9,9 +9,12 @@ Steps:
 3. Establish characters, settings, and point of view.
 4. Summarize the story
 5. Visualize the narrative arc and plot points using Twinery.org
-  - See tutorial
+  - Twine tutorial
 6. Write in plot details
 7. Refine and edit
+8. Publish
+  - Publishing tutorial 
+9. Share
 
 ---
 
