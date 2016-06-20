@@ -54,7 +54,7 @@
 * Practice
    * [Linear Narrative](practice/linear_narrative.md)
    * [Non-linear Narrative](practice/non-linear_narrative.md)
-   * Drawing a Journey Map
+   * [Drawing a Journey Map](practice/drawing_a_journey_map.md)
    * Diagram a Daily Habit
    * Curating for an Idea
    * Design Intervention
