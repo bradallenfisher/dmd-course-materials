@@ -1,8 +1,14 @@
 # Linear Narrative
 
-In this exercise, you will create a linear narrative with a dramatic plot.
+In this exercise, you will create a non-fiction, linear narrative with a dramatic plot, and publish as an HTML.
 
-Steps:
+## Reading
+Fiction and Non-fiction
+Narrative
+Characters
+
+
+## Steps:
 
 1. Describe the scenario
 2. Find the story's core theme
