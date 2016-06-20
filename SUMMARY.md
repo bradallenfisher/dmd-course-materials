@@ -29,7 +29,7 @@
        * Statement writing
        * [The design brief](topics/the_design_brief.md)
        * [Double diamond](topics/double_diamond.md)
-       * [Twine Tutorial 001](topics/twine-tutorial-001.md)
+       * [Twine Tutorial: Getting Started](topics/twine-tutorial-001.md)
    * Fields
        * [Experience Design](topics/experience_design.md)
        * Game design
