@@ -49,7 +49,7 @@ Infinite possibilities based on viewer's choices and preferences.
 Example: [No Mans's Sky](http://www.no-mans-sky.com/about/)
 
 ## Content
-A typical novel will contain the following components:
+A story typically contains the following components:
 
 1. Plot
 2. Characters
