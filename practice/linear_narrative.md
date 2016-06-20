@@ -10,13 +10,14 @@ In this exercise, you will create a **[[non-fiction]]**, linear narrative with a
 - 
 
 
-## Reading
-Fiction and Non-fiction
-Narrative
-Characters
+## Learning resources
+### Readings
+- Fiction and Non-fiction
+- Narrative
+- Characters
 
 
-## Steps:
+## Steps
 
 1. Describe the scenario
 2. Find the story's core theme
