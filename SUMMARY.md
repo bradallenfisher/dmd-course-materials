@@ -54,7 +54,7 @@
    * Linear Narrative
    * Non-linear Narrative
    * Drawing a Journey Map
-   * Diagram a Daily Habit
+   * Diagram a Daily Habbit
    * Curating for an Idea
    * Design Intervention
    * Open Source Gift
