@@ -18,8 +18,10 @@ In this tutorial, you will be guided through the steps to create a simple hypter
 9. Type the following text into the body: ```I kept quite still and said nothing. For a whole hour I did not move a muscle, and in the meantime I did not hear him lie down. He was still sitting up in the bed listening;--just as I have done, night after night, hearkening to the death watches in the wall. [[Go Back|Start]]```
 10. Press escape or click the x to close edit mode.
 11. Press the Play button to test the story.
-12. Publish the story to HTML by choosing
+12. Publish the story to HTML by clicking on the story's name at the bottom left and choosing publish from the menu.
    
 ## Using the grid to visualize the plot
 
-Because Twine has
+1. Write out the main plot points of the story
+2. In Twine, create a new passage for each plot point
+3. Edit each passage and write in the passage details for each
