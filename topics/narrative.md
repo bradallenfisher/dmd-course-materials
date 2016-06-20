@@ -63,7 +63,7 @@ Story authors tend to design their own custom plot devices for storytelling, whi
 
 **Design thinking** sessions are team-based work sessions where problems are identified and quick prototypes are generated. Story can help team members empathize with the audience to create a better product or service and recognize new ways of approaching solutions.
 
-**Films, novels, drawings and paintings, comic books, and games** are products that tell a story to highlight a moral or ethical quandary, contribute to discourse on a popular or marginalized subject, or as a teaching tool. 
+**Films, novels, drawings and paintings, comic books, and games** are products that tell a story to highlight a moral or ethical quandary, contribute to discourse on a popular or marginalized subject, or function a teaching tool. 
 
 ** Podcasts**
 https://vimeo.com/150176538
