@@ -23,7 +23,7 @@
        * Modularity
        * Sound
        * [Sustainable design](topics/sustainable_design.md)
-       * Characters
+       * [Characters](topics/characters.md)
    * Methods
        * [Concept development](topics/concept_development.md)
        * Research
