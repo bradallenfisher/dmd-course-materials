@@ -11,7 +11,7 @@ Steps:
 5. Visualize the narrative arc and plot points using Twinery.org
   - See tutorial
 6. Write in plot details
-7. Edit and re-write
+7. Refine and edit
 
 ---
 
