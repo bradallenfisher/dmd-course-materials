@@ -1,6 +1,14 @@
 # Linear Narrative
 
-In this exercise, you will create a non-fiction, linear narrative with a dramatic plot, and publish as an HTML.
+In this exercise, you will create a **[[non-fiction]]**, linear narrative with a dramatic plot, and publish as an HTML file.
+
+## Themes
+
+- Breakfast
+- Your trip to the store
+- That time you failed
+- 
+
 
 ## Reading
 Fiction and Non-fiction
