@@ -5,7 +5,7 @@ In this exercise, you will visually map **[[a thing]]**.
 ## Themes
 
 
-## Reading
-
+## Learning resources
+Tutorial: Drawing for communication
 
 ## Steps
