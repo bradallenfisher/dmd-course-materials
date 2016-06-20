@@ -57,6 +57,7 @@
    * Diagram a Daily Habit
    * Curating for an Idea
    * Design Intervention
+   * Open Source Gift
 * Toolkit
    * Program hub
    * Program structure
