@@ -52,6 +52,7 @@
    * [Digital Service or Product Project](projects/digital_service_or_product.md)
 * Exercises
    * Linear Narrative
+   * Non-linear Narrative
 * Toolkit
    * Program hub
    * Program structure
