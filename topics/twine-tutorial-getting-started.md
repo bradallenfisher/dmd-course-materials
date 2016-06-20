@@ -29,3 +29,5 @@ In this tutorial, you will be guided through the steps to create a simple hypter
 5. Read through your story to see if the plot points match the intended rising and falling action. Make adjustments accordingly.
 
 ## Using Twinery's grid to visualize a non-linear plot
+
+...
