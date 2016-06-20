@@ -52,7 +52,7 @@
    * [Digital Service or Product Project](projects/digital_service_or_product.md)
 * Practice
    * [Linear Narrative](practice/linear_narrative.md)
-   * Non-linear Narrative
+   * [Non-linear Narrative](practice/non-linear_narrative.md)
    * Drawing a Journey Map
    * Diagram a Daily Habit
    * Curating for an Idea
