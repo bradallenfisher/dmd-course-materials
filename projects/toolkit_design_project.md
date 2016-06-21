@@ -17,8 +17,9 @@ You will be creating a web-based toolkit that uses hyperlinks and principles of 
 ## Learning resources
 
 ### Readings and screenings
+[Open Design](../topics/open_design.md)
 
-[What Difference Does a Form Make: Redesign and Evaluation of a Form for Documenting In-Hospital Cardiac Arrest](https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/22800/Au_washington_0250E_11500.pdf?sequence=1)
+[What Difference Does a Form Make: Redesign and Evaluation of a Form for Documenting In-Hospital Cardiac Arrest](https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/22800/Au_washington_0250E_11500.pdf)
 
 ### Tools and techniques
 
