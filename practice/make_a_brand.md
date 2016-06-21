@@ -6,9 +6,14 @@ In this exercise, you will create a brand for **[[theme]]**. You'll create a log
 - Anti-lawn movement
 - Flying car company
 - Open-source gardening
-- 
 
 ## Learning resources
+### Topics
+- Brand Systems
+- Generative design
+- Graphic design
+- Social Media
+
 ### Readings
 http://www.fastcodesign.com/3060658/the-future-of-branding-is-debranding
 ## Steps
