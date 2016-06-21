@@ -33,10 +33,10 @@
        * [Twine Tutorial: Getting Started](topics/twine-tutorial-getting-started.md)
        * Research
    * Fields
-       * [Experience Design](topics/experience_design.md)
        * Animation and VFX
        * Architecture
        * Entrepreneurship
+       * [Experience Design](topics/experience_design.md)
        * Game design
        * Industrial design
        * [Graphic design](topics/graphic_design.md)
