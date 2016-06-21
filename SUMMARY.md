@@ -28,10 +28,10 @@
    * Methods
        * [Concept development](topics/concept_development.md)
        * [Double diamond](topics/double_diamond.md)
-       * Research
        * Statement writing
        * [The design brief](topics/the_design_brief.md)
        * [Twine Tutorial: Getting Started](topics/twine-tutorial-getting-started.md)
+   * Research
    * Fields
        * [Experience Design](topics/experience_design.md)
        * Game design
