@@ -8,8 +8,8 @@
    * Principles
        * Brand
        * [Characters](topics/characters.md)
-       * [Constructing meaning](topics/constructing_meaning.md)
        * Color
+       * [Constructing meaning](topics/constructing_meaning.md)
        * [Critical thinking](topics/critical_thinking.md)
        * [Language](topics/language.md)
        * [Narrative](topics/narrative.md)
