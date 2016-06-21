@@ -8,8 +8,6 @@ http://www.intrastructures.net/Intrastructures/About_-_what_we_are..html
 
 http://www.wikihouse.cc/
 
-Open-source logo design:
-
 https://blog.mozilla.org/opendesign/
 
 ## Power Values
