@@ -10,7 +10,7 @@ In this exercise, you will create a brand for **[[theme]]**. You'll create a log
 
 ## Learning resources
 ### Readings
-
+http://www.fastcodesign.com/3060658/the-future-of-branding-is-debranding
 ## Steps
 
 
