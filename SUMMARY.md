@@ -59,7 +59,7 @@
    * Diagram a Daily Habit
    * [Curating for an Idea](practice/curating_for_an_idea.md)
    * Design Intervention
-   * Open Source Gift
+   * [Open Source Gift](practice/open_source_gift.md)
    * [Make a Brand](practice/make_a_brand.md)
 * Toolkit
    * Program hub
