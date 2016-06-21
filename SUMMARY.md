@@ -34,10 +34,10 @@
        * Research
    * Fields
        * [Experience Design](topics/experience_design.md)
-       * Game design
        * Animation and VFX
        * Architecture
        * Entrepreneurship
+       * Game design
        * Industrial design
        * [Graphic design](topics/graphic_design.md)
    * Tools and Technology
