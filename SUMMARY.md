@@ -36,9 +36,9 @@
        * [Experience Design](topics/experience_design.md)
        * Game design
        * [Graphic design](topics/graphic_design.md)
+       * Animation and VFX
        * Architecture
        * Entrepreneurship
-       * Animation and VFX
        * Industrial design
    * Tools and Technology
        * Automation
