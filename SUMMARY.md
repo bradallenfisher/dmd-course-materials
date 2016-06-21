@@ -9,6 +9,7 @@
        * Brand
        * [Characters](topics/characters.md)
        * [Constructing meaning](topics/constructing_meaning.md)
+       * Color
        * [Critical thinking](topics/critical_thinking.md)
        * [Language](topics/language.md)
        * [Narrative](topics/narrative.md)
@@ -21,7 +22,6 @@
        * [Mental model](topics/mental_model.md)
        * [Semiotics](topics/semiotics.md)
        * Sound
-       * Color
        * [Speculative design](topics/speculative_design.md)
        * Modularity
        * [Sustainable design](topics/sustainable_design.md)
