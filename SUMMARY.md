@@ -27,10 +27,10 @@
        * [Systems thinking](topics/systems_thinking.md)
    * Methods
        * [Concept development](topics/concept_development.md)
+       * [Double diamond](topics/double_diamond.md)
        * Research
        * Statement writing
        * [The design brief](topics/the_design_brief.md)
-       * [Double diamond](topics/double_diamond.md)
        * [Twine Tutorial: Getting Started](topics/twine-tutorial-getting-started.md)
    * Fields
        * [Experience Design](topics/experience_design.md)
