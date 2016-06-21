@@ -15,10 +15,10 @@
        * [Hypertext](topics/hypertext.md)
        * [Language](topics/language.md)
        * [Narrative](topics/narrative.md)
-       * [Open design](topics/open_design.md)
        * Media
        * [Mental model](topics/mental_model.md)
        * Modularity
+       * [Open design](topics/open_design.md)
        * [Risk and innovation](topics/risk_and_innovation.md)
        * [Semiotics](topics/semiotics.md)
        * Sound
