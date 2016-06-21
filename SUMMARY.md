@@ -6,6 +6,7 @@
    * [Measuring success](introduction/measuring_success.md)
 * Topics
    * Principles
+       * [Constructing meaning](topics/constructing_meaning.md)
        * [Critical thinking](topics/critical_thinking.md)
        * [Narrative](topics/narrative.md)
        * [Open design](topics/open_design.md)
@@ -16,7 +17,6 @@
        * [Systems thinking](topics/systems_thinking.md)
        * [Mental model](topics/mental_model.md)
        * [Semiotics](topics/semiotics.md)
-       * [Constructing meaning](topics/constructing_meaning.md)
        * [Language](topics/language.md)
        * Color
        * [Speculative design](topics/speculative_design.md)
