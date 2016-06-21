@@ -38,8 +38,8 @@
        * Entrepreneurship
        * [Experience Design](topics/experience_design.md)
        * Game design
-       * Industrial design
        * [Graphic design](topics/graphic_design.md)
+       * Industrial design
    * Tools and Technology
        * Automation
        * [Programming](topics/programming.md)
