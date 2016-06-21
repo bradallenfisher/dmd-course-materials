@@ -17,13 +17,13 @@
        * [Risk and innovation](topics/risk_and_innovation.md)
        * [Systems thinking](topics/systems_thinking.md)
        * Media
+       * Modularity
        * [Hypertext](topics/hypertext.md)
        * [Design thinking](topics/design_thinking.md)
        * [Mental model](topics/mental_model.md)
        * [Semiotics](topics/semiotics.md)
        * Sound
        * [Speculative design](topics/speculative_design.md)
-       * Modularity
        * [Sustainable design](topics/sustainable_design.md)
    * Methods
        * [Concept development](topics/concept_development.md)
