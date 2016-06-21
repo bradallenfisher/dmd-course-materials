@@ -61,6 +61,7 @@
    * Design Intervention
    * [Open Source Gift](practice/open_source_gift.md)
    * [Make a Brand](practice/make_a_brand.md)
+   * Rethinking the Home
 * Toolkit
    * Program hub
    * Program structure
