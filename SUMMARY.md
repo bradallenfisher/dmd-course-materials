@@ -16,7 +16,6 @@
        * [Language](topics/language.md)
        * [Narrative](topics/narrative.md)
        * [Open design](topics/open_design.md)
-       * [Systems thinking](topics/systems_thinking.md)
        * Media
        * [Mental model](topics/mental_model.md)
        * Modularity
@@ -25,6 +24,7 @@
        * Sound
        * [Speculative design](topics/speculative_design.md)
        * [Sustainable design](topics/sustainable_design.md)
+   * [Systems thinking](topics/systems_thinking.md)
    * Methods
        * [Concept development](topics/concept_development.md)
        * Research
