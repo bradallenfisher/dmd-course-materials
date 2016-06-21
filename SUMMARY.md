@@ -20,10 +20,10 @@
        * [Design thinking](topics/design_thinking.md)
        * [Mental model](topics/mental_model.md)
        * [Semiotics](topics/semiotics.md)
+       * Sound
        * Color
        * [Speculative design](topics/speculative_design.md)
        * Modularity
-       * Sound
        * [Sustainable design](topics/sustainable_design.md)
    * Methods
        * [Concept development](topics/concept_development.md)
