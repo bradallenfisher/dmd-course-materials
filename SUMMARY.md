@@ -56,7 +56,7 @@
    * [Non-linear Narrative](practice/non-linear_narrative.md)
    * [Drawing a Journey Map](practice/drawing_a_journey_map.md)
    * Diagram a Daily Habit
-   * Curating for an Idea
+   * [Curating for an Idea](practice/curating_for_an_idea.md)
    * Design Intervention
    * Open Source Gift
 * Toolkit
