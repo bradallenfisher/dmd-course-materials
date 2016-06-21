@@ -23,8 +23,8 @@
        * [Semiotics](topics/semiotics.md)
        * Sound
        * [Speculative design](topics/speculative_design.md)
-       * [Systems thinking](topics/systems_thinking.md)
        * [Sustainable design](topics/sustainable_design.md)
+       * [Systems thinking](topics/systems_thinking.md)
    * Methods
        * [Concept development](topics/concept_development.md)
        * Research
