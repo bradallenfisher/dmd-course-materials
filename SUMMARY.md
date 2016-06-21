@@ -35,11 +35,11 @@
    * Fields
        * [Experience Design](topics/experience_design.md)
        * Game design
-       * [Graphic design](topics/graphic_design.md)
        * Animation and VFX
        * Architecture
        * Entrepreneurship
        * Industrial design
+   * [Graphic design](topics/graphic_design.md)
    * Tools and Technology
        * Automation
        * [Programming](topics/programming.md)
