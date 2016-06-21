@@ -37,9 +37,9 @@
        * Game design
        * [Graphic design](topics/graphic_design.md)
        * Architecture
+       * Entrepreneurship
        * Animation and VFX
        * Industrial design
-       * Entrepreneurship
    * Tools and Technology
        * Automation
        * [Programming](topics/programming.md)
