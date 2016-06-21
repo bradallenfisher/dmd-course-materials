@@ -30,8 +30,8 @@
        * [Double diamond](topics/double_diamond.md)
        * Statement writing
        * [The design brief](topics/the_design_brief.md)
+       * Research
        * [Twine Tutorial: Getting Started](topics/twine-tutorial-getting-started.md)
-   * Research
    * Fields
        * [Experience Design](topics/experience_design.md)
        * Game design
