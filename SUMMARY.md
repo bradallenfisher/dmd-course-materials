@@ -38,8 +38,8 @@
        * Animation and VFX
        * Architecture
        * Entrepreneurship
-       * [Graphic design](topics/graphic_design.md)
        * Industrial design
+       * [Graphic design](topics/graphic_design.md)
    * Tools and Technology
        * Automation
        * [Programming](topics/programming.md)
