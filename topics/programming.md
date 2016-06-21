@@ -1,7 +1,11 @@
 # Programming
 Programming essentially means an entity (the programmer) ascribes functionality and instructions (the program) to an active agent (something that can run a program). One of the most complex examples of one such system is the human brain. Though the human brain transports information more slowly than a modern computer, it can perform calculations in parallel at a scale many orders of magnitude greater than what computers can currently achieve [1]. Who or what programs the brain? DNA? Your parents? The weather outside? Scientists will be no doubt be very busy trying to understand these questions better over the coming century.
 
+
+
 ## Computer science
+### Open Textbooks
+[Open Textbook Library](https://open.umn.edu/opentextbooks/SearchResults.aspx?subjectAreaId=3) 
 ### Paradigms [2]
 A programming language can mix paradigms despite being described as a particular type.
 
