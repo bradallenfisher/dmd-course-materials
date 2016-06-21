@@ -6,6 +6,7 @@
    * [Measuring success](introduction/measuring_success.md)
 * Topics
    * Principles
+       * [Characters](topics/characters.md)
        * [Constructing meaning](topics/constructing_meaning.md)
        * [Critical thinking](topics/critical_thinking.md)
        * [Language](topics/language.md)
@@ -23,7 +24,6 @@
        * Modularity
        * Sound
        * [Sustainable design](topics/sustainable_design.md)
-       * [Characters](topics/characters.md)
        * Brand
    * Methods
        * [Concept development](topics/concept_development.md)
