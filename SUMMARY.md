@@ -58,7 +58,7 @@
    * [Drawing a Journey Map](practice/drawing_a_journey_map.md)
    * Diagram a Daily Habit
    * [Curating for an Idea](practice/curating_for_an_idea.md)
-   * Design Intervention
+   * [Design Intervention](practice/design_intervention.md)
    * [Open Source Gift](practice/open_source_gift.md)
    * [Make a Brand](practice/make_a_brand.md)
    * [Rethinking the Home](practice/rethinking_the_home.md)
