@@ -18,8 +18,8 @@
        * [Open design](topics/open_design.md)
        * [Systems thinking](topics/systems_thinking.md)
        * Media
-       * Modularity
        * [Mental model](topics/mental_model.md)
+       * Modularity
        * [Risk and innovation](topics/risk_and_innovation.md)
        * [Semiotics](topics/semiotics.md)
        * Sound
