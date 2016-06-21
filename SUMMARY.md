@@ -12,13 +12,13 @@
        * [Constructing meaning](topics/constructing_meaning.md)
        * [Critical thinking](topics/critical_thinking.md)
        * [Design thinking](topics/design_thinking.md)
+       * [Hypertext](topics/hypertext.md)
        * [Language](topics/language.md)
        * [Narrative](topics/narrative.md)
        * [Open design](topics/open_design.md)
        * [Systems thinking](topics/systems_thinking.md)
        * Media
        * Modularity
-       * [Hypertext](topics/hypertext.md)
        * [Mental model](topics/mental_model.md)
        * [Risk and innovation](topics/risk_and_innovation.md)
        * [Semiotics](topics/semiotics.md)
