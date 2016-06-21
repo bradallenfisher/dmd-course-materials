@@ -59,6 +59,7 @@
    * [Curating for an Idea](practice/curating_for_an_idea.md)
    * Design Intervention
    * Open Source Gift
+   * Make a Brand
 * Toolkit
    * Program hub
    * Program structure
