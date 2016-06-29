@@ -1,8 +1,11 @@
 {% resource id="#main", type="Course" %}
-{% property name="name" %}# Hypertext Narrative Project{% endproperty %}
-{% property name="image", type="Image", value="https://unsplash.it/3000/1500?image=38" %}{% endproperty %}
-{% endresource %}
+{% property name="name" %}
+# Hypertext Narrative Project
+{% endproperty %}
+{% property name="image", type="Image" %}
 ![Photo of clouds and a small airplane contrail](https://unsplash.it/3000/1500?image=38)
+{% endproperty %}
+{% endresource %}
 ## Project brief
  In this project, you will be creating a hypertext narrative. You will use software called Twine to construct a non-linear, speculative story that describes an event in the near future. The goal of your story is to allow you to explore the main issue in any way that is interesting and engaging.
  
