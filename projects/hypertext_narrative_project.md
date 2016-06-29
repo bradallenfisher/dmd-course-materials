@@ -1,6 +1,6 @@
-{% resource id="#main" type="Course" %}
+{% resource id="#main", type="Course" %}
 {% property name="name"}# Hypertext Narrative Project{% endproperty%}
-{% property name="image", type="Image" value="https://unsplash.it/3000/1500?image=38" %}{% endproperty %}
+{% property name="image", type="Image", value="https://unsplash.it/3000/1500?image=38" %}{% endproperty %}
 {% endresource %}
 ![Photo of clouds and a small airplane contrail](https://unsplash.it/3000/1500?image=38)
 ## Project brief
