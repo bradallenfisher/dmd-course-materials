@@ -1,4 +1,5 @@
-# Hypertext Narrative Project
+{% oer_property name="name", for="#main"}# Hypertext Narrative Project{% endoer_property%}
+{% oer_property name="image", for="#main", type="Image" value="https://unsplash.it/3000/1500?image=38" %}{% endoer_property %}
 ![Photo of clouds and a small airplane contrail](https://unsplash.it/3000/1500?image=38)
 ## Project brief
  In this project, you will be creating a hypertext narrative. You will use software called Twine to construct a non-linear, speculative story that describes an event in the near future. The goal of your story is to allow you to explore the main issue in any way that is interesting and engaging.
@@ -87,3 +88,5 @@ http://www.whoi.edu/science/B/people/kamaral/hypertext.html
 6. Curation
 7. Remix
 8. Intellectual property
+
+{% oer_resource id="#main" type="Course" %}{% endoer_resource %}
