@@ -69,4 +69,5 @@
    * Social media
    * [Career trajectory](toolkit/career_trajectory.md)
    * [Project Management](toolkit/project_management.md)
+   * Lessons
 
