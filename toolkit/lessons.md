@@ -11,7 +11,7 @@
 ## 02. User Experience Design (UX)
 - Presentation
 - Reading
-- Activity
+- Activity: 
 - Reflection writing
 
 ## 03. Speculative Design
@@ -28,13 +28,13 @@
 
 ## 05. Narrative
 - **Reading/watching:** Introduction to [Narrative](../topics/narrative.md)
-- **Reading 01:** Link to a Story
-- **Activity 01:** [Story Breakdown](practice/story_breakdown.md)
-- **Activity 02 (Choose 1):**
+- **Reading:** Link to a Story
+- **Activity:** [Story Breakdown](practice/story_breakdown.md)
+- **Activity (Choose 1):**
   - [Linear narrative activity](../practice/linear_narrative.md)
   - [Non-linear narrative activity](../practice/non-linear_narrative.md)
-- **Project 01:** [Hypertext Narrative](../projects/hypertext_narrative_project.md)
-- **Reflection writing 01:** [Blog Post](../practice/blog_post_narrative.md)
+- **Project:** [Hypertext Narrative](../projects/hypertext_narrative_project.md)
+- **Reflection writing:** [Blog Post](../practice/blog_post_narrative.md)
 
 ## 06. Open Design
 - Presentation
