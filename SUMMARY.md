@@ -64,7 +64,7 @@
    * [Rethinking the Home](practice/rethinking_the_home.md)
    * [Blogging](practice/blogging.md)
    * [Blog Post: Narrative](practice/blog_post_narrative.md)
-   * Story Breakdown
+   * [Story Breakdown](practice/story_breakdown.md)
 * Toolkit
    * Program hub
    * Program structure

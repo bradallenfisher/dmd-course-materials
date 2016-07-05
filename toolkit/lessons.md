@@ -8,7 +8,7 @@
 ## 01. Narrative Lesson
 - **Reading/watching:** Introduction to topic
 - **Reading 01:** Assigned Reading/playing
-- **Activity 01:** Movie/story Breakdown
+- **Activity 01:** Story Breakdown
 - **Activity 02 (Choose 1):**
   - [Linear narrative activity](../practice/linear_narrative.md)
   - [Non-linear narrative activity](../practice/non-linear_narrative.md)
