@@ -1,0 +1,2 @@
+# Blog Post: Open Design
+
