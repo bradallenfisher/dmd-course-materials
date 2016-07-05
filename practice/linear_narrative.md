@@ -5,8 +5,9 @@ In this exercise, you will create a **[[non-fiction]]**, linear narrative with a
 ## Themes
 
 - Breakfast
-- Your trip to the store
-- That time you failed
+- Trip to the store
+- That time I failed
+- Learning the ropes
 - 
 
 
@@ -20,7 +21,7 @@ In this exercise, you will create a **[[non-fiction]]**, linear narrative with a
 ## Steps
 
 1. Describe the scenario
-2. Find the story's core theme
+2. Find the story's core theme (what is it really about?)
 3. Establish characters, settings, and point of view.
 4. Summarize the story
 5. Visualize the narrative arc and plot points using Twinery.org
