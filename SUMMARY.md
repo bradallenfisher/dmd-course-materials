@@ -25,7 +25,7 @@
        * [Speculative design](topics/speculative_design.md)
        * [Sustainable design](topics/sustainable_design.md)
        * [Systems thinking](topics/systems_thinking.md)
-       * [Wireframing](wireframing.md)
+       * [Wireframing](topics/wireframing.md)
    * Methods
        * [Concept development](topics/concept_development.md)
        * [Double diamond](topics/double_diamond.md)
