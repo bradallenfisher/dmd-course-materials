@@ -24,8 +24,8 @@
        * Sound
        * [Speculative design](topics/speculative_design.md)
        * [Sustainable design](topics/sustainable_design.md)
+       * Wireframing
        * [Systems thinking](topics/systems_thinking.md)
-   * Wireframing
    * Methods
        * [Concept development](topics/concept_development.md)
        * [Double diamond](topics/double_diamond.md)
