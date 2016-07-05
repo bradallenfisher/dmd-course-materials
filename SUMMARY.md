@@ -63,10 +63,10 @@
    * [Drawing a Journey Map](practice/drawing_a_journey_map.md)
    * [Design an Interface](practice/design_an_interface.md)
    * [Design Intervention](practice/design_intervention.md)
+   * [Linear Narrative](practice/linear_narrative.md)
    * [Non-linear Narrative](practice/non-linear_narrative.md)
    * [Make a Brand](practice/make_a_brand.md)
    * [Open Source Gift](practice/open_source_gift.md)
-   * [Linear Narrative](practice/linear_narrative.md)
    * [Rethinking the Home](practice/rethinking_the_home.md)
    * [Story Breakdown](practice/story_breakdown.md)
 * Toolkit
