@@ -25,9 +25,9 @@
 ## 03. Speculative Design
 - **Presentation:**
 - **Reading:**
-  - [Constructing Meaning](..topics/critical-thinking.md)
-  - [Critical Thinking](..topics/critical-thinking.md)
-  - [Risk and innovation](..topics/risk-and-innovation.md)
+  - [Constructing Meaning](../topics/critical-thinking.md)
+  - [Critical Thinking](../topics/critical-thinking.md)
+  - [Risk and innovation](../topics/risk-and-innovation.md)
 - **Activity:** [Design an Interface](../practice/design-an-interface.md)
 - **Activity:** [Rethinking the Home](../practice/rethinking-the-home.md)
 - **Project:** [Design Fiction Project](../projects/design-fiction-project.md)
@@ -36,9 +36,10 @@
 ## 04. Remix and curation
 - **Presentation:**
 - **Reading:**
-  - [Remix](..topics/remix.md)
+  - [Remix](../topics/remix.md)
   - [Media](../topics/media.md)
   - [Sound](../topics/sound.md)
+  - [Intellectual property](../topics/intellectual-property.md)
 - **Activity:** [Curating](../practice/curating-for-an-idea.md)
 - **Reflection writing:** Blog Post
 
@@ -56,19 +57,19 @@
 - **Presentation:**
 - **Reading:**
   - [Tools and technology](../topics/tools-and-technology.md)
-  - [Systems Thinking](..topics/systems-thinking.md)
-  - [Sustainability](..topics/sustainability.md)
-  - [Activism](..topics/activism.md)
-  - [Governance](..topics/governance.md)
-  - [Economics](..topics/economics.md)
-  - [Modularity](..topics/modularity.md)
-  - [Community](..topics/community.md)
-- **Activity:** [Open Source Gift](practice/open_source_gift.md)
+  - [Systems Thinking](../topics/systems-thinking.md)
+  - [Sustainability](../topics/sustainability.md)
+  - [Activism](../topics/activism.md)
+  - [Governance](../topics/governance.md)
+  - [Economics](../topics/economics.md)
+  - [Modularity](../topics/modularity.md)
+  - [Community](../topics/community.md)
+- **Activity:** [Open Source Gift](../practice/open_source_gift.md)
 - **Reflection writing:** Blog Post
 
 ## 07. Co-generative Design
 - **Presentation:**
 - **Reading:**
-  - [DIY](..topics/diy.md)
+  - [DIY](../topics/diy.md)
 - **Activity: **
 - **Presentation:**
