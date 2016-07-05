@@ -6,8 +6,8 @@
 
 
 ## 01. Narrative Lesson
-- **Reading/watching:** Introduction to topic
-- **Reading 01:** Assigned Reading/playing
+- **Reading/watching:** Introduction to [Narrative](../topics/narrative.md)
+- **Reading 01:** Link to a Story
 - **Activity 01:** [Story Breakdown](practice/story_breakdown.md)
 - **Activity 02 (Choose 1):**
   - [Linear narrative activity](../practice/linear_narrative.md)
