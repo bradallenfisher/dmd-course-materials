@@ -58,7 +58,6 @@
 * Practice
    * [Blogging](practice/blogging.md)
    * Blog Post: Open Design
-   * [Linear Narrative](practice/linear_narrative.md)
    * [Drawing a Journey Map](practice/drawing_a_journey_map.md)
    * [Design an Interface](practice/design_an_interface.md)
    * [Curating for an Idea](practice/curating_for_an_idea.md)
@@ -66,6 +65,7 @@
    * [Open Source Gift](practice/open_source_gift.md)
    * [Non-linear Narrative](practice/non-linear_narrative.md)
    * [Make a Brand](practice/make_a_brand.md)
+   * [Linear Narrative](practice/linear_narrative.md)
    * [Rethinking the Home](practice/rethinking_the_home.md)
    * [Blog Post: Narrative](practice/blog_post_narrative.md)
    * [Story Breakdown](practice/story_breakdown.md)
