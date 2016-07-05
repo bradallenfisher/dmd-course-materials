@@ -70,5 +70,6 @@
 - **Presentation:**
 - **Reading:**
   - [DIY](../topics/diy.md)
-- **Activity: **
-- **Presentation:**
+  - [Project management](../topics/project-management.md)
+- **Activity:**
+- **Project:** [Toolkit Design Project](../projects/toolkit-design-project.md)
