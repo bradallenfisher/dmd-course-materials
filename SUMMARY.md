@@ -59,9 +59,9 @@
    * Blog Post: Open Design
    * [Blog Post: Narrative](practice/blog_post_narrative.md)
    * [Blogging](practice/blogging.md)
+   * [Curating for an Idea](practice/curating_for_an_idea.md)
    * [Drawing a Journey Map](practice/drawing_a_journey_map.md)
    * [Design an Interface](practice/design_an_interface.md)
-   * [Curating for an Idea](practice/curating_for_an_idea.md)
    * [Design Intervention](practice/design_intervention.md)
    * [Open Source Gift](practice/open_source_gift.md)
    * [Non-linear Narrative](practice/non-linear_narrative.md)
