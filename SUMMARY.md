@@ -47,6 +47,7 @@
        * Digital imaging
        * 3D
        * Web
+   * Intellectual property
 * [Projects](projects.md)
    * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
    * [Design Fiction Project](projects/design_fiction_project.md)
