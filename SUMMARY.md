@@ -25,6 +25,7 @@
        * [Speculative design](topics/speculative_design.md)
        * [Sustainable design](topics/sustainable_design.md)
        * [Systems thinking](topics/systems_thinking.md)
+   * Wireframing
    * Methods
        * [Concept development](topics/concept_development.md)
        * [Double diamond](topics/double_diamond.md)
@@ -46,7 +47,6 @@
        * Digital imaging
        * 3D
        * Web
-   * Wireframing
 * [Projects](projects.md)
    * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
    * [Design Fiction Project](projects/design_fiction_project.md)
