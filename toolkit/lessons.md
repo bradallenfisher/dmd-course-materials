@@ -12,12 +12,13 @@
 - **Presentation:**
 - **Reading:**
 - Activity: [Drawing a Journey Map](../practice/drawing-a-journey-map.md)
-- **Activity:** [Rethinking the home](../practice/rethinking-the-home.md)
+- **Activity:** [Rethinking the Home](../practice/rethinking-the-home.md)
 - **Reflection writing**
 
 ## 03. Speculative Design
 - **Presentation:** 
 - **Reading:** 
+- **Activity:** [Design an Interface](../practice/design-an-interface.md)
 - **Activity:** [Design Intervention](../practice/design-intervention.md)
 - **Reflection writing**
 
