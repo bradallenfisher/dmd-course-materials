@@ -11,19 +11,19 @@
 ## 02. User Experience Design (UX)
 - **Presentation:**
 - **Reading:**
-- **Activity: **
+- **Activity:** Rethinking the home
 - **Reflection writing**
 
 ## 03. Speculative Design
-- **Presentation:**
-- **Reading:**
-- **Activity: **
+- **Presentation:** 
+- **Reading:** 
+- **Activity:** [Design Intervention](../practice/design-intervention.md)
 - **Reflection writing**
 
 ## 04. Remix and curation
 - **Presentation:**
 - **Reading:**
-- **Activity: **
+- **Activity:** [Curating](../practice/curating-for-an-idea.md)
 - **Reflection writing**
 
 ## 05. Narrative
@@ -46,4 +46,4 @@
 - **Presentation:**
 - **Reading:**
 - **Activity: **
-- **Reflection writing**
+- **Reflection writing:**
