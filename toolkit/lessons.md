@@ -3,9 +3,7 @@
 ## 01. What is Design?
 - **Presentation:** History presentation
 - **Reading:**
-  - Systems Thinking
-  - Critical Thinking
-  - Design Thinking
+  - [Systems Thinking](..topics/systems-thinking.md)
 - **Survey:** Interest survey
   - Take a survey indicating interests. Depending on answers, recommendations for podcasts, online magazines, communities, etc. are given. This replaces the 1-on-1 conversation a professor might have in the classroom to get a student excited and involved with subjectmatter beyond the classroom.
 
@@ -14,18 +12,20 @@
 ## 02. User Experience Design (UX)
 - **Presentation:**
 - **Reading:**
-  - [Wireframing](../topics/wireframing.md) 
-  - Semiotics
-  - Mental Model
-  - Brand
+  - Design Thinking
+  - [Wireframing](../topics/wireframing.md)
+  - [Semiotics](../topics/semiotics.md)
+  - [Mental model](../topics/mental-model.md)
+  - [Brand](../topics/brand.md)
 - Activity: [Drawing a Journey Map](../practice/drawing-a-journey-map.md)
 - **Activity:** [Rethinking the Home](../practice/rethinking-the-home.md)
 - **Reflection writing**
 
 ## 03. Speculative Design
-- **Presentation:** 
-- **Reading:** 
-  - Constructing Meaning
+- **Presentation:**
+- **Reading:**
+  - [Constructing Meaning](..topics/critical-thinking.md)
+  - [Critical Thinking](..topics/critical-thinking.md)
 - **Activity:** [Design an Interface](../practice/design-an-interface.md)
 - **Activity:** [Design Intervention](../practice/design-intervention.md)
 - **Reflection writing**
@@ -49,9 +49,17 @@
 ## 06. Open Design
 - **Presentation:**
 - **Reading:**
-- Modularity
+  - [Tools and technology](../topics/tools-and-technology.md)
+  - [Community](..topics/community.md)
+  - [Sustainability](..topics/sustainability.md)
+  - [Activism](..topics/activism.md)
+  - [Governance](..topics/governance.md)
+  - [Economics](..topics/economics.md)
+  - [Modularity](..topics/modularity.md)
+  - [DIY](..topics/diy.md)
+  - [Community](..topics/community.md)
 - **Activity:** [Open Source Gift](practice/open_source_gift.md)
-- **Reflection writing**
+- **Reflection writing:** Blog Post
 
 ## 07. Co-generative Design
 - **Presentation:**
