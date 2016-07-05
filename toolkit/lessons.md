@@ -1,8 +1,10 @@
 # Lessons
 
 ## What is Design?
-- History presentation
-- Current design issues
+- **Presentation:** History presentation
+- **Reading:** Current design issues
+- **Survey:** Interest survey
+  - Take a survey indicating interests. Depending on answers, recommendations for podcasts, online magazines, communities, etc. are given. This replaces the 1-on-1 conversation a professor might have in the classroom to get a student excited and involved with subjectmatter beyond the classroom.
 
 ## 01. Narrative Lesson
 - **Reading/watching:** Introduction to [Narrative](../topics/narrative.md)
