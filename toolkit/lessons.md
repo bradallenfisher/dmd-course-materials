@@ -2,8 +2,7 @@
 
 ## What is Design?
 - History presentation
-- 
-
+- Current design issues
 
 ## 01. Narrative Lesson
 - **Reading/watching:** Introduction to [Narrative](../topics/narrative.md)
