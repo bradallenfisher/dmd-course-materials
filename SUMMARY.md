@@ -58,7 +58,6 @@
 * Practice
    * Blog Post: Open Design
    * [Blog Post: Narrative](practice/blog_post_narrative.md)
-   * [Blogging](practice/blogging.md)
    * [Curating for an Idea](practice/curating_for_an_idea.md)
    * [Design an Interface](practice/design_an_interface.md)
    * [Design Intervention](practice/design_intervention.md)
