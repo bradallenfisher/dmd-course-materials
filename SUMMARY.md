@@ -13,7 +13,7 @@
        * [Critical thinking](topics/critical_thinking.md)
        * [Design thinking](topics/design_thinking.md)
        * [Hypertext](topics/hypertext.md)
-       * Intellectual property
+       * [Intellectual property](topics/intellectual_property.md)
        * [Language](topics/language.md)
        * [Narrative](topics/narrative.md)
        * Media

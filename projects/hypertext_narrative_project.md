@@ -70,7 +70,7 @@ http://www.whoi.edu/science/B/people/kamaral/hypertext.html
 8. Program the story with Twine
 9. Put onto github.com
 10. Publish git repo link on course website
-11. Write project statement based on **statement standards**
+11. Write project statement based on [statement standards](topics/statement_writing.md)
 12. Obtain feedback
 13. Revise
 
