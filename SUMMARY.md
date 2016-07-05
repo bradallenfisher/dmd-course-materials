@@ -56,9 +56,9 @@
    * [Interactive Story Project](projects/interactive_story_project.md)
    * [Digital Service or Product Project](projects/digital_service_or_product.md)
 * Practice
-   * [Blogging](practice/blogging.md)
    * Blog Post: Open Design
    * [Blog Post: Narrative](practice/blog_post_narrative.md)
+   * [Blogging](practice/blogging.md)
    * [Drawing a Journey Map](practice/drawing_a_journey_map.md)
    * [Design an Interface](practice/design_an_interface.md)
    * [Curating for an Idea](practice/curating_for_an_idea.md)
