@@ -31,10 +31,10 @@
        * [Collaboration](topics/collaboration.md)
        * [Concept development](topics/concept_development.md)
        * [Double diamond](topics/double_diamond.md)
+       * Research
        * [Statement writing](topics/statement_writing.md)
        * [The design brief](topics/the_design_brief.md)
        * [Twine Tutorial: Getting Started](topics/twine-tutorial-getting-started.md)
-       * Research
    * Fields
        * Animation and VFX
        * Architecture
