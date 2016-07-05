@@ -11,7 +11,8 @@
 ## 02. User Experience Design (UX)
 - **Presentation:**
 - **Reading:**
-- **Activity:** Rethinking the home
+- Activity: [Drawing a Journey Map](../practice/drawing-a-journey-map.md)
+- **Activity:** [Rethinking the home](../practice/rethinking-the-home.md)
 - **Reflection writing**
 
 ## 03. Speculative Design
@@ -46,4 +47,5 @@
 - **Presentation:**
 - **Reading:**
 - **Activity: **
+- **Activity:** [Make a brand](../practice/make-a-brand.md)
 - **Reflection writing:**
