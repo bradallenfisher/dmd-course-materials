@@ -2,7 +2,10 @@
 
 ## 01. What is Design?
 - **Presentation:** History presentation
-- **Reading:** Current design issues
+- **Reading:**
+  - Systems Thinking
+  - Critical Thinking
+  - Design Thinking
 - **Survey:** Interest survey
   - Take a survey indicating interests. Depending on answers, recommendations for podcasts, online magazines, communities, etc. are given. This replaces the 1-on-1 conversation a professor might have in the classroom to get a student excited and involved with subjectmatter beyond the classroom.
 
@@ -11,6 +14,10 @@
 ## 02. User Experience Design (UX)
 - **Presentation:**
 - **Reading:**
+  - [Wireframing](../topics/wireframing.md) 
+  - Semiotics
+  - Mental Model
+  - Brand
 - Activity: [Drawing a Journey Map](../practice/drawing-a-journey-map.md)
 - **Activity:** [Rethinking the Home](../practice/rethinking-the-home.md)
 - **Reflection writing**
@@ -18,6 +25,7 @@
 ## 03. Speculative Design
 - **Presentation:** 
 - **Reading:** 
+  - Constructing Meaning
 - **Activity:** [Design an Interface](../practice/design-an-interface.md)
 - **Activity:** [Design Intervention](../practice/design-intervention.md)
 - **Reflection writing**
@@ -41,6 +49,7 @@
 ## 06. Open Design
 - **Presentation:**
 - **Reading:**
+- Modularity
 - **Activity:** [Open Source Gift](practice/open_source_gift.md)
 - **Reflection writing**
 
