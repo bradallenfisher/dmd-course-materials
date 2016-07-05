@@ -63,7 +63,7 @@
    * [Make a Brand](practice/make_a_brand.md)
    * [Rethinking the Home](practice/rethinking_the_home.md)
    * [Blogging](practice/blogging.md)
-   * Blog Post: Narrative
+   * [Blog Post: Narrative](practice/blog_post_narrative.md)
 * Toolkit
    * Program hub
    * Program structure
