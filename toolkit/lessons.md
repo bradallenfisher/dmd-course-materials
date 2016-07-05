@@ -9,22 +9,22 @@
 
 
 ## 02. User Experience Design (UX)
-- Presentation
-- Reading
-- Activity: 
-- Reflection writing
+- **Presentation:**
+- **Reading:**
+- **Activity: **
+- **Reflection writing**
 
 ## 03. Speculative Design
-- Presentation
-- Reading
-- Activity
-- Reflection writing
+- **Presentation:**
+- **Reading:**
+- **Activity: **
+- **Reflection writing**
 
 ## 04. Remix and curation
-- Presentation
-- Reading
-- Activity
-- Reflection writing
+- **Presentation:**
+- **Reading:**
+- **Activity: **
+- **Reflection writing**
 
 ## 05. Narrative
 - **Reading/watching:** Introduction to [Narrative](../topics/narrative.md)
@@ -37,13 +37,13 @@
 - **Reflection writing:** [Blog Post](../practice/blog_post_narrative.md)
 
 ## 06. Open Design
-- Presentation
-- Reading
-- Activity
-- Reflection writing
+- **Presentation:**
+- **Reading:**
+- **Activity:** [Open Source Gift](practice/open_source_gift.md)
+- **Reflection writing**
 
 ## 07. Co-generative Design
-- Presentation
-- Reading
-- Activity
-- Reflection writing
+- **Presentation:**
+- **Reading:**
+- **Activity: **
+- **Reflection writing**
