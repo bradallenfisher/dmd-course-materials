@@ -7,8 +7,8 @@ In this exercise, you will create a **[[non-fiction]]**, linear narrative with a
 - Breakfast
 - Trip to the store
 - That time I failed
-- Learning the ropes
-- 
+- DIY
+- Hacking
 
 
 ## Learning resources
@@ -35,4 +35,5 @@ In this exercise, you will create a **[[non-fiction]]**, linear narrative with a
 ---
 
 Learning Outcomes:
-
+dramatic plot
+terminology
