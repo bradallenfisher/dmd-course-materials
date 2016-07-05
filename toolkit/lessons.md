@@ -9,8 +9,8 @@
 - **Reading 01:** Assigned Reading/playing
 - **Activity 01:** Movie/story Breakdown
 - **Activity 02 (Choose 1):**
-  - Guided Linear narrative activity]()
-  - Guided Non-linear narrative activity
+  - [Linear narrative activity](practice/linear_narrative.md)
+  - [Non-linear narrative activity](practice/non-linear_narrative.md)
 - **Project 01:** Hypertext Narrative
 - **Reflection writing 01:** Blog Post
   - Requirements
