@@ -66,6 +66,7 @@
    * [Blogging](practice/blogging.md)
    * [Blog Post: Narrative](practice/blog_post_narrative.md)
    * [Story Breakdown](practice/story_breakdown.md)
+   * Blog Post: Open Design
 * Toolkit
    * Program hub
    * Program structure
