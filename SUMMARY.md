@@ -28,8 +28,8 @@
        * [Systems thinking](topics/systems_thinking.md)
        * [Wireframing](topics/wireframing.md)
    * Methods
-       * [Concept development](topics/concept_development.md)
        * [Collaboration](topics/collaboration.md)
+       * [Concept development](topics/concept_development.md)
        * [Double diamond](topics/double_diamond.md)
        * [Statement writing](topics/statement_writing.md)
        * [The design brief](topics/the_design_brief.md)
