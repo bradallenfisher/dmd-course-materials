@@ -29,12 +29,12 @@
        * [Wireframing](topics/wireframing.md)
    * Methods
        * [Concept development](topics/concept_development.md)
+       * [Collaboration](topics/collaboration.md)
        * [Double diamond](topics/double_diamond.md)
        * [Statement writing](topics/statement_writing.md)
        * [The design brief](topics/the_design_brief.md)
        * [Twine Tutorial: Getting Started](topics/twine-tutorial-getting-started.md)
        * Research
-       * [Collaboration](topics/collaboration.md)
    * Fields
        * Animation and VFX
        * Architecture
