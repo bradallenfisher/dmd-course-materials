@@ -1,62 +1,64 @@
 # Lessons
 
 ## 01. What is Design?
-- **Presentation:** History presentation
-- **Reading:**
+- **Presentation:** Slides
+- **Reading:** 
 - **Activity:** Start a portfolio
 - **Activity:** 
 - **Survey:** Interest survey
-  - Take a survey indicating interests. Depending on answers, recommendations for podcasts, online magazines, communities, etc. are given. This replaces the 1-on-1 conversation a professor might have in the classroom to get a student excited and involved with subjectmatter beyond the classroom.
-
-
+  - Take a survey indicating interests. Depending on answers, recommendations for podcasts, online magazines, communities, etc. are given. This takes the place of the 1-on-1 conversation a professor might have in the classroom to get a student excited and involved with subjectmatter beyond the classroom.
 
 ## 02. User Experience Design (UX)
-- **Presentation:**
-- **Reading:**
-  - Design Thinking
+- **Presentation:** Slides
+- **Reading:** 
+  - [Design Thinking](../topics/design_thinking.md)
   - [Wireframing](../topics/wireframing.md)
   - [Semiotics](../topics/semiotics.md)
-  - [Mental model](../topics/mental-model.md)
+  - [Mental model](../topics/mental_model.md)
   - [Brand](../topics/brand.md)
-- **Activity:** [Drawing a Journey Map](../practice/drawing-a-journey-map.md)
-- **Activity:** [Design an Interface](../practice/design-an-interface.md)
-- **Reflection writing:** Blog Post
+- **Activity:** [Drawing a Journey Map](../practice/drawing_a_journey_map.md)
+  - Demo
+- **Activity:** [Design an Interface](../practice/design_an_interface.md)
+  - Demo
+- **Reflection writing:** [Blog Post](../practice/blog_post_ux.md)
 
 ## 03. Speculative Design
-- **Presentation:**
+- **Presentation:** Slides
 - **Reading:**
-  - [Constructing Meaning](../topics/critical-thinking.md)
-  - [Critical Thinking](../topics/critical-thinking.md)
-  - [Risk and innovation](../topics/risk-and-innovation.md)
-- **Activity:** [Rethinking the Home](../practice/rethinking-the-home.md)
-- **Project:** [Design Fiction Project](../projects/design-fiction-project.md)
-- **Reflection writing:** Blog Post
+  - [Constructing Meaning](../topics/critical_thinking.md)
+  - [Critical Thinking](../topics/critical_thinking.md)
+  - [Risk and innovation](../topics/risk_and_innovation.md)
+- **Activity:** [Rethinking the Home](../practice/rethinking_the_home.md)
+  - Demo
+- **Project:** [Design Fiction Project](../projects/design_fiction_project.md)
+- **Reflection writing:** [Blog Post](../practice/blog_post_speculative_design.md)
 
 ## 04. Remix and curation
-- **Presentation:**
-- **Reading:**
+- **Presentation:** Slides
+- **Reading:** 
   - [Remix](../topics/remix.md)
   - [Media](../topics/media.md)
   - [Sound](../topics/sound.md)
   - [Intellectual property](../topics/intellectual-property.md)
 - **Activity:** [Curating](../practice/curating-for-an-idea.md)
-- **Reflection writing:** Blog Post
+  - Demo
+- **Reflection writing:** [Blog Post](../practice/blog_post_remix_curation.md)
 
 ## 05. Narrative
-- **Reading/watching:** Introduction to [Narrative](../topics/narrative.md)
-- **Reading:** Link to a Story
+- **Reading/watching:** [Narrative](../topics/narrative.md)
+- **Reading:** 
 - **Activity:** [Story Breakdown](practice/story_breakdown.md)
 - **Activity (Choose 1):**
   - [Linear narrative activity](../practice/linear_narrative.md)
   - [Non-linear narrative activity](../practice/non-linear_narrative.md)
 - **Project:** [Hypertext Narrative](../projects/hypertext_narrative_project.md)
-- **Presentation:** [Blog Post](../practice/blog_post_narrative.md)
+- **Project Presentation:** [Slides](../practice/blog_post_narrative.md)
 
 ## 06. Open Design
-- **Presentation:**
+- **Presentation:** Slides
 - **Reading:**
-  - [Tools and technology](../topics/tools-and-technology.md)
-  - [Systems Thinking](../topics/systems-thinking.md)
+  - [Tools and technology](../topics/tools_and_technology.md)
+  - [Systems Thinking](../topics/systems_thinking.md)
   - [Sustainability](../topics/sustainability.md)
   - [Activism](../topics/activism.md)
   - [Governance](../topics/governance.md)
@@ -64,12 +66,12 @@
   - [Modularity](../topics/modularity.md)
   - [Community](../topics/community.md)
 - **Activity:** [Open Source Gift](../practice/open_source_gift.md)
-- **Reflection writing:** Blog Post
+- **Reflection writing:** [Blog Post](../practice/blog_post_open_design.md)
 
 ## 07. Co-generative Design
-- **Presentation:**
+- **Presentation:** Slides
 - **Reading:**
   - [DIY](../topics/diy.md)
   - [Collaboration](../topics/collaboration.md)
-- **Activity:**
-- **Project:** [Toolkit Design Project](../projects/toolkit-design-project.md)
+- **Activity:** 
+- **Project:** [Toolkit Design Project](../projects/toolkit_design_project.md)
