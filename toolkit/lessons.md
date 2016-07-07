@@ -3,6 +3,7 @@
 ## 01. What is Design?
 - **Presentation:** Slides
 - **Reading:** 
+- **Terms:**
 - **Activity:** Start a portfolio
 - **Activity:** 
 - **Survey:** Interest survey
@@ -11,6 +12,7 @@
 ## 02. User Experience Design (UX)
 - **Presentation:** Slides
 - **Reading:** 
+- **Terms:**
   - [Design Thinking](../topics/design_thinking.md)
   - [Wireframing](../topics/wireframing.md)
   - [Semiotics](../topics/semiotics.md)
@@ -25,6 +27,7 @@
 ## 03. Speculative Design
 - **Presentation:** Slides
 - **Reading:**
+- **Terms:**
   - [Constructing Meaning](../topics/critical_thinking.md)
   - [Critical Thinking](../topics/critical_thinking.md)
   - [Risk and innovation](../topics/risk_and_innovation.md)
@@ -36,6 +39,7 @@
 ## 04. Remix and curation
 - **Presentation:** Slides
 - **Reading:** 
+- **Terms:**
   - [Remix](../topics/remix.md)
   - [Media](../topics/media.md)
   - [Sound](../topics/sound.md)
@@ -47,6 +51,7 @@
 ## 05. Narrative
 - **Reading/watching:** [Narrative](../topics/narrative.md)
 - **Reading:** 
+- **Terms:**
 - **Activity:** [Story Breakdown](practice/story_breakdown.md)
 - **Activity (Choose 1):**
   - [Linear narrative activity](../practice/linear_narrative.md)
@@ -57,6 +62,7 @@
 ## 06. Open Design
 - **Presentation:** Slides
 - **Reading:**
+- **Terms:**
   - [Tools and technology](../topics/tools_and_technology.md)
   - [Systems Thinking](../topics/systems_thinking.md)
   - [Sustainability](../topics/sustainability.md)
@@ -71,6 +77,7 @@
 ## 07. Co-generative Design
 - **Presentation:** Slides
 - **Reading:**
+- **Terms:**
   - [DIY](../topics/diy.md)
   - [Collaboration](../topics/collaboration.md)
 - **Activity:** 
