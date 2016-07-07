@@ -1,6 +1,6 @@
 # Lessons
-
-## 01. What is Design?
+## DMD 100
+### 01. What is Design?
 - **Presentation:** Slides
 - **Reading:** 
 - **Terms:**
@@ -9,7 +9,7 @@
 - **Survey:** Interest survey
   - Take a survey indicating interests. Depending on answers, recommendations for podcasts, online magazines, communities, etc. are given. This takes the place of the 1-on-1 conversation a professor might have in the classroom to get a student excited and involved with subjectmatter beyond the classroom.
 
-## 02. User Experience Design (UX)
+### 02. User Experience Design (UX)
 - **Presentation:** Slides
 - **Reading:** 
 - **Terms:**
@@ -24,7 +24,7 @@
   - Demo
 - **Reflection writing:** [Blog Post](../practice/blog_post_ux.md)
 
-## 03. Speculative Design
+### 03. Speculative Design
 - **Presentation:** Slides
 - **Reading:**
 - **Terms:**
@@ -36,7 +36,7 @@
 - **Project:** [Design Fiction Project](../projects/design_fiction_project.md)
 - **Reflection writing:** [Blog Post](../practice/blog_post_speculative_design.md)
 
-## 04. Remix and curation
+### 04. Remix and curation
 - **Presentation:** Slides
 - **Reading:** 
 - **Terms:**
@@ -59,7 +59,7 @@
 - **Project:** [Hypertext Narrative](../projects/hypertext_narrative_project.md)
 - **Project Presentation:** [Slides](../practice/blog_post_narrative.md)
 
-## 06. Open Design
+### 06. Open Design
 - **Presentation:** Slides
 - **Reading:**
 - **Terms:**
@@ -74,7 +74,7 @@
 - **Activity:** [Open Source Gift](../practice/open_source_gift.md)
 - **Reflection writing:** [Blog Post](../practice/blog_post_open_design.md)
 
-## 07. Co-generative Design
+### 07. Co-generative Design
 - **Presentation:** Slides
 - **Reading:**
 - **Terms:**
@@ -82,3 +82,7 @@
   - [Collaboration](../topics/collaboration.md)
 - **Activity:** 
 - **Project:** [Toolkit Design Project](../projects/toolkit_design_project.md)
+
+## DMD 300
+
+## DMD 400
