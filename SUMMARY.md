@@ -28,6 +28,7 @@
        * [Sustainable design](topics/sustainable_design.md)
        * [Systems thinking](topics/systems_thinking.md)
        * [Wireframing](topics/wireframing.md)
+       * SOFI
    * Methods
        * [Collaboration](topics/collaboration.md)
        * [Concept development](topics/concept_development.md)
