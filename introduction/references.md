@@ -8,5 +8,6 @@ The content in this book is an amalgamation of information sourced from books, a
 
 ## Websites
 
-- SOFI: [State of the Future Index](http://www.millennium-project.org/millennium/SOFI.html)
+- [Core77.com](http://core77.com)
+- [State of the Future Index](http://www.millennium-project.org/millennium/SOFI.html)
 
