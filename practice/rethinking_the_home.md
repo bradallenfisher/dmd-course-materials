@@ -2,7 +2,6 @@
 
 In this activity, you will imagine the design needs of a dwelling for a future society. Describe the attributes and function of the dwelling and it's surroundings along with the attributes and values of the people who reside there.
 
-
 ## Learning resources
 ### Readings
 
