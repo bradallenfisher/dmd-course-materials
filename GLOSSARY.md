@@ -151,3 +151,7 @@ Design approach that incorporates biomimicry as model for processing materials t
 Being in the position of another person to better understand their unique perspective.
 
 Designers can use empathy as a tool in the design process to better predict the way people might assign value, interact, and respond to products and services.
+
+## SOFI
+
+"The State of the Future Index is an indication of the 10-year outlook for the future, based on historical data of selected variables for the previous 20 or more years and on judgments about the best and worst plausible 10-year outcomes for each variable. It is constructed with key variables that are individually forecast and that in aggregate can indicate the potential trend of the future."(Citation: [State of the Future Index](http://www.millennium-project.org/millennium/SOFI.html)
