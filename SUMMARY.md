@@ -23,12 +23,12 @@
        * [Open design](topics/open_design.md)
        * [Risk and innovation](topics/risk_and_innovation.md)
        * [Semiotics](topics/semiotics.md)
+       * SOFI
        * Sound
        * [Speculative design](topics/speculative_design.md)
        * [Sustainable design](topics/sustainable_design.md)
        * [Systems thinking](topics/systems_thinking.md)
        * [Wireframing](topics/wireframing.md)
-       * SOFI
    * Methods
        * [Collaboration](topics/collaboration.md)
        * [Concept development](topics/concept_development.md)
