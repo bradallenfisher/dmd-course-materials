@@ -5,7 +5,7 @@
    * [How to use this book](introduction/how_to_use_this_book.md)
    * [Measuring success](introduction/measuring_success.md)
    * [References](introduction/references.md)
-   * Recommended Tools
+   * [Recommended Tools](introduction/recommended_tools.md)
 * Topics
    * Principles
        * Brand
