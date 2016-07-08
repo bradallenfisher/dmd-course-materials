@@ -23,7 +23,7 @@
        * [Open design](topics/open_design.md)
        * [Risk and innovation](topics/risk_and_innovation.md)
        * [Semiotics](topics/semiotics.md)
-       * SOFI
+       * [SOFI](topics/sofi.md)
        * Sound
        * [Speculative design](topics/speculative_design.md)
        * [Sustainable design](topics/sustainable_design.md)
