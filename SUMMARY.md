@@ -4,7 +4,7 @@
    * [Preface](introduction/preface.md)
    * [How to use this book](introduction/how_to_use_this_book.md)
    * [Measuring success](introduction/measuring_success.md)
-   * References
+   * [References](references.md)
 * Topics
    * Principles
        * Brand
