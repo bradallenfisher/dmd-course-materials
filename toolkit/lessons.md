@@ -12,6 +12,7 @@
 ### 02. User Experience Design (UX)
 - **Presentation:** Slides
 - **Reading:** 
+  - Design and Truth by Robert Grudin: Chapter - Good design tells the truth
 - **Terms:**
   - [Design Thinking](../topics/design_thinking.md)
   - [Wireframing](../topics/wireframing.md)
@@ -24,14 +25,18 @@
   - Demo
 - **Reflection writing:** [Blog Post](../practice/blog_post_ux.md)
 
-### 03. Speculative Design
+### 03. Speculative Design (Renaming to Discursive Design)
 - **Presentation:** Slides
-- **Reading:**
+- **Reading:** 
+  - Design and Truth by Robert Grudin: Chapter - Good design tells the truth
+  - [What is discursive design](http://www.core77.com/posts/41991/What-is-Discursive-Design)
 - **Terms:**
   - [Constructing Meaning](../topics/critical_thinking.md)
   - [Critical Thinking](../topics/critical_thinking.md)
   - [Risk and innovation](../topics/risk_and_innovation.md)
-- **Activity:** [Rethinking the Home](../practice/rethinking_the_home.md)
+- **Activity:** 
+  - [Rethinking the Home](../practice/rethinking_the_home.md)
+  - Re-design
   - Demo
 - **Project:** [Design Fiction Project](../projects/design_fiction_project.md)
 - **Reflection writing:** [Blog Post](../practice/blog_post_speculative_design.md)
