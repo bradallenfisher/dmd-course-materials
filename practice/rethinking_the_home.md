@@ -1,14 +1,17 @@
-# Open Dwelling
+# Dwelling on the future
 
-In their project, [United Micro Kingdoms (UmK): A Design Fiction](http://www.unitedmicrokingdoms.org/), Dunne and Raby explore the value systems of fictional cultures and their built environments.
+## Brief
+In their project, [United Micro Kingdoms (UmK): A Design Fiction](http://www.unitedmicrokingdoms.org/), Dunne and Raby explore the value systems of fictional cultures and their built environments. These societies, while invented, are framed in such a way that has the viewer trying to self categorize their own value systems.
 
 In this activity, you will imagine the design needs of a dwelling for a fictional. Describe the attributes and function of the dwelling and it's surroundings along with the attributes and values of the people who reside there.
+
+
 
 ## Learning resources
 ### Readings
 
 ## Project management
-
+First Diamond.
 
 ## Steps
 
