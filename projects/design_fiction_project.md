@@ -12,7 +12,7 @@ You will produce interface mockups and visualizations of scenarios in which the 
 
 ## Learning resources
 
-Topic: [Speculative Design](../topics/speculative_design.md)
+Topic: [Discursive Design](../topics/discursive_design.md)
 
 ### Readings and screenings
 
