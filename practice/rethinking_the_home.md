@@ -1,9 +1,14 @@
-# Rethinking the Home
+# Open Dwelling
 
-In this activity, you will imagine the design needs of a dwelling for a future society. Describe the attributes and function of the dwelling and it's surroundings along with the attributes and values of the people who reside there.
+In their project, [United Micro Kingdoms (UmK): A Design Fiction](http://www.unitedmicrokingdoms.org/), Dunne and Raby explore the value systems of fictional cultures and their built environments.
+
+In this activity, you will imagine the design needs of a dwelling for a fictional. Describe the attributes and function of the dwelling and it's surroundings along with the attributes and values of the people who reside there.
 
 ## Learning resources
 ### Readings
+
+## Project management
+
 
 ## Steps
 
