@@ -26,7 +26,7 @@
        * [Semiotics](topics/semiotics.md)
        * [SOFI](topics/sofi.md)
        * Sound
-       * [Discursive design](topics/speculative_design.md)
+       * [Discursive design](topics/discursive_design.md)
        * [Sustainable design](topics/sustainable_design.md)
        * [Systems thinking](topics/systems_thinking.md)
        * [Wireframing](topics/wireframing.md)
