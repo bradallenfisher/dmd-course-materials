@@ -1,6 +1,6 @@
 # Design fiction project
 ![Photo of a dissasembled consumer camera with its parts neatly laid out on a table](https://unsplash.it/3000/1500?image=36)
-## Breif
+## Brief
 
 (Linked to lesson activity.) Design fictions are useful for referencing current issues, while proposing how something could be. In this project, you will design and prototype a fictional interface that solves a contemporary problem. (IE - An interface that helps you get relevant and accurate information online)
 
