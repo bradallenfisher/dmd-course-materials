@@ -20,7 +20,7 @@
   - [Mental model](../topics/mental_model.md)
   - [Brand](../topics/brand.md)
 - **Activity:** [Drawing a Journey Map](../practice/drawing_a_journey_map.md)
-  - Demo
+  - Demo (TODO: produce digital assets)
 - **Activity:** [Design an Interface](../practice/design_an_interface.md)
   - Demo
 - **Reflection writing:** [Blog Post](../practice/blog_post_ux.md)
