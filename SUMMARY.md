@@ -72,7 +72,7 @@
    * [Future Living](practice/future_living.md)
    * [Story Breakdown](practice/story_breakdown.md)
    * [Writing prompt: Design and truth](practice/writing_prompt_design_and_truth.md)
-   * Dwelling Design
+   * [Dwelling Design](practice/dwelling_design.md)
 * Toolkit
    * Program hub
    * Program structure
