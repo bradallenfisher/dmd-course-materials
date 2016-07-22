@@ -73,6 +73,7 @@
    * [Story Breakdown](practice/story_breakdown.md)
    * [Writing prompt: Design and truth](practice/writing_prompt_design_and_truth.md)
    * [Dwelling Design](practice/dwelling_design.md)
+   * Tell me a story
 * Toolkit
    * Program hub
    * Program structure
