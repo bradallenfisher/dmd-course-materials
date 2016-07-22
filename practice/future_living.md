@@ -1,7 +1,7 @@
 # Future living
 
 ## Background
-In their speculative design project, [United Micro Kingdoms (UmK): A Design Fiction](http://www.unitedmicrokingdoms.org/), Dunne and Raby explore the value systems of fictional cultures and their built environments. These societies, while invented, are framed in such a way that has the viewer trying to self categorize their own value systems. See discursive design.
+In their speculative design project, [United Micro Kingdoms (UmK): A Design Fiction](http://www.unitedmicrokingdoms.org/), Dunne and Raby explore the value systems of fictional cultures and their built environments. These societies, while invented, are framed in such a way that has the viewer trying to self categorize and better understand their own value systems. See discursive design.
 
   In this activity, you will generate and visualize How Might We (HMW) questions to better understand themes and opportunities for yourself when living in the future.
 
