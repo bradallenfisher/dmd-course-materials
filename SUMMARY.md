@@ -79,5 +79,5 @@
    * [Career trajectory](toolkit/career_trajectory.md)
    * [Project Management](toolkit/project_management.md)
    * [Lessons](toolkit/lessons.md)
-   * [Futurecasting: Site Design](toolkit/futurecasting.md)
+   * [Futurecasting](toolkit/futurecasting.md)
 
