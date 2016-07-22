@@ -13,7 +13,7 @@ In their speculative design project, [United Micro Kingdoms (UmK): A Design Fict
 Upload your completed worksheet to the assignment dropbox.
 
 ### Deliverable 2: HMW Visualization
-Create a digital or physical collage based on your sketch from the futurecasting worksheet that communicates your HMW question.
+Create a digital or physical collage based on your sketch from the futurecasting worksheet that communicates your HMW question. You may combine appropriated images, sketches, typography, and photographs.
 
 Example collage: **[TODO - create example collage]**
 
