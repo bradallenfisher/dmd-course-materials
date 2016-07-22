@@ -3,7 +3,7 @@
 ## Background
 In their project, [United Micro Kingdoms (UmK): A Design Fiction](http://www.unitedmicrokingdoms.org/), Dunne and Raby explore the value systems of fictional cultures and their built environments. These societies, while invented, are framed in such a way that has the viewer trying to self categorize their own value systems.
 
-  In this activity, you will ~~imagine the design needs of a dwelling for a person in the future, yourself. Describe the attributes and function of the dwelling and it's surroundings along with the attributes and values of who will reside there.~~ find and propose How Might We (HMW) questions to better understand the core problem.
+  In this activity, you will find and propose How Might We (HMW) questions to better understand themes and opportunities for living in the future.
 
 What are your values now?
 Will they change in the future?
