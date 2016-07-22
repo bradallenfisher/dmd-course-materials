@@ -35,12 +35,11 @@
   - [Critical Thinking](../topics/critical_thinking.md)
   - [Risk and innovation](../topics/risk_and_innovation.md)
 - **Activity:** 
-  - Blog Post: [Design and Truth by Robert Grudin: Chapter - Good design tells the truth](../practice/writing_prompt_design_and_truth.md)
   - [Future Living](../practice/future_living.md)
-  - Re-design
-  - Demo
-- **Project:** [Design Fiction Project](../projects/design_fiction_project.md)
-- **Reflection writing:** [Blog Post](../practice/blog_post_speculative_design.md)
+- **Project:**
+  - [Design Fiction Project](../projects/design_fiction_project.md)
+- **Reflection writing:**
+  - Blog Post: [Design and Truth by Robert Grudin: Chapter - Good design tells the truth](../practice/writing_prompt_design_and_truth.md)
 
 ### 04. Remix and curation
 - **Presentation:** Slides
