@@ -12,6 +12,8 @@ Main considerations
 - framing
 - foreground, middle ground, and background
 - composition
+- hot spots
+- noise
 - processing
 - Image resolution and compression format
 
