@@ -1,4 +1,4 @@
-# Dwelling in the future
+# Future living
 
 ## Brief
 In their project, [United Micro Kingdoms (UmK): A Design Fiction](http://www.unitedmicrokingdoms.org/), Dunne and Raby explore the value systems of fictional cultures and their built environments. These societies, while invented, are framed in such a way that has the viewer trying to self categorize their own value systems.
