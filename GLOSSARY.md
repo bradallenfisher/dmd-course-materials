@@ -155,3 +155,7 @@ See also on [Lynda.com](http://www.lynda.com/Higher-Education-tutorials/Universa
 ## White effects
 
 See also on [Lynda.com](http://www.lynda.com/Higher-Education-tutorials/Universal-Principles-Design/193717-2.html) and in the book, [Universal Principles of Design](https://www.amazon.com/Universal-Principles-Design-Revised-Updated/dp/1592535879).
+
+## discursive design
+
+Design for the sake of intellectual engagement with an issue or potential issue. See [What is discursive design?](http://www.core77.com/posts/41991/What-is-Discursive-Design)
