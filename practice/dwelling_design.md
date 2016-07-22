@@ -1,4 +1,8 @@
 # Dwelling Design
+## Design questions
+What are your values now?
+Will they change in the future?
+How do you know?
 
 ## Steps
 
