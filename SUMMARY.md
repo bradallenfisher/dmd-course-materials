@@ -71,6 +71,7 @@
    * [Open Source Gift](practice/open_source_gift.md)
    * [Rethinking the Home](practice/rethinking_the_home.md)
    * [Story Breakdown](practice/story_breakdown.md)
+   * Writing prompt: Design and truth
 * Toolkit
    * Program hub
    * Program structure
