@@ -10,6 +10,9 @@ Just as Dunne and Raby's UmK project proposed ways of living in the future, you 
 
 (This should take no more than 45 minutes to complete)
 
+
+Example completed worksheet: **[TODO - create example completed worksheet]**
+
 Upload your completed worksheet to the assignment dropbox.
 
 ### Deliverable 2: HMW Visualization
