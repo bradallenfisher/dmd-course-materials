@@ -10,11 +10,10 @@ Will they change in the future?
 How do you know?
 
 ### Deliverable 1: Future-casting
-**Step 1:** [Complete Futurecasting worksheet](https://docs.google.com/presentation/d/1eYc1Jnw937SZmfk0vvyZl-N265pWCgvpkAypJXCOX50/edit?usp=sharing) with your assigned partner. You will each complete this on your own, but can ask your partner for help if you get stuck. (45 minutes)
+[Complete Futurecasting worksheet](https://docs.google.com/presentation/d/1eYc1Jnw937SZmfk0vvyZl-N265pWCgvpkAypJXCOX50/edit?usp=sharing) with your assigned partner. You will each complete this on your own, but can ask your partner for help if you get stuck. (45 minutes)
 
-**Step 2:** Create a digital or physical collage based on your sketch from step 1 that communicates your HMW question. (1 hour)
-
-### Deliverable 2: Prototyping
+### Deliverable 2: Visual communication
+Create a digital or physical collage based on your sketch from the futurecasting worksheet that communicates your HMW question. (1 hour)
 
 ## Learning resources
 ### Readings
