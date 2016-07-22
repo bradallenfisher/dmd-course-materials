@@ -26,6 +26,4 @@ Upload your completed visual to the assignment dropbox. Please follow [documenta
 
 ---
 
-Learning Outcomes:
-dramatic plot
-terminology
+**[TODO: Map design principles to this acitivty]**
