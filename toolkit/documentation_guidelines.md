@@ -14,3 +14,7 @@ Main considerations
 - composition
 
 ## Recording a production process
+
+Main considerations
+
+...
