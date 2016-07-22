@@ -2,7 +2,7 @@
 
 Read **Design and Truth by Robert Grudin: Chapter - Good design tells the truth**
 
-Write a blog post that addresses the following:
+Write a response that addresses the following:
 
 Describe an example that Mr. Grudin highlights in this chapter. Do you agree with his assessment? Why? 
 
