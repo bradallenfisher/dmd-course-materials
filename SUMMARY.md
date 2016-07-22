@@ -69,7 +69,7 @@
    * [Make a Brand](practice/make_a_brand.md)
    * [Non-linear Narrative](practice/non-linear_narrative.md)
    * [Open Source Gift](practice/open_source_gift.md)
-   * [Rethinking the Home](practice/rethinking_the_home.md)
+   * [Rethinking the Home](practice/future_living.md)
    * [Story Breakdown](practice/story_breakdown.md)
    * [Writing prompt: Design and truth](practice/writing_prompt_design_and_truth.md)
 * Toolkit
