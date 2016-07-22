@@ -5,10 +5,6 @@ In their project, [United Micro Kingdoms (UmK): A Design Fiction](http://www.uni
 
   In this activity, you will generate and visualize How Might We (HMW) questions to better understand themes and opportunities for yourself when living in the future.
 
-What are your values now?
-Will they change in the future?
-How do you know?
-
 ### Deliverable 1: Generate HMW Question
 [Complete Futurecasting worksheet](https://docs.google.com/presentation/d/1eYc1Jnw937SZmfk0vvyZl-N265pWCgvpkAypJXCOX50/edit?usp=sharing) with your assigned partner. You will each complete this on your own, but can ask your partner for help if you get stuck. Your pair word for the worksheet is "LIVING"
 
