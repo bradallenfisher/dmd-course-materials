@@ -81,5 +81,5 @@
    * [Project Management](toolkit/project_management.md)
    * [Lessons](toolkit/lessons.md)
    * [Futurecasting](toolkit/futurecasting.md)
-   * Documentation Guidelines
+   * [Documentation Guidelines](toolkit/documentation_guidelines.md)
 
