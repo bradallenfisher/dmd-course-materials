@@ -12,6 +12,8 @@ Main considerations
 - framing
 - foreground, middle ground, and background
 - composition
+- processing
+- Image resolution and compression format
 
 ## Recording a production process
 
