@@ -96,6 +96,10 @@ See also on [Lynda.com](http://www.lynda.com/Higher-Education-tutorials/Universa
 
 See also on [Lynda.com](http://www.lynda.com/Higher-Education-tutorials/Universal-Principles-Design/193717-2.html) and in the book, [Universal Principles of Design](https://www.amazon.com/Universal-Principles-Design-Revised-Updated/dp/1592535879).
 
+## HMW
+
+"How might we..." is a restatement and reframing of a gripe or problem as prompt for possible solutions. (I.E. - How might we bring quality education to poor communities without access to electricity?)
+
 ## IKEA effect
 
 See also on [Lynda.com](http://www.lynda.com/Higher-Education-tutorials/Universal-Principles-Design/193717-2.html) and in the book, [Universal Principles of Design](https://www.amazon.com/Universal-Principles-Design-Revised-Updated/dp/1592535879).
@@ -151,7 +155,3 @@ See also on [Lynda.com](http://www.lynda.com/Higher-Education-tutorials/Universa
 ## White effects
 
 See also on [Lynda.com](http://www.lynda.com/Higher-Education-tutorials/Universal-Principles-Design/193717-2.html) and in the book, [Universal Principles of Design](https://www.amazon.com/Universal-Principles-Design-Revised-Updated/dp/1592535879).
-
-## HMW
-
-HMW stands for "How might we..." which is a restatement and reframing of a gripe or problem as prompt for possible solutions.
