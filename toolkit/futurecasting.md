@@ -1,4 +1,4 @@
-# Futurecasting: Site Design
+# Future-casting
 
 ## Getting Started
  [Worksheet](https://docs.google.com/presentation/d/1eYc1Jnw937SZmfk0vvyZl-N265pWCgvpkAypJXCOX50/edit?usp=sharing)
