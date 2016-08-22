@@ -19,6 +19,7 @@
   - [Semiotics](../topics/semiotics.md)
   - [Mental model](../topics/mental_model.md)
   - [Brand](../topics/brand.md)
+  - Ethnography
 - **Activity:** [Drawing a Journey Map](../practice/drawing_a_journey_map.md)
   - Demo (TODO: produce digital assets)
 - **Activity:** [Design an Interface](../practice/design_an_interface.md)
