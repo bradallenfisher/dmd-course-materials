@@ -59,7 +59,7 @@
    * [Toolkit Design Project](projects/toolkit_design_project.md)
    * [Interactive Story Project](projects/interactive_story_project.md)
    * [Digital Service or Product Project](projects/digital_service_or_product.md)
-   * Ritual
+   * [Ritual](projects/ritual.md)
 * Practice
    * [Blog Post: Open Design](practice/blog_post_open_design.md)
    * [Blog Post: Narrative](practice/blog_post_narrative.md)
