@@ -26,7 +26,7 @@
   - Demo
 - **Reflection writing:** [Blog Post](../practice/blog_post_ux.md)
 
-### 03. Speculative Design (Renaming to Discursive Design)
+### 03. Discursive Design)
 - **Presentation:** Slides
 - **Reading:** 
   - [What is discursive design](http://www.core77.com/posts/41991/What-is-Discursive-Design)
@@ -42,7 +42,27 @@
 - **Reflection writing:**
   - Blog Post: [Design and Truth by Robert Grudin: Chapter - Good design tells the truth](../practice/writing_prompt_design_and_truth.md)
 
-### 04. Remix and curation
+### 04. Narrative
+- **Reading/watching:** [Narrative](../topics/narrative.md)
+- **Reading:** 
+- **Terms:**
+- **Activity:** [Story Breakdown](practice/story_breakdown.md)
+- **Activity (Choose 1):**
+  - [Linear narrative activity](../practice/linear_narrative.md)
+  - [Non-linear narrative activity](../practice/non-linear_narrative.md)
+- **Project:** [Hypertext Narrative](../projects/hypertext_narrative_project.md)
+- **Project Presentation:** [Slides](../practice/blog_post_narrative.md)
+
+### 05. Co-generative Design
+- **Presentation:** Slides
+- **Reading:**
+- **Terms:**
+  - [DIY](../topics/diy.md)
+  - [Collaboration](../topics/collaboration.md)
+- **Activity:** 
+- **Project:** [Toolkit Design Project](../projects/toolkit_design_project.md)
+
+### 06. Remix and curation
 - **Presentation:** Slides
 - **Reading:** 
 - **Terms:**
@@ -54,18 +74,7 @@
   - Demo
 - **Reflection writing:** [Blog Post](../practice/blog_post_remix_curation.md)
 
-## 05. Narrative
-- **Reading/watching:** [Narrative](../topics/narrative.md)
-- **Reading:** 
-- **Terms:**
-- **Activity:** [Story Breakdown](practice/story_breakdown.md)
-- **Activity (Choose 1):**
-  - [Linear narrative activity](../practice/linear_narrative.md)
-  - [Non-linear narrative activity](../practice/non-linear_narrative.md)
-- **Project:** [Hypertext Narrative](../projects/hypertext_narrative_project.md)
-- **Project Presentation:** [Slides](../practice/blog_post_narrative.md)
-
-### 06. Open Design
+### 07. Open Design
 - **Presentation:** Slides
 - **Reading:**
 - **Terms:**
@@ -79,15 +88,6 @@
   - [Community](../topics/community.md)
 - **Activity:** [Open Source Gift](../practice/open_source_gift.md)
 - **Reflection writing:** [Blog Post](../practice/blog_post_open_design.md)
-
-### 07. Co-generative Design
-- **Presentation:** Slides
-- **Reading:**
-- **Terms:**
-  - [DIY](../topics/diy.md)
-  - [Collaboration](../topics/collaboration.md)
-- **Activity:** 
-- **Project:** [Toolkit Design Project](../projects/toolkit_design_project.md)
 
 ## DMD 300
 
