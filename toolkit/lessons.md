@@ -90,5 +90,7 @@
 - **Reflection writing:** [Blog Post](../practice/blog_post_open_design.md)
 
 ## DMD 300
+Projects based on SOFI issues.
 
 ## DMD 400
+Self directed projects and project management.
