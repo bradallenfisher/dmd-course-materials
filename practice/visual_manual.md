@@ -1,19 +1,22 @@
 # Visual Manual
 ![Desk with symbol book](https://unsplash.it/1000/400?image=119)
 
-From the moment we wake up, we are interacting with the designed environment. Everything in the home, place of work, and journey to and from has been designed by a person or institution. The degree of care for each designed artifact or experience can vary dramatically.
+From the moment we wake up, we are interacting with the designed environment. Everything in the home, place of work, and journey to and from has been designed by a person or institution. The degree of care for each designed artifact or experience can vary dramatically, giving users a range of experience from a sense delight to intense dismay. One of the contributing factors is describing to a person how they should interact with the design in question.
 
-For this activity, you will create a storyboard that visually communicates to another person how to operate, perform, or otherwise understand some artifact of design. It can be anything from explaining how to make toast to 
+Communicating ideas through visual images can be difficult. Listen to this 99 Percent Invisible podcast episode called Ten Thousand Years, where designers attempt to warn future civilizations about the dangers of radioactivity. 
+  
+[99 Percent Invisible: 10,000 Years](http://99percentinvisible.org/episode/ten-thousand-years/) ** (31:51 min)**
 
+For this activity, you will create a visual manual that visually communicates to another person how to operate, perform, or otherwise understand something. It can be anything from explaining how to ride a bike to instructions for peeling a banana.
 
+**Process:**
+1. Use any tool, digital or physical to produce the visual manual.
+  - If making drawings by hand, use a scanner for best results.
+2. 
 
-(31:51 min) [http://99percentinvisible.org/episode/ten-thousand-years/](http://99percentinvisible.org/episode/ten-thousand-years/)
-
-**Considerations:**
-Who is your audience?
-**Shared Language**
-
-**Directions:**  
-Operate with
-
-**Example:**
+**Deliverable Requirements:**
+- Photographs not permitted for this activity. Tracing of photographs is permitted.
+- **Format:** [.png](https://en.wikipedia.org/wiki/Portable_Network_Graphics)
+- **Size:** [US Letter](https://en.wikipedia.org/wiki/Letter_(paper_size)) (8.5" x 11")
+- **Orientation:** Portrait
+- **Citation:** Any media acquired from the internet must be properly licensed for use. Please follow licensing guidelines which may include attribution. Don't use media you don't have permission to use. 
