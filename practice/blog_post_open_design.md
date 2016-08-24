@@ -1,5 +1,5 @@
 # Blog Post: Open Design
 
-**Read:** 
+**Read:**
 
 **Writing Prompts:** 
