@@ -76,6 +76,7 @@
    * [Writing prompt: Design and truth](practice/writing_prompt_design_and_truth.md)
    * [Dwelling Design](practice/dwelling_design.md)
    * [Tell me a story](practice/tell_me_a_story.md)
+   * Blog Post: UX
 * Toolkit
    * Program hub
    * Program structure
