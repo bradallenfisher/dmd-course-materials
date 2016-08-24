@@ -11,6 +11,7 @@ For this activity, you will create a visual manual that visually communicates to
 
 **Process:**
 1. Use a drawing tool, digital or physical to produce the visual manual.
+  - Examples:  
   - Use of pre-made graphics is fine. (Example: [Noun Project](https://thenounproject.com/)) 
   - If making drawings by hand, use a scanner for best results.
 2. 
