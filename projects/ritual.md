@@ -4,10 +4,9 @@ For this project, you will create a ritual that can help you or another person m
 # Project Plan	
 
 - Discover
-  - Rip the brief
-    - Establish Context: What are the options?
+  - What are the options?
   - Topics clusters
-    - Inspiration
+    - Find Inspiration
   - Primary Research (Field)
     - Immerse and Observe
     - Interview
