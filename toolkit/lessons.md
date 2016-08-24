@@ -11,32 +11,20 @@
 
 ### 02. User Experience Design (UX)
 - **Presentation:** Slides
-- **Reading:** 
-  - Design and Truth by Robert Grudin: Chapter - Good design tells the truth
 - **Terms:**
   - [Design Thinking](../topics/design_thinking.md)
   - [Wireframing](../topics/wireframing.md)
   - [Semiotics](../topics/semiotics.md)
   - [Mental model](../topics/mental_model.md)
-  - [Brand](../topics/brand.md)
   - Ethnography
-- **Activity:** [Drawing a Journey Map](../practice/drawing_a_journey_map.md)
-  - Demo (TODO: produce digital assets)
-- **Activity:** [Design an Interface](../practice/design_an_interface.md)
-  - Demo
-- **Reflection writing:** [Blog Post](../practice/blog_post_ux.md)
-
-**Activity:**  
-- Design intervention activity: - Draw a visual manual for a confusing user experience.
-
-- **Glossary terms**
-  - Ethnography
+- **Activity:**  
+  - Design intervention activity: - Draw a visual manual for a confusing user experience.
 - **Read, watch, and listen:**  
-  - Tea Ceremony podcast
-  - Design and Truth by Robert Grudin: Chapter 2 - Good design tells the truth
-- Writing:
-  - Blog Post: Design and Truth by Robert Grudin: Chapter - Good design tells the truth
-- Project: Design a Ritual
+  - Listen: Tea Ceremony podcast
+  - Read: Design and Truth by Robert Grudin: Chapter 2 - Good design tells the truth
+- **Reflection writing:**
+  - [Blog Post: Design and Truth by Robert Grudin: Chapter - Good design tells the truth](../practice/blog_post_ux.md)
+- **Project:** [Ritual](../projects/ritual.md)
 
 ### 03. Discursive Design)
 - **Presentation:** Slides
