@@ -77,7 +77,7 @@
    * [Dwelling Design](practice/dwelling_design.md)
    * [Tell me a story](practice/tell_me_a_story.md)
    * [Blog Post: UX](practice/blog_post_ux.md)
-   * Visual Manual
+   * [Visual Manual](practice/visual_manual.md)
 * Toolkit
    * Program hub
    * Program structure
