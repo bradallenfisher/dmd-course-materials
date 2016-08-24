@@ -10,13 +10,14 @@ Communicating ideas through visual images can be difficult. Listen to this 99 Pe
 For this activity, you will create a visual manual that visually communicates to another person how to operate, perform, or otherwise understand something. It can be anything from explaining how to ride a bike to instructions for peeling a banana.
 
 **Process:**
-1. Use any tool, digital or physical to produce the visual manual.
+1. Use a drawing tool, digital or physical to produce the visual manual.
+  - Use of pre-made graphics is fine. (Example: [Noun Project](https://thenounproject.com/)) 
   - If making drawings by hand, use a scanner for best results.
 2. 
 
 **Deliverable Requirements:**
-- Photographs not permitted for this activity. Tracing of photographs is permitted.
-- **Format:** [.png](https://en.wikipedia.org/wiki/Portable_Network_Graphics)
+- Photographs are not permitted for this activity. Tracing of photographs is permitted.
+- **Format:** PDF
 - **Size:** US Letter (8.5" x 11")
 - **Orientation:** Portrait
 - **Citation:** Any media acquired from the internet must be properly licensed for use. Please follow licensing guidelines which may include attribution. Don't use media you don't have permission to use. 
