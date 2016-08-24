@@ -26,6 +26,18 @@
   - Demo
 - **Reflection writing:** [Blog Post](../practice/blog_post_ux.md)
 
+**Activity:**  
+- Design intervention activity: - Draw a visual manual for a confusing user experience.
+
+- **Glossary terms**
+  - Ethnography
+- **Read, watch, and listen:**  
+  - Tea Ceremony podcast
+  - Design and Truth by Robert Grudin: Chapter 2 - Good design tells the truth
+- Writing:
+  - Blog Post: Design and Truth by Robert Grudin: Chapter - Good design tells the truth
+- Project: Design a Ritual
+
 ### 03. Discursive Design)
 - **Presentation:** Slides
 - **Reading:** 
