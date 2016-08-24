@@ -1,5 +1,5 @@
 # Blog Post: Open Design
 
-**Read:** Design and Truth by Robert Grudin: Chapter 2 - Good design tells the truth
+**Read:** 
 
 **Writing Prompts:** 
