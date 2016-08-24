@@ -17,6 +17,6 @@ For this activity, you will create a visual manual that visually communicates to
 **Deliverable Requirements:**
 - Photographs not permitted for this activity. Tracing of photographs is permitted.
 - **Format:** [.png](https://en.wikipedia.org/wiki/Portable_Network_Graphics)
-- **Size:** [US Letter](https://en.wikipedia.org/wiki/Letter_(paper_size)) (8.5" x 11")
+- **Size:** https://en.wikipedia.org/wiki/Letter_(paper_size) (8.5" x 11")
 - **Orientation:** Portrait
 - **Citation:** Any media acquired from the internet must be properly licensed for use. Please follow licensing guidelines which may include attribution. Don't use media you don't have permission to use. 
