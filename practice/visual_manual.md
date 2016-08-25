@@ -7,9 +7,10 @@ Communicating ideas through visual images can be difficult. Listen to this 99 Pe
   
 [99 Percent Invisible: 10,000 Years](http://99percentinvisible.org/episode/ten-thousand-years/) ** (31:51 min)**
 
-For this activity, you will create a visual manual that visually communicates to another person how to operate, perform, or otherwise understand something. It can be anything from explaining how to ride a bike to instructions for peeling a banana.
+For this activity, you will create a visual manual that visually communicates to another person how to operate, perform, or otherwise understand some aspect of daily life. It can be anything from explaining how to ride a bike to instructions for peeling a banana.
 
 **Process:**
+1. Identify a scenario
 1. Use a drawing tool, digital or physical to produce the visual manual.
   - Examples:  
   - Use of pre-made graphics is fine. (Example: [Noun Project](https://thenounproject.com/)) 
@@ -22,3 +23,7 @@ For this activity, you will create a visual manual that visually communicates to
 - **Size:** US Letter (8.5" x 11")
 - **Orientation:** Portrait
 - **Citation:** Any media acquired from the internet must be properly licensed for use. Please follow licensing guidelines which may include attribution. Don't use media you don't have permission to use. 
+
+**Assessment:**
+1. Met the requirements
+2. Completed assignment on time.
