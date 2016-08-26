@@ -12,17 +12,17 @@ For this activity, you will create a visual "How To" guide that explains how to 
 **Process:**
 1. Select something you've struggled to understand for which you would like to create a visual how-to guide
   - Practice KISS.
-1. Use a drawing tool, digital or physical to produce the visual manual.
-  - Examples:  
-  - Using pre-made graphics is fine. (Example: [Noun Project](https://thenounproject.com/)) 
-  - If making drawings by hand, use a scanner for best results.
-2. 
+2. Choose the **graphic structure** that best suits the kind of how-to guide you are making.
+  - Examples include a storyboard, a flow-chart, a timeline, a diagram, or a doodle.
+3. Use a pencil, pen, or marker to draw your how-to guide on paper. 
+  - Use a scanner for best results.
 
 **Deliverable Requirements:**
 - Photographs are not permitted for this activity. Tracing of photographs is permitted.
-- **Format:** PDF
+- **File Type:** PNG or JPG
 - **Size:** US Letter (8.5" x 11")
-- **Orientation:** Portrait
+- **Resolution:** 150 Pixels/Inch (PPI)
+- **Orientation:** portrait
 - **Citation:** Any media acquired from the internet must be properly licensed for use. Please follow licensing guidelines which may include attribution. Don't use media you don't have permission to use. 
 
 **Assessment:**
