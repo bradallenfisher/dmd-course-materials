@@ -7,7 +7,7 @@ Communicating ideas through visual images can be difficult. Listen to this 99 Pe
   
 [99 Percent Invisible: 10,000 Years](http://99percentinvisible.org/episode/ten-thousand-years/) ** (31:51 min)**
 
-For this activity, you will create a visual manual that visually communicates to another person how to operate, perform, or otherwise understand some aspect of daily life. It can be anything from explaining how to ride a bike to instructions for peeling a banana.
+For this activity, you will create a visual manual that visually communicates to another person how to operate, perform, or otherwise understand some aspect of daily life. It can be anything from explaining how to tie a knot to instructions for .
 
 **Process:**
 1. Identify a scenario
