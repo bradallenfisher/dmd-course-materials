@@ -110,7 +110,7 @@ See also on [Lynda.com](http://www.lynda.com/Higher-Education-tutorials/Universa
 
 ## KISS
 
-See also on [Lynda.com](http://www.lynda.com/Higher-Education-tutorials/Universal-Principles-Design/193717-2.html) and in the book, [Universal Principles of Design](https://www.amazon.com/Universal-Principles-Design-Revised-Updated/dp/1592535879).
+See also on [Lynda.com](https://www.lynda.com/Higher-Education-tutorials/KISS/193717/429350-4.html) and in the book, [Universal Principles of Design](https://www.amazon.com/Universal-Principles-Design-Revised-Updated/dp/1592535879).
 
 ## Left-digit effect
 
