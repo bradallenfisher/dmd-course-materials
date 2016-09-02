@@ -24,7 +24,7 @@ For this project, you will create a ritual that can help you or another person m
 - Develop	
   - Ideate and Evaluate
     - [Wireframing](../toolkit/wireframing.md)
-    - User Testing and Feedback
+    - [User Testing and Feedback](../toolkit/user_testing_and_feedback.md)
   - Deliver
-    - Iteration: prototype, test, refine
+    - Prototype
     - MVP: Interactive prototype
