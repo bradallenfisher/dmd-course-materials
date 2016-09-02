@@ -9,7 +9,7 @@ For this project, you will create a ritual that can help you or another person m
     - [Inspire](../toolkit/inspire.md)
   - Primary Research (Field)
     - Immerse and observe
-    - Interview
+    - [Interview](../toolkit/interview.md)
   - Secondary research (Desk)
     - Journey Map
 - Define
