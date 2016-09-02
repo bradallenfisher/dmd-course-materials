@@ -11,10 +11,10 @@ For this project, you will create a ritual that can help you or another person m
     - Immerse and observe
     - [Interview](../toolkit/interview.md)
   - Secondary research (Desk)
-    - Journey Map
+    - [Journey Map](../toolkit/journey_map.md)
 - Define
   - Present unstructured research
-    - User Stories
+    - User stories
   - Group and cluster to find themes
     - Insights
     - Core principles
