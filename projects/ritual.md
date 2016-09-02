@@ -19,7 +19,7 @@ For this project, you will create a ritual that can help you or another person m
     - [Insights](../toolkit/insights.md)
     - [Core principles](../toolkit/core_principles.md)
     - [Insight Statement](../toolkit/insight_statement.md)
-    - How Might We Generator
+    - [How Might We Generator](../toolkit/how_might_we_generator.md)
     - Define Success
 - Develop	
   - Ideate and Evaluate
