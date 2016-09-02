@@ -93,4 +93,5 @@
    * [Immerse and observe](toolkit/immerse_and_observe.md)
    * [Interview](toolkit/interview.md)
    * [Journey map](toolkit/journey_map.md)
+   * User stories
 
