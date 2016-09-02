@@ -26,5 +26,5 @@ For this project, you will create a ritual that can help you or another person m
     - [Wireframing](../toolkit/wireframing.md)
     - [User Testing and Feedback](../toolkit/user_testing_and_feedback.md)
   - Deliver
-    - Prototype
+    - [Prototype](../toolkit/prototype.md)
     - MVP: Interactive prototype
