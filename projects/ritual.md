@@ -16,7 +16,7 @@ For this project, you will create a ritual that can help you or another person m
   - Present unstructured research
     - [User stories](../toolkit/user_stories.md)
   - Group and cluster to find themes
-    - Insights
+    - [Insights](../toolkit/insights.md)
     - Core principles
     - Insight Statement
     - How Might We Generator
