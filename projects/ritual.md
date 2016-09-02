@@ -14,7 +14,7 @@ For this project, you will create a ritual that can help you or another person m
     - [Journey Map](../toolkit/journey_map.md)
 - Define
   - Present unstructured research
-    - User stories
+    - [User stories](../toolkit/user_stories.md)
   - Group and cluster to find themes
     - Insights
     - Core principles
