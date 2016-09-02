@@ -17,8 +17,8 @@ For this project, you will create a ritual that can help you or another person m
     - [User stories](../toolkit/user_stories.md)
   - Group and cluster to find themes
     - [Insights](../toolkit/insights.md)
-    - Core principles
-    - Insight Statement
+    - [Core principles](../toolkit/core_principles.md)
+    - [Insight Statement](../toolkit/insight_statement.md)
     - How Might We Generator
     - Define Success
 - Develop	
