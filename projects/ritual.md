@@ -8,7 +8,7 @@ For this project, you will create a ritual that can help you or another person m
   - Topics clusters
     - [Inspire](../toolkit/inspire.md)
   - Primary Research (Field)
-    - Immerse and Observe
+    - Immerse and observe
     - Interview
   - Secondary research (Desk)
     - Journey Map
