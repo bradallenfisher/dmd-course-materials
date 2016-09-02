@@ -92,5 +92,5 @@
    * [Inspire](toolkit/inspire.md)
    * [Immerse and observe](toolkit/immerse_and_observe.md)
    * [Interview](toolkit/interview.md)
-   * Journey map
+   * [Journey map](toolkit/journey_map.md)
 
