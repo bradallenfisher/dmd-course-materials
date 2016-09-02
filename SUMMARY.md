@@ -39,7 +39,6 @@
        * [The design brief](topics/the_design_brief.md)
        * [Twine Tutorial: Getting Started](topics/twine-tutorial-getting-started.md)
        * Brainwriting
-       * Inspire
    * Fields
        * Animation and VFX
        * Architecture
