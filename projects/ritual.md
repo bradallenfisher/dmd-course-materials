@@ -6,7 +6,7 @@ For this project, you will create a ritual that can help you or another person m
 - Discover
   - What are the options?
   - Topics clusters
-    - Find Inspiration
+    - Inspire
   - Primary Research (Field)
     - Immerse and Observe
     - Interview
