@@ -23,7 +23,7 @@ For this project, you will create a ritual that can help you or another person m
     - [Define Success](../toolkit/define_success.md)
 - Develop	
   - Ideate and Evaluate
-    - Wireframing
+    - [Wireframing](../toolkit/wireframing.md)
     - User Testing and Feedback
   - Deliver
     - Iteration: prototype, test, refine
