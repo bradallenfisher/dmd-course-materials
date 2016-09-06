@@ -9,3 +9,8 @@
 
 **Deliverables:**
 1. Write your recording in the observations input box on the assignment submission.
+
+* * *
+
+**Citation:**
+Adapted from: http://www.designkit.org/methods/2
