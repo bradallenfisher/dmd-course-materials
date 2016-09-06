@@ -1,5 +1,11 @@
 # Inspire
 
+**Materials:**
+Pens, paper, camera
+
+**Time:**
+30 - 60 minutes
+
 **Steps to completion:**
 1. In your notebook, list all of the activities, behaviors, and emotions that you want to study.
 2. List a setting or situation where you can observe others experiencing these activities, behaviors, and emotions next to each item listed in step one.
