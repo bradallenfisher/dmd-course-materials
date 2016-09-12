@@ -78,6 +78,7 @@
    * [Tell me a story](practice/tell_me_a_story.md)
    * [Blog Post: UX](practice/blog_post_ux.md)
    * [Visual Manual](practice/visual_manual.md)
+   * Blog posts
 * Toolkit
    * Program hub
    * Program structure
