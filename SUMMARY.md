@@ -77,7 +77,7 @@
    * Blog posts
        * [Sen no Rikyu and the Paradox of Innovation](practice/sen_no_rikyu_and_the_paradox_of_innovation.md)
        * [Good Design Tells the Truth](practice/good_design_tells_the_truth.md)
-       * What Design and Truth Say about Each Other
+       * [What Design and Truth Say about Each Other](practice/what_design_and_truth_say_about_each_other.md)
        * [Designs of Darkness](practice/bad_design.md)
        * [Blog Post: Open Design](practice/blog_post_open_design.md)
        * [Blog Post: Narrative](practice/blog_post_narrative.md)
