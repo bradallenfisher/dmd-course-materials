@@ -75,10 +75,11 @@
    * [Tell me a story](practice/tell_me_a_story.md)
    * [Visual Manual](practice/visual_manual.md)
    * Blog posts
-     * [Blog Post: Open Design](practice/blog_post_open_design.md)
-     * [Blog Post: Narrative](practice/blog_post_narrative.md)
-     * [Blog Post: UX](practice/blog_post_ux.md)
-     * [Writing prompt: Design and truth](practice/writing_prompt_design_and_truth.md)
+       * [Blog Post: Open Design](practice/blog_post_open_design.md)
+       * [Blog Post: Narrative](practice/blog_post_narrative.md)
+       * [Blog Post: UX](practice/blog_post_ux.md)
+       * [Writing prompt: Design and truth](practice/writing_prompt_design_and_truth.md)
+       * Bad Design 
 * Toolkit
    * Program hub
    * Program structure
