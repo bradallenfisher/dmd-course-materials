@@ -61,8 +61,6 @@
    * [Digital Service or Product Project](projects/digital_service_or_product.md)
    * [Ritual](projects/ritual.md)
 * Practice
-   * [Blog Post: Open Design](practice/blog_post_open_design.md)
-   * [Blog Post: Narrative](practice/blog_post_narrative.md)
    * [Curating for an Idea](practice/curating_for_an_idea.md)
    * [Design an Interface](practice/design_an_interface.md)
    * [Design Intervention](practice/design_intervention.md)
@@ -73,12 +71,14 @@
    * [Open Source Gift](practice/open_source_gift.md)
    * [Future Living](practice/future_living.md)
    * [Story Breakdown](practice/story_breakdown.md)
-   * [Writing prompt: Design and truth](practice/writing_prompt_design_and_truth.md)
    * [Dwelling Design](practice/dwelling_design.md)
    * [Tell me a story](practice/tell_me_a_story.md)
-   * [Blog Post: UX](practice/blog_post_ux.md)
    * [Visual Manual](practice/visual_manual.md)
    * Blog posts
+     * [Blog Post: Open Design](practice/blog_post_open_design.md)
+     * [Blog Post: Narrative](practice/blog_post_narrative.md)
+     * [Blog Post: UX](practice/blog_post_ux.md)
+     * [Writing prompt: Design and truth](practice/writing_prompt_design_and_truth.md)
 * Toolkit
    * Program hub
    * Program structure
