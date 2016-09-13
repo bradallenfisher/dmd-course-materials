@@ -81,11 +81,11 @@
        * [Edsel's Law: How Bad Design Happens](practice/edsels_law_how_bad_design_happens.md)
        * [Designs of Darkness](practice/bad_design.md)
        * [Face to Face with Design](practice/face_to_face_with_design.md)
+       * Giorgio Vasari and the Permutations of Design
        * [Blog Post: Open Design](practice/blog_post_open_design.md)
        * [Blog Post: Narrative](practice/blog_post_narrative.md)
        * [Blog Post: UX](practice/blog_post_ux.md)
        * [Writing prompt: Design and truth](practice/writing_prompt_design_and_truth.md)
-       * Giorgio Vasari and the Permutations of Design
 * Toolkit
    * Program hub
    * Program structure
