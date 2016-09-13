@@ -80,11 +80,11 @@
        * [What Design and Truth Say about Each Other](practice/what_design_and_truth_say_about_each_other.md)
        * [Edsel's Law: How Bad Design Happens](practice/edsels_law_how_bad_design_happens.md)
        * [Designs of Darkness](practice/bad_design.md)
+       * Face to Face with Design
        * [Blog Post: Open Design](practice/blog_post_open_design.md)
        * [Blog Post: Narrative](practice/blog_post_narrative.md)
        * [Blog Post: UX](practice/blog_post_ux.md)
        * [Writing prompt: Design and truth](practice/writing_prompt_design_and_truth.md)
-       * Face to Face with Design
 * Toolkit
    * Program hub
    * Program structure
