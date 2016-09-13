@@ -1,4 +1,4 @@
-# Bad Design
+# Designs of Darkness
 
 Read: Designs of Darkness (p. 55-61) in Design and Truth by Robert Grudin
 Write a response to the writing prompt on your course blog.
