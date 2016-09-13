@@ -80,6 +80,7 @@
        * [Blog Post: UX](practice/blog_post_ux.md)
        * [Writing prompt: Design and truth](practice/writing_prompt_design_and_truth.md)
        * [Designs of Darkness](practice/bad_design.md)
+       * Sen no Rikyu and the Paradox of Innovation
 * Toolkit
    * Program hub
    * Program structure
