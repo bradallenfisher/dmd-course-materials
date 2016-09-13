@@ -82,11 +82,11 @@
        * [Designs of Darkness](practice/bad_design.md)
        * [Face to Face with Design](practice/face_to_face_with_design.md)
        * Giorgio Vasari and the Permutations of Design
+       * The Lady in the Picture: Design and Revelation
        * [Blog Post: Open Design](practice/blog_post_open_design.md)
        * [Blog Post: Narrative](practice/blog_post_narrative.md)
        * [Blog Post: UX](practice/blog_post_ux.md)
        * [Writing prompt: Design and truth](practice/writing_prompt_design_and_truth.md)
-       * The Lady in the Picture: Design and Revelation
 * Toolkit
    * Program hub
    * Program structure
