@@ -85,12 +85,12 @@
        * The Lady in the Picture: Design and Revelation in Renaissance Art
        * In Jefferson's Footsteps: Modes of Self-Design
        * Jefferson's Gravestone: Metaphorical Extensions of Design
+       * Liberty as Knowledge Design
        * [The Lady in the Picture: Design and Revelation](the_lady_in_the_picture_design_and_revelation_in_renaissance_art.md)
        * [Blog Post: Open Design](practice/blog_post_open_design.md)
        * [Blog Post: Narrative](practice/blog_post_narrative.md)
        * [Blog Post: UX](practice/blog_post_ux.md)
        * [Writing prompt: Design and truth](practice/writing_prompt_design_and_truth.md)
-       * Liberty as Knowledge Design
 * Toolkit
    * Program hub
    * Program structure
