@@ -79,7 +79,7 @@
        * [Blog Post: Narrative](practice/blog_post_narrative.md)
        * [Blog Post: UX](practice/blog_post_ux.md)
        * [Writing prompt: Design and truth](practice/writing_prompt_design_and_truth.md)
-       * Bad Design 
+       * [Bad Design](practice/bad_design.md)
 * Toolkit
    * Program hub
    * Program structure
