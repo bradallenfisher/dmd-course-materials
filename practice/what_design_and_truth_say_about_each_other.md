@@ -4,7 +4,7 @@ Read: What Design and Truth Say about Each Other (p. 27-33) in Design and Truth 
 Write a response to the writing prompt on your course blog.
 
 **Writing prompt:**  
-In this chapter, Grudin...
+In this chapter, Grudin describes thirteen attributes that result from good design.
 
 **Writing guidelines:**  
 Length: (150-300 words)
