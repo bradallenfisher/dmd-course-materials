@@ -1,6 +1,7 @@
 # What Design and Truth Say about Each Other
 
-Read: What Design and Truth Say about Each Other (p. 27-33) in Design and Truth by Robert Grudin
+**Read:**  
+What Design and Truth Say about Each Other (p. 27-33) in Design and Truth by Robert Grudin
 
 Write a response to the writing prompt on your course blog.
 
