@@ -81,7 +81,7 @@
        * [Designs of Darkness](practice/bad_design.md)
        * [Face to Face with Design](practice/face_to_face_with_design.md)
        * [Giorgio Vasari and the Permutations of Design](practice/giorgio_vasari_and_the_permutations_of_design.md)
-       * The Lady in the Picture: Design and Revelation in Renaissance Art
+       * [The Lady in the Picture: Design and Revelation in Renaissance Art](practice/the_lady_in_the_picture_design_and_revelation_in_r.md)
        * In Jefferson's Footsteps: Modes of Self-Design
        * Jefferson's Gravestone: Metaphorical Extensions of Design
        * Liberty as Knowledge Design
