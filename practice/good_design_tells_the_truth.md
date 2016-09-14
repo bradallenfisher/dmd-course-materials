@@ -9,4 +9,4 @@ In these chapters, Grudin hypothesizes what good design is and what it should be
 **Writing guidelines:**  
 Length: (150-300 words)
 Check for spelling and grammar
-Choose clear and concise wording. Please do not design convoluted sentences in an attempt to arrive more quickly at the minimum word count.
+Choose clear and concise wording.
