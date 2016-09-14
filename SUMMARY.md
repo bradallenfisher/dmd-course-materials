@@ -75,7 +75,6 @@
    * [Tell me a story](practice/tell_me_a_story.md)
    * [Visual Manual](practice/visual_manual.md)
    * Blog posts
-       * [Sen no Rikyu and the Paradox of Innovation](practice/sen_no_rikyu_and_the_paradox_of_innovation.md)
        * [Good Design Tells the Truth](practice/good_design_tells_the_truth.md)
        * [What Design and Truth Say about Each Other](practice/what_design_and_truth_say_about_each_other.md)
        * [Edsel's Law: How Bad Design Happens](practice/edsels_law_how_bad_design_happens.md)
