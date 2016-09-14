@@ -7,6 +7,6 @@ Write a response to the writing prompt on your course blog.
 In this chapter, Grudin ...
 
 **Writing guidelines:**  
-Length: (150-300 words)
-Check for spelling and grammar
-Choose clear and concise wording.
+1. Length: (150-300 words)
+2. Check for spelling and grammar
+3. Choose clear and concise wording
