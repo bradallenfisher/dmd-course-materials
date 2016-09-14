@@ -11,7 +11,7 @@ Write a response to the writing prompt on your course blog.
 
 **Prompt 2:** Grudin outlines thirteen principles for good design. Do you agree with him? Can you describe designs that affirm or negate these principles?
 
-**Writing guidelines:**  
-Length: (150-300 words)
-Check for spelling and grammar
-Choose clear and concise wording. Please do not design convoluted sentences in an attempt to arrive more quickly at the minimum word count.
+**Writing guidelines:**
+1. Length: (150-300 words)
+2. Check for spelling and grammar
+3. Choose clear and concise wording.
