@@ -9,4 +9,4 @@ In this chapter, Grudin describes the Edsel scale for measuring the quality of a
 **Writing guidelines:**  
 Length: (150-300 words)
 Check for spelling and grammar
-Choose clear and concise wording. Please do not design convoluted sentences in an attempt to arrive more quickly at the minimum word count.
+Choose clear and concise wording.
