@@ -3,7 +3,6 @@
 **Read:**
 
 Sen no Rikyu and the Paradox of Innovation, Good Design Tells the Truth (p. 3-26) in Design and Truth by Robert Grudin
-Write a response to the writing prompt on your course blog.
 
 **Writing prompt:**
 
@@ -11,6 +10,7 @@ In these chapters, Grudin hypothesizes what good design is and what it should be
 
 **Writing guidelines:**
 
-1. Length: (150-300 words)
-2. Check for spelling and grammar
-3. Choose clear and concise wording.
+1. Write a response to the writing prompt on your course blog.
+2. Length: (150-300 words)
+3. Check for spelling and grammar.
+4. Choose clear and concise wording.
