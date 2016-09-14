@@ -80,7 +80,7 @@
        * [Edsel's Law: How Bad Design Happens](practice/edsels_law_how_bad_design_happens.md)
        * [Designs of Darkness](practice/bad_design.md)
        * [Face to Face with Design](practice/face_to_face_with_design.md)
-       * Giorgio Vasari and the Permutations of Design
+       * [Giorgio Vasari and the Permutations of Design](giorgio_vasari_and_the_permutations_of_design.md)
        * The Lady in the Picture: Design and Revelation in Renaissance Art
        * In Jefferson's Footsteps: Modes of Self-Design
        * Jefferson's Gravestone: Metaphorical Extensions of Design
