@@ -1,10 +1,10 @@
 # Edsel's Law: How Bad Design Happens
 
-**Read:**
+**Book:**
 
 Edsel's Law: How Bad Design Happens (p. 46-54) in Design and Truth by Robert Grudin
 
-**Writing prompt:**
+**Prompt:**
 
 In this chapter, Grudin describes the Edsel scale for measuring the quality of a design. Describe an object not mentioned in the book that would earn low negative points and an object that would earn high positive points. Explain why you've allotted the object's points.  
 
