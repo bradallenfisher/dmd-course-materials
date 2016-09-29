@@ -6,7 +6,7 @@ Sen no Rikyu and the Paradox of Innovation, Good Design Tells the Truth (p. 3-26
 
 **Prompt:**
 
-In these chapters, Grudin hypothesizes what good design is and what it should be. After reflecting on this reading, write about a time where you had an overwhelmingly good experience or overwhelmingly negative experience with some aspect of design. This could include a product, service, or any other manifestation of design.
+In these chapters, Grudin hypothesizes what good design is and what it should be. After reflecting on this reading, discuss a time where you had an overwhelmingly good experience or overwhelmingly negative experience with some aspect of design. This could include a product, service, or any other manifestation of design.
 
 **Writing guidelines:**
 
