@@ -1,13 +1,14 @@
 # Designs of Darkness
 
-**Read:**
+**Book:**
 
 Designs of Darkness (p. 55-61) in Design and Truth by Robert Grudin
 
-**Question prompt:**
+**Prompt:**
 
 In this chapter, Grudin makes a distinction between painting styles of Adolf Hitler and Winston Churchill as well as the social design ideologies of Martin Heidegger and Sen no Rikyu. Can you identify contemporary people that may have similar contrasting design sensibilities? Name at least one person from each extreme and support your claims with cited arguments.
 
+**Discussion**
 
 
 **Writing guidelines:**
