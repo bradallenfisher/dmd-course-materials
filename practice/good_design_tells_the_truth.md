@@ -1,10 +1,10 @@
 # Good Design Tells the Truth
 
-**Read:**
+**Book:**
 
 Sen no Rikyu and the Paradox of Innovation, Good Design Tells the Truth (p. 3-26) in Design and Truth by Robert Grudin
 
-**Writing prompt:**
+**Prompt:**
 
 In these chapters, Grudin hypothesizes what good design is and what it should be. After reflecting on this reading, write about a time where you had an overwhelmingly good experience or overwhelmingly negative experience with some aspect of design. This could include a product, service, or any other manifestation of design.
 
