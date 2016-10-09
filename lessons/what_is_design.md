@@ -1,8 +1,12 @@
 # What is Design?
 ### What is Design?
-- **Presentation:** Slides
-- **Terms:**
+- **Presentation:**
+  - [The DMD Program](https://docs.google.com/presentation/d/1wxRa7rKQ7nNaekdb1zgYH7GiTvMhNXqlHgtrI9cLSTc/edit?usp=sharing)
+  - [What is Design?](https://docs.google.com/presentation/d/1wxRa7rKQ7nNaekdb1zgYH7GiTvMhNXqlHgtrI9cLSTc/edit?usp=sharing)
+- Video Screenings
+  - What is Design?
 - **Activities:**
+  - Meet your classmates
   - Start a portfolio
   - **Read and Discuss:** [Design and Truth by Robert Grudin: Good Design Tells the Truth](../practice/good_design_tells_the_truth.md)
 - **Survey:** Interest survey
