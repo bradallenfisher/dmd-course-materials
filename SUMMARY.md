@@ -62,11 +62,6 @@
    * [Ritual](projects/ritual.md)
 * Practice
    * Reading Discussions
-   * [Curating for an Idea](practice/curating_for_an_idea.md)
-   * [Design an Interface](practice/design_an_interface.md)
-   * [Design Intervention](practice/design_intervention.md)
-   * [Drawing a Journey Map](practice/drawing_a_journey_map.md)
-   * [Linear Narrative](practice/linear_narrative.md)
    * Blog posts
        * [Good Design Tells the Truth](practice/good_design_tells_the_truth.md)
        * [What Design and Truth Say about Each Other](practice/what_design_and_truth_say_about_each_other.md)
@@ -86,6 +81,11 @@
        * [Blog Post: Narrative](practice/blog_post_narrative.md)
        * [Blog Post: UX](practice/blog_post_ux.md)
        * [Writing prompt: Design and truth](practice/writing_prompt_design_and_truth.md)
+   * [Curating for an Idea](practice/curating_for_an_idea.md)
+   * [Design an Interface](practice/design_an_interface.md)
+   * [Design Intervention](practice/design_intervention.md)
+   * [Drawing a Journey Map](practice/drawing_a_journey_map.md)
+   * [Linear Narrative](practice/linear_narrative.md)
    * [Make a Brand](practice/make_a_brand.md)
    * [Non-linear Narrative](practice/non-linear_narrative.md)
    * [Open Source Gift](practice/open_source_gift.md)
