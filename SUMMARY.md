@@ -105,7 +105,7 @@
        * [Discursive Design](lessons/discursive_design.md)
        * [UX](lessons/ux.md)
        * [Narrative](lessons/narrative.md)
-       * Co-generative Design
+       * [Co-generative Design](lessons/co-generative_design.md)
        * Remix
        * Open Design
    * [Futurecasting](toolkit/futurecasting.md)
