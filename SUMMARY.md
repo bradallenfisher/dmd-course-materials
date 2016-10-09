@@ -104,7 +104,7 @@
        * [What is Design?](lessons/what_is_design.md)
        * [Discursive Design](lessons/discursive_design.md)
        * [UX](lessons/ux.md)
-       * Narrative
+       * [Narrative](lessons/narrative.md)
        * Co-generative Design
        * Remix
        * Open Design
