@@ -60,21 +60,6 @@
    * [Interactive Story Project](projects/interactive_story_project.md)
    * [Digital Service or Product Project](projects/digital_service_or_product.md)
    * [Ritual](projects/ritual.md)
-* Blog posts
-   * [Good Design Tells the Truth](practice/good_design_tells_the_truth.md)
-   * [What Design and Truth Say about Each Other](practice/what_design_and_truth_say_about_each_other.md)
-   * [Edsel's Law: How Bad Design Happens](practice/edsels_law_how_bad_design_happens.md)
-   * [Designs of Darkness](practice/bad_design.md)
-   * [Face to Face with Design](practice/face_to_face_with_design.md)
-   * [Giorgio Vasari and the Permutations of Design](practice/giorgio_vasari_and_the_permutations_of_design.md)
-   * [The Lady in the Picture: Design and Revelation in Renaissance Art](practice/the_lady_in_the_picture_design_and_revelation_in_r.md)
-   * [In Jefferson's Footsteps: Modes of Self-Design](practice/in_jeffersons_footsteps_modes_of_self-design.md)
-   * [Jefferson's Gravestone: Metaphorical Extensions of Design](practice/jeffersons_gravestone_metaphorical_extensions_of_d.md)
-   * [Liberty as Knowledge Design](practice/liberty_as_knowledge_design.md)
-   * [Corporate Redesign and the Business of Knowledge](practice/corporate_redesign_and_the_business_of_knowledge.md)
-   * [Designing Time](practice/designing_time.md)
-   * The Design of Private Knowledge
-   * [The Lady in the Picture: Design and Revelation](the_lady_in_the_picture_design_and_revelation_in_renaissance_art.md)
 * Practice
    * [Curating for an Idea](practice/curating_for_an_idea.md)
    * [Design an Interface](practice/design_an_interface.md)
@@ -97,6 +82,21 @@
    * [Co-generative Design](lessons/co-generative_design.md)
    * [Remix](lessons/remix.md)
    * [Open Design](lessons/open_design.md)
+* Blog posts
+   * [Good Design Tells the Truth](practice/good_design_tells_the_truth.md)
+   * [What Design and Truth Say about Each Other](practice/what_design_and_truth_say_about_each_other.md)
+   * [Edsel's Law: How Bad Design Happens](practice/edsels_law_how_bad_design_happens.md)
+   * [Designs of Darkness](practice/bad_design.md)
+   * [Face to Face with Design](practice/face_to_face_with_design.md)
+   * [Giorgio Vasari and the Permutations of Design](practice/giorgio_vasari_and_the_permutations_of_design.md)
+   * [The Lady in the Picture: Design and Revelation in Renaissance Art](practice/the_lady_in_the_picture_design_and_revelation_in_r.md)
+   * [In Jefferson's Footsteps: Modes of Self-Design](practice/in_jeffersons_footsteps_modes_of_self-design.md)
+   * [Jefferson's Gravestone: Metaphorical Extensions of Design](practice/jeffersons_gravestone_metaphorical_extensions_of_d.md)
+   * [Liberty as Knowledge Design](practice/liberty_as_knowledge_design.md)
+   * [Corporate Redesign and the Business of Knowledge](practice/corporate_redesign_and_the_business_of_knowledge.md)
+   * [Designing Time](practice/designing_time.md)
+   * The Design of Private Knowledge
+   * [The Lady in the Picture: Design and Revelation](the_lady_in_the_picture_design_and_revelation_in_renaissance_art.md)
 * Toolkit
    * Program hub
    * Program structure
