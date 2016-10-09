@@ -63,7 +63,6 @@
 * Practice
    * Reading Discussions
    * [Curating for an Idea](practice/curating_for_an_idea.md)
-       * Reading Discussions
    * [Design an Interface](practice/design_an_interface.md)
    * [Design Intervention](practice/design_intervention.md)
    * [Drawing a Journey Map](practice/drawing_a_journey_map.md)
