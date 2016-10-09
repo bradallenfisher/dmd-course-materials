@@ -82,7 +82,7 @@
    * [Co-generative Design](lessons/co-generative_design.md)
    * [Remix](lessons/remix.md)
    * [Open Design](lessons/open_design.md)
-* Blog posts
+* Reading Discussions
    * [Good Design Tells the Truth](practice/good_design_tells_the_truth.md)
    * [What Design and Truth Say about Each Other](practice/what_design_and_truth_say_about_each_other.md)
    * [Edsel's Law: How Bad Design Happens](practice/edsels_law_how_bad_design_happens.md)
