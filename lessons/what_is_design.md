@@ -3,7 +3,7 @@
 - **Slides:**
   - [The DMD Program](https://docs.google.com/presentation/d/1wxRa7rKQ7nNaekdb1zgYH7GiTvMhNXqlHgtrI9cLSTc/edit?usp=sharing)
   - [What is Design?](https://docs.google.com/presentation/d/1wxRa7rKQ7nNaekdb1zgYH7GiTvMhNXqlHgtrI9cLSTc/edit?usp=sharing)
-- Video Screenings
+- **Video Screening**
   - What is Design?
 - **Activities:**
   - Meet your classmates
