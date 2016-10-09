@@ -102,7 +102,7 @@
    * [Project Management](toolkit/project_management.md)
    * [Lessons](toolkit/lessons.md)
        * [What is Design?](lessons/what_is_design.md)
-       * Discursive Design
+       * [Discursive Design](lessons/discursive_design.md)
        * UX
        * Narrative
        * Co-generative Design
