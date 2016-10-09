@@ -8,4 +8,4 @@
   - [Linear narrative activity](../practice/linear_narrative.md)
   - [Non-linear narrative activity](../practice/non-linear_narrative.md)
 - **Project:** [Hypertext Narrative](../projects/hypertext_narrative_project.md)
-- **Project Presentation:** [Slides](../practice/blog_post_narrative.md)
+- **Project Presentation:** 
