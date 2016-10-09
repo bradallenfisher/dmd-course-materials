@@ -12,5 +12,5 @@
   - [Future Living](../practice/future_living.md)
 - **Project:**
   - [Design Fiction Project](../projects/design_fiction_project.md)
-- **Reflection writing:**
+- **Read and Discuss:**
   - Blog Post: [Design and Truth by Robert Grudin: Chapter - Good design tells the truth](../practice/writing_prompt_design_and_truth.md)
