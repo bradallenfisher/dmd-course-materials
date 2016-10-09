@@ -8,7 +8,7 @@
   - [Constructing Meaning](../topics/critical_thinking.md)
   - [Critical Thinking](../topics/critical_thinking.md)
   - [Risk and innovation](../topics/risk_and_innovation.md)
-- **Activity:** 
+- **Activities:** 
   - [Future Living](../practice/future_living.md)
 - **Project:**
   - [Design Fiction Project](../projects/design_fiction_project.md)
