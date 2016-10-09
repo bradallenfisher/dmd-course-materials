@@ -1,2 +1,11 @@
 # Narrative
 
+- **Reading/watching:** [Narrative](../topics/narrative.md)
+- **Reading:** 
+- **Terms:**
+- **Activity:** [Story Breakdown](practice/story_breakdown.md)
+- **Activity (Choose 1):**
+  - [Linear narrative activity](../practice/linear_narrative.md)
+  - [Non-linear narrative activity](../practice/non-linear_narrative.md)
+- **Project:** [Hypertext Narrative](../projects/hypertext_narrative_project.md)
+- **Project Presentation:** [Slides](../practice/blog_post_narrative.md)
