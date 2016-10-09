@@ -1,7 +1,7 @@
 # What is Design?
 ### What is Design?
 - **Presentation:** Slides
-- **Reading:** 
+- **Reading:** [Good Design Tells the Truth](../practice/good_design_tells_the_truth.md)
 - **Terms:**
 - **Activity:** Start a portfolio
 - **Activity:** 
