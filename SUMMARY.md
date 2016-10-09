@@ -107,6 +107,7 @@
        * Narrative
        * Co-generative Design
        * Remix
+       * Open Design
    * [Futurecasting](toolkit/futurecasting.md)
    * [Documentation Guidelines](toolkit/documentation_guidelines.md)
    * [Materials](toolkit/materials.md)
