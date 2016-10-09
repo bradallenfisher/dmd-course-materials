@@ -103,6 +103,7 @@
    * [Lessons](toolkit/lessons.md)
        * Discursive Design
        * UX
+       * Design
    * [Futurecasting](toolkit/futurecasting.md)
    * [Documentation Guidelines](toolkit/documentation_guidelines.md)
    * [Materials](toolkit/materials.md)
