@@ -61,7 +61,6 @@
    * [Digital Service or Product Project](projects/digital_service_or_product.md)
    * [Ritual](projects/ritual.md)
 * Practice
-   * Reading Discussions
    * Blog posts
        * [Good Design Tells the Truth](practice/good_design_tells_the_truth.md)
        * [What Design and Truth Say about Each Other](practice/what_design_and_truth_say_about_each_other.md)
