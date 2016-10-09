@@ -103,7 +103,7 @@
    * [Lessons](toolkit/lessons.md)
        * Discursive Design
        * UX
-       * Design
+       * What is Design?
        * Narrative
        * Co-generative Design
        * Remix
