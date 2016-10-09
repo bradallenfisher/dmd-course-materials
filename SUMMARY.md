@@ -76,7 +76,6 @@
    * The Design of Private Knowledge
    * [The Lady in the Picture: Design and Revelation](the_lady_in_the_picture_design_and_revelation_in_renaissance_art.md)
    * [Blog Post: Open Design](practice/blog_post_open_design.md)
-   * [Blog Post: Narrative](practice/blog_post_narrative.md)
 * Practice
    * [Curating for an Idea](practice/curating_for_an_idea.md)
    * [Design an Interface](practice/design_an_interface.md)
