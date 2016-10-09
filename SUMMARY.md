@@ -101,6 +101,7 @@
    * [Career trajectory](toolkit/career_trajectory.md)
    * [Project Management](toolkit/project_management.md)
    * [Lessons](toolkit/lessons.md)
+       * Discursive Design
    * [Futurecasting](toolkit/futurecasting.md)
    * [Documentation Guidelines](toolkit/documentation_guidelines.md)
    * [Materials](toolkit/materials.md)
