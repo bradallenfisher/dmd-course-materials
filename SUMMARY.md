@@ -107,7 +107,7 @@
        * [Narrative](lessons/narrative.md)
        * [Co-generative Design](lessons/co-generative_design.md)
        * [Remix](lessons/remix.md)
-       * Open Design
+       * [Open Design](lessons/open_design.md)
    * [Futurecasting](toolkit/futurecasting.md)
    * [Documentation Guidelines](toolkit/documentation_guidelines.md)
    * [Materials](toolkit/materials.md)
