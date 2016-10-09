@@ -61,6 +61,7 @@
    * [Digital Service or Product Project](projects/digital_service_or_product.md)
    * [Ritual](projects/ritual.md)
 * Practice
+   * Reading Discussions
    * [Curating for an Idea](practice/curating_for_an_idea.md)
        * Reading Discussions
    * [Design an Interface](practice/design_an_interface.md)
