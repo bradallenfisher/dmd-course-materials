@@ -62,6 +62,7 @@
    * [Ritual](projects/ritual.md)
 * Practice
    * [Curating for an Idea](practice/curating_for_an_idea.md)
+       * Reading Discussions
    * [Design an Interface](practice/design_an_interface.md)
    * [Design Intervention](practice/design_intervention.md)
    * [Drawing a Journey Map](practice/drawing_a_journey_map.md)
@@ -108,14 +109,6 @@
    * Social media
    * [Career trajectory](toolkit/career_trajectory.md)
    * [Project Management](toolkit/project_management.md)
-   * [Lessons](toolkit/lessons.md)
-       * [What is Design?](lessons/what_is_design.md)
-       * [Discursive Design](lessons/discursive_design.md)
-       * [UX](lessons/ux.md)
-       * [Narrative](lessons/narrative.md)
-       * [Co-generative Design](lessons/co-generative_design.md)
-       * [Remix](lessons/remix.md)
-       * [Open Design](lessons/open_design.md)
    * [Futurecasting](toolkit/futurecasting.md)
    * [Documentation Guidelines](toolkit/documentation_guidelines.md)
    * [Materials](toolkit/materials.md)
