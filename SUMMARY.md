@@ -79,8 +79,6 @@
    * [Blog Post: Narrative](practice/blog_post_narrative.md)
    * [Writing prompt: Design and truth](practice/writing_prompt_design_and_truth.md)
 * Practice
-   * Blog posts
-       * The Design of Private Knowledge
    * [Curating for an Idea](practice/curating_for_an_idea.md)
    * [Design an Interface](practice/design_an_interface.md)
    * [Design Intervention](practice/design_intervention.md)
