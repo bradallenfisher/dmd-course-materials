@@ -104,6 +104,7 @@
        * Discursive Design
        * UX
        * Design
+       * Narrative
    * [Futurecasting](toolkit/futurecasting.md)
    * [Documentation Guidelines](toolkit/documentation_guidelines.md)
    * [Materials](toolkit/materials.md)
