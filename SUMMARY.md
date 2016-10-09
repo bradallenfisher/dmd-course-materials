@@ -93,6 +93,14 @@
        * [Blog Post: Narrative](practice/blog_post_narrative.md)
        * [Blog Post: UX](practice/blog_post_ux.md)
        * [Writing prompt: Design and truth](practice/writing_prompt_design_and_truth.md)
+* [Lessons](toolkit/lessons.md)
+   * [What is Design?](lessons/what_is_design.md)
+   * [Discursive Design](lessons/discursive_design.md)
+   * [UX](lessons/ux.md)
+   * [Narrative](lessons/narrative.md)
+   * [Co-generative Design](lessons/co-generative_design.md)
+   * [Remix](lessons/remix.md)
+   * [Open Design](lessons/open_design.md)
 * Toolkit
    * Program hub
    * Program structure
