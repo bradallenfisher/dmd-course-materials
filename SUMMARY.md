@@ -9,7 +9,6 @@
 * Topics
    * Principles
        * Brand
-       * [Characters](topics/characters.md)
        * Color
        * [Constructing meaning](topics/constructing_meaning.md)
        * [Language](topics/language.md)
@@ -90,6 +89,7 @@
                * [Twine Tutorial: Getting Started](topics/twine-tutorial-getting-started.md)
        * [Lesson 4: Narrative](lessons/narrative.md)
            * [Narrative](topics/narrative.md)
+           * [Characters](topics/characters.md)
            * [Systems thinking](topics/systems_thinking.md)
            * [Hypertext](topics/hypertext.md)
            * Read and Discuss
