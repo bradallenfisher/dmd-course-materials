@@ -68,7 +68,7 @@
 * Units
    * Lesson 01
    * [Unit 01](toolkit/lessons.md)
-       * [1. What is Design?](lessons/introduction.md)
+       * [Lesson 1: What is Design?](lessons/introduction.md)
            * [What is Design?](topics/what_is_design.md)
            * [Double diamond](topics/double_diamond.md)
            * Read and Discuss
