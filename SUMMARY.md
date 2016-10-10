@@ -36,7 +36,6 @@
        * 3D
        * Web
 * [Projects](projects.md)
-* Practice
 * Units
    * [Unit 01](toolkit/lessons.md)
        * Unit 01 Project
