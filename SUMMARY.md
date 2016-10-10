@@ -88,10 +88,10 @@
    * [The Lady in the Picture: Design and Revelation in Renaissance Art](practice/the_lady_in_the_picture_design_and_revelation_in_r.md)
    * [In Jefferson's Footsteps: Modes of Self-Design](practice/in_jeffersons_footsteps_modes_of_self-design.md)
    * [5. Co-generative Design](lessons/co-generative_design.md)
+   * [Jefferson's Gravestone: Metaphorical Extensions of Design](practice/jeffersons_gravestone_metaphorical_extensions_of_d.md)
    * [6. Remix](lessons/remix.md)
    * [7. Open Design](lessons/open_design.md)
 * Reading Discussions
-   * [Jefferson's Gravestone: Metaphorical Extensions of Design](practice/jeffersons_gravestone_metaphorical_extensions_of_d.md)
    * [Liberty as Knowledge Design](practice/liberty_as_knowledge_design.md)
    * [Corporate Redesign and the Business of Knowledge](practice/corporate_redesign_and_the_business_of_knowledge.md)
    * [Designing Time](practice/designing_time.md)
