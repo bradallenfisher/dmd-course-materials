@@ -71,7 +71,7 @@
    * [Visual Manual](practice/visual_manual.md)
 * Units
    * Lesson 01
-   * [Lesson 01](toolkit/lessons.md)
+   * [Unit 01](toolkit/lessons.md)
        * [1. What is Design?](lessons/introduction.md)
            * [What is Design?](topics/what_is_design.md)
            * Read and Discuss
