@@ -37,7 +37,6 @@
        * Web
 * [Projects](projects.md)
 * Practice
-   * [Curating for an Idea](practice/curating_for_an_idea.md)
    * [Design Intervention](practice/design_intervention.md)
    * [Linear Narrative](practice/linear_narrative.md)
    * [Make a Brand](practice/make_a_brand.md)
@@ -105,6 +104,7 @@
                * [Jefferson's Gravestone: Metaphorical Extensions of Design](practice/jeffersons_gravestone_metaphorical_extensions_of_d.md)
                * [Liberty as Knowledge Design](practice/liberty_as_knowledge_design.md)
            * Activity
+               * [Curating for an Idea](practice/curating_for_an_idea.md)
                * a
    * Unit 03
        * Unit 03 Project
