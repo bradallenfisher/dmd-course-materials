@@ -24,7 +24,6 @@
        * [SOFI](topics/sofi.md)
        * Sound
        * [Sustainable design](topics/sustainable_design.md)
-       * [Systems thinking](topics/systems_thinking.md)
        * [Wireframing](topics/wireframing.md)
    * Methods
        * [Collaboration](topics/collaboration.md)
@@ -91,6 +90,7 @@
    * Unit 02
        * [4. Narrative](lessons/narrative.md)
            * [Narrative](topics/narrative.md)
+           * [Systems thinking](topics/systems_thinking.md)
            * Project
                * [Interactive Story Project](projects/interactive_story_project.md)
                * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
