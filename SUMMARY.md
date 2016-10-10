@@ -64,7 +64,6 @@
    * [Tell me a story](practice/tell_me_a_story.md)
    * [Visual Manual](practice/visual_manual.md)
 * Units
-   * Lesson 01
    * [Unit 01](toolkit/lessons.md)
        * Unit 01 Project
            * [Ritual](projects/ritual.md)
