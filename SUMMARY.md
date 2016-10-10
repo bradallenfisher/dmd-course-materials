@@ -39,7 +39,6 @@
    * [Design Fiction Project](projects/design_fiction_project.md)
 * Practice
    * [Curating for an Idea](practice/curating_for_an_idea.md)
-   * [Design an Interface](practice/design_an_interface.md)
    * [Design Intervention](practice/design_intervention.md)
    * [Drawing a Journey Map](practice/drawing_a_journey_map.md)
    * [Linear Narrative](practice/linear_narrative.md)
@@ -83,6 +82,7 @@
                * [Giorgio Vasari and the Permutations of Design](practice/giorgio_vasari_and_the_permutations_of_design.md)
            * Activity
                * a
+   * [Design an Interface](practice/design_an_interface.md)
    * Unit 02
        * Unit 02 Project
            * [Interactive Story Project](projects/interactive_story_project.md)
