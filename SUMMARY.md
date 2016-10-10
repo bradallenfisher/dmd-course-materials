@@ -65,8 +65,8 @@
            * [Discursive design](topics/discursive_design.md)
            * [Sustainable design](topics/sustainable_design.md)
            * [Critical thinking](topics/critical_thinking.md)
-           * [Dwelling Design](practice/dwelling_design.md)
            * Activity
+               * [Dwelling Design](practice/dwelling_design.md)
                * a
            * Read and Discuss
                * [Edsel's Law: How Bad Design Happens](practice/edsels_law_how_bad_design_happens.md)
