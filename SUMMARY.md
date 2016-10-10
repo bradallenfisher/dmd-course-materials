@@ -17,7 +17,6 @@
        * [Intellectual property](topics/intellectual_property.md)
        * [Language](topics/language.md)
        * Media
-       * [Mental model](topics/mental_model.md)
        * Modularity
        * [Open design](topics/open_design.md)
        * [Risk and innovation](topics/risk_and_innovation.md)
@@ -85,6 +84,7 @@
                * [Designs of Darkness](practice/bad_design.md)
        * [3. UX](lessons/ux.md)
            * [Digital Service or Product Project](projects/digital_service_or_product.md)
+           * [Mental model](topics/mental_model.md)
            * Read and Discuss
                * [Face to Face with Design](practice/face_to_face_with_design.md)
                * [Giorgio Vasari and the Permutations of Design](practice/giorgio_vasari_and_the_permutations_of_design.md)
