@@ -96,13 +96,13 @@
                * [Tell me a story](practice/tell_me_a_story.md)
                * [Story Breakdown](practice/story_breakdown.md)
        * [Lesson 5: Remix](lessons/remix.md)
+           * Remix
            * [Intellectual property](topics/intellectual_property.md)
            * Read and Discuss
                * [Chapter 11. Jefferson's Gravestone: Metaphorical Extensions of Design](practice/jeffersons_gravestone_metaphorical_extensions_of_d.md)
                * [Chapter 12. Liberty as Knowledge Design](practice/liberty_as_knowledge_design.md)
            * Activity
                * [Curating for an Idea](practice/curating_for_an_idea.md)
-           * Remix
    * Unit 03
        * Unit 03 Project
            * [Toolkit Design Project](projects/toolkit_design_project.md)
