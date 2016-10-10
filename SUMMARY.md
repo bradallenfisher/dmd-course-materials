@@ -79,7 +79,7 @@
    * [2. Discursive Design](lessons/discursive_design.md)
    * [3. UX](lessons/ux.md)
    * [4. Narrative](lessons/narrative.md)
-   * [Co-generative Design](lessons/co-generative_design.md)
+   * [5. Co-generative Design](lessons/co-generative_design.md)
    * [Remix](lessons/remix.md)
    * [Open Design](lessons/open_design.md)
 * Reading Discussions
