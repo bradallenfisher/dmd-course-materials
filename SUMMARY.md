@@ -68,12 +68,12 @@
                * [What Design and Truth Say about Each Other](practice/what_design_and_truth_say_about_each_other.md)
        * [Lesson 2: Discursive Design](lessons/discursive_design.md)
            * [Discursive design](topics/discursive_design.md)
+           * [Sustainable design](topics/sustainable_design.md)
            * [Critical thinking](topics/critical_thinking.md)
            * Practice
            * Read and Discuss
                * [Edsel's Law: How Bad Design Happens](practice/edsels_law_how_bad_design_happens.md)
                * [Designs of Darkness](practice/bad_design.md)
-       * [Sustainable design](topics/sustainable_design.md)
        * [Lesson 3: UX](lessons/ux.md)
            * [Wireframing](topics/wireframing.md)
            * [Digital Service or Product Project](projects/digital_service_or_product.md)
