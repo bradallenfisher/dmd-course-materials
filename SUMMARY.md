@@ -54,7 +54,6 @@
 * [Projects](projects.md)
    * [Design Fiction Project](projects/design_fiction_project.md)
    * [Toolkit Design Project](projects/toolkit_design_project.md)
-   * [Digital Service or Product Project](projects/digital_service_or_product.md)
    * [Ritual](projects/ritual.md)
 * Practice
    * [Curating for an Idea](practice/curating_for_an_idea.md)
@@ -85,6 +84,7 @@
                * [Edsel's Law: How Bad Design Happens](practice/edsels_law_how_bad_design_happens.md)
                * [Designs of Darkness](practice/bad_design.md)
        * [3. UX](lessons/ux.md)
+           * [Digital Service or Product Project](projects/digital_service_or_product.md)
            * Read and Discuss
                * [Face to Face with Design](practice/face_to_face_with_design.md)
                * [Giorgio Vasari and the Permutations of Design](practice/giorgio_vasari_and_the_permutations_of_design.md)
