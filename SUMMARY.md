@@ -82,12 +82,12 @@
    * [2. Discursive Design](lessons/discursive_design.md)
    * [Edsel's Law: How Bad Design Happens](practice/edsels_law_how_bad_design_happens.md)
    * [3. UX](lessons/ux.md)
+   * [Face to Face with Design](practice/face_to_face_with_design.md)
    * [4. Narrative](lessons/narrative.md)
    * [5. Co-generative Design](lessons/co-generative_design.md)
    * [6. Remix](lessons/remix.md)
    * [7. Open Design](lessons/open_design.md)
 * Reading Discussions
-   * [Face to Face with Design](practice/face_to_face_with_design.md)
    * [Giorgio Vasari and the Permutations of Design](practice/giorgio_vasari_and_the_permutations_of_design.md)
    * [The Lady in the Picture: Design and Revelation in Renaissance Art](practice/the_lady_in_the_picture_design_and_revelation_in_r.md)
    * [In Jefferson's Footsteps: Modes of Self-Design](practice/in_jeffersons_footsteps_modes_of_self-design.md)
