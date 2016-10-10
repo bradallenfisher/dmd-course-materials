@@ -52,7 +52,6 @@
                * Chapter 1. Sen Rikyu and the Paradox of Innovation
                * [Chapter 2. Good Design Tells the Truth](practice/good_design_tells_the_truth.md)
                * [Chapter 3.What Design and Truth Say about Each Other](practice/what_design_and_truth_say_about_each_other.md)
-               
            * Activity
                * [Visual Manual](practice/visual_manual.md)
                * [Make a Brand](practice/make_a_brand.md)
@@ -103,6 +102,7 @@
                * [Chapter 12. Liberty as Knowledge Design](practice/liberty_as_knowledge_design.md)
            * Activity
                * [Curating for an Idea](practice/curating_for_an_idea.md)
+           * Remix
    * Unit 03
        * Unit 03 Project
            * [Toolkit Design Project](projects/toolkit_design_project.md)
