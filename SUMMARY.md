@@ -79,6 +79,7 @@
        * Read and Discuss
            * [Good Design Tells the Truth](practice/good_design_tells_the_truth.md)
            * [What Design and Truth Say about Each Other](practice/what_design_and_truth_say_about_each_other.md)
+       * What is Design?
    * [2. Discursive Design](lessons/discursive_design.md)
        * Read and Discuss
            * [Edsel's Law: How Bad Design Happens](practice/edsels_law_how_bad_design_happens.md)
