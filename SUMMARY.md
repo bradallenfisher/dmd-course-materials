@@ -134,10 +134,10 @@
    * [Immerse and observe](toolkit/immerse_and_observe.md)
    * Design Methods
        * [Interview](toolkit/interview.md)
+       * [User stories](toolkit/user_stories.md)
        * [Journey map](toolkit/journey_map.md)
        * [Inspire](toolkit/inspire.md)
        * a
-   * [User stories](toolkit/user_stories.md)
    * [Prototype](toolkit/prototype.md)
    * [Insights](toolkit/insights.md)
 
