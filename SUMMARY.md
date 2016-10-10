@@ -19,7 +19,6 @@
        * [Semiotics](topics/semiotics.md)
        * [SOFI](topics/sofi.md)
        * Sound
-       * [Sustainable design](topics/sustainable_design.md)
    * Methods
        * Research
        * [Statement writing](topics/statement_writing.md)
@@ -74,6 +73,7 @@
            * Read and Discuss
                * [Edsel's Law: How Bad Design Happens](practice/edsels_law_how_bad_design_happens.md)
                * [Designs of Darkness](practice/bad_design.md)
+       * [Sustainable design](topics/sustainable_design.md)
        * [Lesson 3: UX](lessons/ux.md)
            * [Wireframing](topics/wireframing.md)
            * [Digital Service or Product Project](projects/digital_service_or_product.md)
