@@ -1,6 +1,6 @@
 # Liberty as Knowledge Design
 
-In Jefferson's Footsteps: Modes of Self-Design (p. 150-149x) in Design and Truth by Robert Grudin.
+Liberty as Knowledge Design (p. 1xx) in Design and Truth by Robert Grudin.
 
 **Writing prompt:**
 
