@@ -74,7 +74,7 @@
            * Read and Discuss
                * [Good Design Tells the Truth](practice/good_design_tells_the_truth.md)
                * [What Design and Truth Say about Each Other](practice/what_design_and_truth_say_about_each_other.md)
-       * [2. Discursive Design](lessons/discursive_design.md)
+       * [Lesson 2: Discursive Design](lessons/discursive_design.md)
            * [Discursive design](topics/discursive_design.md)
            * [Critical thinking](topics/critical_thinking.md)
            * Practice
