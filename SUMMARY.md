@@ -14,7 +14,6 @@
        * [Language](topics/language.md)
        * Media
        * Modularity
-       * [Risk and innovation](topics/risk_and_innovation.md)
        * [Semiotics](topics/semiotics.md)
        * [SOFI](topics/sofi.md)
        * Sound
@@ -110,6 +109,7 @@
                * [Designing Time](practice/designing_time.md)
        * [Lesson 7: Open Design](lessons/open_design.md)
            * [Open design](topics/open_design.md)
+           * [Risk and innovation](topics/risk_and_innovation.md)
            * Read and Discuss
                * [The Design of Private Knowledge](practice/the_design_of_private_knowledge.md)
 * Toolkit
