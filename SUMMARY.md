@@ -12,7 +12,6 @@
        * [Characters](topics/characters.md)
        * Color
        * [Constructing meaning](topics/constructing_meaning.md)
-       * [Critical thinking](topics/critical_thinking.md)
        * [Design thinking](topics/design_thinking.md)
        * [Hypertext](topics/hypertext.md)
        * [Intellectual property](topics/intellectual_property.md)
@@ -79,6 +78,7 @@
                * [What Design and Truth Say about Each Other](practice/what_design_and_truth_say_about_each_other.md)
        * [2. Discursive Design](lessons/discursive_design.md)
            * [Discursive design](topics/discursive_design.md)
+           * [Critical thinking](topics/critical_thinking.md)
            * Practice
            * Read and Discuss
                * [Edsel's Law: How Bad Design Happens](practice/edsels_law_how_bad_design_happens.md)
