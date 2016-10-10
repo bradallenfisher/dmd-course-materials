@@ -80,7 +80,7 @@
    * [3. UX](lessons/ux.md)
    * [4. Narrative](lessons/narrative.md)
    * [5. Co-generative Design](lessons/co-generative_design.md)
-   * [Remix](lessons/remix.md)
+   * [6. Remix](lessons/remix.md)
    * [Open Design](lessons/open_design.md)
 * Reading Discussions
    * [Good Design Tells the Truth](practice/good_design_tells_the_truth.md)
