@@ -58,9 +58,9 @@
                * [Twine Tutorial: Getting Started](topics/twine-tutorial-getting-started.md)
        * [Lesson 4: Narrative](lessons/narrative.md)
            * Topics
+               * [Characters](topics/characters.md)
                * [Narrative](topics/narrative.md)
                * c
-           * [Characters](topics/characters.md)
            * [Hypertext](topics/hypertext.md)
            * Read and Discuss
                * [Chapter 9. The Lady in the Picture: Design and Revelation in Renaissance Art](practice/the_lady_in_the_picture_design_and_revelation_in_r.md)
