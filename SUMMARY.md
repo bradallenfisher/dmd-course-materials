@@ -85,8 +85,8 @@
            * Read and Discuss
                * [Face to Face with Design](practice/face_to_face_with_design.md)
                * [Giorgio Vasari and the Permutations of Design](practice/giorgio_vasari_and_the_permutations_of_design.md)
-       * [Ritual](projects/ritual.md)
        * Unit 01 Project
+           * [Ritual](projects/ritual.md)
            * d
    * Unit 02
        * Unit 02 Project
