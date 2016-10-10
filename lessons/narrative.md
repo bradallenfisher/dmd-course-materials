@@ -1,7 +1,9 @@
 # Narrative
 
 - **Reading/watching:** [Narrative](../topics/narrative.md)
-- **Reading:** 
+- **Read and Discuss:**
+  - Giorgio Vasari and the Permutations of Design (p. 88-104) in Design and Truth by Robert Grudin 
+  - 
 - **Terms:**
 - **Activity:** [Story Breakdown](practice/story_breakdown.md)
 - **Activity (Choose 1):**
