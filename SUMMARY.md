@@ -21,7 +21,6 @@
        * Sound
        * [Sustainable design](topics/sustainable_design.md)
    * Methods
-       * [Concept development](topics/concept_development.md)
        * Research
        * [Statement writing](topics/statement_writing.md)
        * [The design brief](topics/the_design_brief.md)
@@ -64,6 +63,7 @@
            * [What is Design?](topics/what_is_design.md)
            * [Design thinking](topics/design_thinking.md)
            * [Double diamond](topics/double_diamond.md)
+           * [Concept development](topics/concept_development.md)
            * Read and Discuss
                * [Good Design Tells the Truth](practice/good_design_tells_the_truth.md)
                * [What Design and Truth Say about Each Other](practice/what_design_and_truth_say_about_each_other.md)
