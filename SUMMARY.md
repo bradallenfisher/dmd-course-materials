@@ -43,7 +43,6 @@
    * [Make a Brand](practice/make_a_brand.md)
    * [Non-linear Narrative](practice/non-linear_narrative.md)
    * [Future Living](practice/future_living.md)
-   * [Story Breakdown](practice/story_breakdown.md)
    * [Visual Manual](practice/visual_manual.md)
 * Units
    * [Unit 01](toolkit/lessons.md)
@@ -98,6 +97,7 @@
                * [In Jefferson's Footsteps: Modes of Self-Design](practice/in_jeffersons_footsteps_modes_of_self-design.md)
            * Activity
                * [Tell me a story](practice/tell_me_a_story.md)
+               * [Story Breakdown](practice/story_breakdown.md)
                * a
        * [Lesson 5: Remix](lessons/remix.md)
            * [Intellectual property](topics/intellectual_property.md)
