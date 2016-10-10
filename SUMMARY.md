@@ -44,7 +44,6 @@
    * [Non-linear Narrative](practice/non-linear_narrative.md)
    * [Future Living](practice/future_living.md)
    * [Story Breakdown](practice/story_breakdown.md)
-   * [Dwelling Design](practice/dwelling_design.md)
    * [Visual Manual](practice/visual_manual.md)
 * Units
    * [Unit 01](toolkit/lessons.md)
@@ -66,6 +65,7 @@
            * [Discursive design](topics/discursive_design.md)
            * [Sustainable design](topics/sustainable_design.md)
            * [Critical thinking](topics/critical_thinking.md)
+           * [Dwelling Design](practice/dwelling_design.md)
            * Activity
                * a
            * Read and Discuss
