@@ -24,7 +24,6 @@
        * [Sustainable design](topics/sustainable_design.md)
        * [Wireframing](topics/wireframing.md)
    * Methods
-       * [Collaboration](topics/collaboration.md)
        * [Concept development](topics/concept_development.md)
        * Research
        * [Statement writing](topics/statement_writing.md)
@@ -105,6 +104,7 @@
        * Unit 03 Project
            * [Toolkit Design Project](projects/toolkit_design_project.md)
        * [Lesson 6: Co-generative Design](lessons/co-generative_design.md)
+           * [Collaboration](topics/collaboration.md)
            * Read and Discuss
                * [Corporate Redesign and the Business of Knowledge](practice/corporate_redesign_and_the_business_of_knowledge.md)
                * [Designing Time](practice/designing_time.md)
