@@ -36,7 +36,6 @@
        * 3D
        * Web
 * [Projects](projects.md)
-   * [Design Fiction Project](projects/design_fiction_project.md)
 * Practice
    * [Curating for an Idea](practice/curating_for_an_idea.md)
    * [Design Intervention](practice/design_intervention.md)
@@ -50,6 +49,7 @@
 * Units
    * [Unit 01](toolkit/lessons.md)
        * Unit 01 Project
+           * [Design Fiction Project](projects/design_fiction_project.md)
            * [Ritual](projects/ritual.md)
        * [Lesson 1: What is Design?](lessons/introduction.md)
            * [What is Design?](topics/what_is_design.md)
