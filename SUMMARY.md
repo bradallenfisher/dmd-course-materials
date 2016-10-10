@@ -135,9 +135,9 @@
    * Design Methods
        * [Interview](toolkit/interview.md)
        * [User stories](toolkit/user_stories.md)
+       * [Prototype](toolkit/prototype.md)
        * [Journey map](toolkit/journey_map.md)
        * [Inspire](toolkit/inspire.md)
        * a
-   * [Prototype](toolkit/prototype.md)
    * [Insights](toolkit/insights.md)
 
