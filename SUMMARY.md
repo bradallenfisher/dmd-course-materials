@@ -93,6 +93,10 @@
            * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
            * World Building
        * Lessons
+           * [6. Remix](lessons/remix.md)
+               * Read and Discuss
+                   * [Corporate Redesign and the Business of Knowledge](practice/corporate_redesign_and_the_business_of_knowledge.md)
+                   * [Designing Time](practice/designing_time.md)
            * [4. Narrative](lessons/narrative.md)
                * [Narrative](topics/narrative.md)
                * [Systems thinking](topics/systems_thinking.md)
@@ -107,10 +111,6 @@
            * Read and Discuss
                * [Jefferson's Gravestone: Metaphorical Extensions of Design](practice/jeffersons_gravestone_metaphorical_extensions_of_d.md)
                * [Liberty as Knowledge Design](practice/liberty_as_knowledge_design.md)
-       * [6. Remix](lessons/remix.md)
-           * Read and Discuss
-               * [Corporate Redesign and the Business of Knowledge](practice/corporate_redesign_and_the_business_of_knowledge.md)
-               * [Designing Time](practice/designing_time.md)
        * [7. Open Design](lessons/open_design.md)
            * Read and Discuss
                * [The Design of Private Knowledge](practice/the_design_of_private_knowledge.md)
