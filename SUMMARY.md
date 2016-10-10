@@ -6,35 +6,6 @@
    * [Measuring success](introduction/measuring_success.md)
    * [References](introduction/references.md)
    * [Recommended Tools](introduction/recommended_tools.md)
-* Topics
-   * Principles
-       * Brand
-       * Color
-       * [Constructing meaning](topics/constructing_meaning.md)
-       * [Language](topics/language.md)
-       * Media
-       * Modularity
-       * [Semiotics](topics/semiotics.md)
-       * Sound
-   * Methods
-       * Research
-       * [Statement writing](topics/statement_writing.md)
-       * [The design brief](topics/the_design_brief.md)
-       * Brainwriting
-   * Fields
-       * Animation and VFX
-       * Architecture
-       * Entrepreneurship
-       * [Experience Design](topics/experience_design.md)
-       * Game design
-       * [Graphic design](topics/graphic_design.md)
-       * Industrial design
-   * Tools and Technology
-       * Automation
-       * [Programming](topics/programming.md)
-       * Digital imaging
-       * 3D
-       * Web
 * Units
    * [Unit 01](toolkit/lessons.md)
        * Unit 01 Project
@@ -120,6 +91,35 @@
                * [Chapter 15. The Design of Private Knowledge](practice/the_design_of_private_knowledge.md)
            * Activity
                * [Open Source Gift](practice/open_source_gift.md)
+* Topics
+   * Principles
+       * Brand
+       * Color
+       * [Constructing meaning](topics/constructing_meaning.md)
+       * [Language](topics/language.md)
+       * Media
+       * Modularity
+       * [Semiotics](topics/semiotics.md)
+       * Sound
+   * Methods
+       * Research
+       * [Statement writing](topics/statement_writing.md)
+       * [The design brief](topics/the_design_brief.md)
+       * Brainwriting
+   * Fields
+       * Animation and VFX
+       * Architecture
+       * Entrepreneurship
+       * [Experience Design](topics/experience_design.md)
+       * Game design
+       * [Graphic design](topics/graphic_design.md)
+       * Industrial design
+   * Tools and Technology
+       * Automation
+       * [Programming](topics/programming.md)
+       * Digital imaging
+       * 3D
+       * Web
 * Toolkit
    * Program hub
    * Program structure
