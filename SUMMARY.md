@@ -72,8 +72,8 @@
    * Lesson 01
    * [Unit 01](toolkit/lessons.md)
        * [1. What is Design?](lessons/introduction.md)
-           * [Double diamond](topics/double_diamond.md)
            * [What is Design?](topics/what_is_design.md)
+           * [Double diamond](topics/double_diamond.md)
            * Read and Discuss
                * [Good Design Tells the Truth](practice/good_design_tells_the_truth.md)
                * [What Design and Truth Say about Each Other](practice/what_design_and_truth_say_about_each_other.md)
