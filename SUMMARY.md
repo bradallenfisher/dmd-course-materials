@@ -96,7 +96,6 @@
    * [7. Open Design](lessons/open_design.md)
 * [The Design of Private Knowledge](practice/the_design_of_private_knowledge.md)
 * Reading Discussions
-   * [The Design of Private Knowledge](practice/the_design_of_private_knowledge.md)
 * Toolkit
    * Program hub
    * Program structure
