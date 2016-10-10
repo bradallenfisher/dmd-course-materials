@@ -101,7 +101,6 @@
                * [Liberty as Knowledge Design](practice/liberty_as_knowledge_design.md)
            * Activity
                * [Curating for an Idea](practice/curating_for_an_idea.md)
-               * a
    * Unit 03
        * Unit 03 Project
            * [Toolkit Design Project](projects/toolkit_design_project.md)
