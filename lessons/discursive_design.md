@@ -14,4 +14,4 @@
   - [Design Fiction Project](../projects/design_fiction_project.md)
 - **Read and Discuss:**
   - Edsel's Law: How Bad Design Happens (p. 46-54) in Design and Truth by Robert Grudin
-  - 
+  - Designs of Darkness (p. 55-61) in Design and Truth by Robert Grudin
