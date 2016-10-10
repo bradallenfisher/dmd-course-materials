@@ -20,7 +20,6 @@
        * [SOFI](topics/sofi.md)
        * Sound
        * [Sustainable design](topics/sustainable_design.md)
-       * [Wireframing](topics/wireframing.md)
    * Methods
        * [Concept development](topics/concept_development.md)
        * Research
@@ -76,6 +75,7 @@
            * Read and Discuss
                * [Edsel's Law: How Bad Design Happens](practice/edsels_law_how_bad_design_happens.md)
                * [Designs of Darkness](practice/bad_design.md)
+       * [Wireframing](topics/wireframing.md)
        * [Lesson 3: UX](lessons/ux.md)
            * [Digital Service or Product Project](projects/digital_service_or_product.md)
            * [Mental model](topics/mental_model.md)
