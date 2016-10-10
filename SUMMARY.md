@@ -95,7 +95,6 @@
            * [Narrative](topics/narrative.md)
            * [Systems thinking](topics/systems_thinking.md)
            * [Hypertext](topics/hypertext.md)
-           * Project
            * Read and Discuss
                * [The Lady in the Picture: Design and Revelation in Renaissance Art](practice/the_lady_in_the_picture_design_and_revelation_in_r.md)
                * [In Jefferson's Footsteps: Modes of Self-Design](practice/in_jeffersons_footsteps_modes_of_self-design.md)
