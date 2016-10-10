@@ -74,38 +74,38 @@
    * [Tell me a story](practice/tell_me_a_story.md)
    * [Visual Manual](practice/visual_manual.md)
 * Units
+   * [Lessons](toolkit/lessons.md)
+       * [1. Introduction](lessons/introduction.md)
+           * [What is Design?](topics/what_is_design.md)
+           * Read and Discuss
+               * [Good Design Tells the Truth](practice/good_design_tells_the_truth.md)
+               * [What Design and Truth Say about Each Other](practice/what_design_and_truth_say_about_each_other.md)
+       * [2. Discursive Design](lessons/discursive_design.md)
+           * Read and Discuss
+               * [Edsel's Law: How Bad Design Happens](practice/edsels_law_how_bad_design_happens.md)
+               * [Designs of Darkness](practice/bad_design.md)
+       * [3. UX](lessons/ux.md)
+           * Read and Discuss
+               * [Face to Face with Design](practice/face_to_face_with_design.md)
+               * [Giorgio Vasari and the Permutations of Design](practice/giorgio_vasari_and_the_permutations_of_design.md)
+       * [4. Narrative](lessons/narrative.md)
+           * Project
+               * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
+           * Read and Discuss
+               * [The Lady in the Picture: Design and Revelation in Renaissance Art](practice/the_lady_in_the_picture_design_and_revelation_in_r.md)
+               * [In Jefferson's Footsteps: Modes of Self-Design](practice/in_jeffersons_footsteps_modes_of_self-design.md)
+       * [5. Co-generative Design](lessons/co-generative_design.md)
+           * Read and Discuss
+               * [Jefferson's Gravestone: Metaphorical Extensions of Design](practice/jeffersons_gravestone_metaphorical_extensions_of_d.md)
+               * [Liberty as Knowledge Design](practice/liberty_as_knowledge_design.md)
+       * [6. Remix](lessons/remix.md)
+           * Read and Discuss
+               * [Corporate Redesign and the Business of Knowledge](practice/corporate_redesign_and_the_business_of_knowledge.md)
+               * [Designing Time](practice/designing_time.md)
+       * [7. Open Design](lessons/open_design.md)
+           * Read and Discuss
+               * [The Design of Private Knowledge](practice/the_design_of_private_knowledge.md)
    * f
-* [Lessons](toolkit/lessons.md)
-   * [1. Introduction](lessons/introduction.md)
-       * [What is Design?](topics/what_is_design.md)
-       * Read and Discuss
-           * [Good Design Tells the Truth](practice/good_design_tells_the_truth.md)
-           * [What Design and Truth Say about Each Other](practice/what_design_and_truth_say_about_each_other.md)
-   * [2. Discursive Design](lessons/discursive_design.md)
-       * Read and Discuss
-           * [Edsel's Law: How Bad Design Happens](practice/edsels_law_how_bad_design_happens.md)
-           * [Designs of Darkness](practice/bad_design.md)
-   * [3. UX](lessons/ux.md)
-       * Read and Discuss
-           * [Face to Face with Design](practice/face_to_face_with_design.md)
-           * [Giorgio Vasari and the Permutations of Design](practice/giorgio_vasari_and_the_permutations_of_design.md)
-   * [4. Narrative](lessons/narrative.md)
-       * Project
-           * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
-       * Read and Discuss
-           * [The Lady in the Picture: Design and Revelation in Renaissance Art](practice/the_lady_in_the_picture_design_and_revelation_in_r.md)
-           * [In Jefferson's Footsteps: Modes of Self-Design](practice/in_jeffersons_footsteps_modes_of_self-design.md)
-   * [5. Co-generative Design](lessons/co-generative_design.md)
-       * Read and Discuss
-           * [Jefferson's Gravestone: Metaphorical Extensions of Design](practice/jeffersons_gravestone_metaphorical_extensions_of_d.md)
-           * [Liberty as Knowledge Design](practice/liberty_as_knowledge_design.md)
-   * [6. Remix](lessons/remix.md)
-       * Read and Discuss
-           * [Corporate Redesign and the Business of Knowledge](practice/corporate_redesign_and_the_business_of_knowledge.md)
-           * [Designing Time](practice/designing_time.md)
-   * [7. Open Design](lessons/open_design.md)
-       * Read and Discuss
-           * [The Design of Private Knowledge](practice/the_design_of_private_knowledge.md)
 * Toolkit
    * Program hub
    * Program structure
