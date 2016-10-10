@@ -50,7 +50,6 @@
    * Unit 02
        * Unit 02 Project
            * [Interactive Story Project](projects/interactive_story_project.md)
-           * World Building
            * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
            * [Narrative Project: Self Design Option](projects/narrative_project_self_design_option.md)
            * [Narrative Project: Social Design Option](projects/narrative_project_social_design_option.md)
