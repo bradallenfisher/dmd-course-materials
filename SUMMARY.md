@@ -68,6 +68,7 @@
                * [Linear Narrative](practice/linear_narrative.md)
                * [Tell me a story](practice/tell_me_a_story.md)
                * [Story Breakdown](practice/story_breakdown.md)
+           * Topics
        * [Lesson 5: Remix](lessons/remix.md)
            * Everything is a Remix
            * [Intellectual property](topics/intellectual_property.md)
