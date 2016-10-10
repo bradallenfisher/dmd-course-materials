@@ -88,7 +88,7 @@
                * [Giorgio Vasari and the Permutations of Design](practice/giorgio_vasari_and_the_permutations_of_design.md)
        * Unit 01 Project
    * Unit 02
-       * Unit 2 Project
+       * Unit 02 Project
            * [Interactive Story Project](projects/interactive_story_project.md)
            * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
            * World Building
