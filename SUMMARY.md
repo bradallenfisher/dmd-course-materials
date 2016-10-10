@@ -89,10 +89,10 @@
            * [Face to Face with Design](practice/face_to_face_with_design.md)
            * [Giorgio Vasari and the Permutations of Design](practice/giorgio_vasari_and_the_permutations_of_design.md)
    * [4. Narrative](lessons/narrative.md)
+       * Practice
        * Read and Discuss
            * [The Lady in the Picture: Design and Revelation in Renaissance Art](practice/the_lady_in_the_picture_design_and_revelation_in_r.md)
            * [In Jefferson's Footsteps: Modes of Self-Design](practice/in_jeffersons_footsteps_modes_of_self-design.md)
-       * Practice
    * [5. Co-generative Design](lessons/co-generative_design.md)
        * Read and Discuss
            * [Jefferson's Gravestone: Metaphorical Extensions of Design](practice/jeffersons_gravestone_metaphorical_extensions_of_d.md)
