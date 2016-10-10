@@ -60,6 +60,7 @@
                * [Good Design Tells the Truth](practice/good_design_tells_the_truth.md)
                * [What Design and Truth Say about Each Other](practice/what_design_and_truth_say_about_each_other.md)
            * Activity
+               * a
        * [Lesson 2: Discursive Design](lessons/discursive_design.md)
            * [Discursive design](topics/discursive_design.md)
            * [Sustainable design](topics/sustainable_design.md)
