@@ -42,7 +42,6 @@
    * [Linear Narrative](practice/linear_narrative.md)
    * [Make a Brand](practice/make_a_brand.md)
    * [Non-linear Narrative](practice/non-linear_narrative.md)
-   * [Future Living](practice/future_living.md)
    * [Visual Manual](practice/visual_manual.md)
 * Units
    * [Unit 01](toolkit/lessons.md)
@@ -65,6 +64,7 @@
            * [Sustainable design](topics/sustainable_design.md)
            * [Critical thinking](topics/critical_thinking.md)
            * Activity
+               * [Future Living](practice/future_living.md)
                * [Dwelling Design](practice/dwelling_design.md)
            * Read and Discuss
                * [Edsel's Law: How Bad Design Happens](practice/edsels_law_how_bad_design_happens.md)
