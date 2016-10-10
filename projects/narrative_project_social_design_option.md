@@ -2,15 +2,16 @@
 
 ## Brief:
 
-It is 50 years into the future. 
+Imagine a better world 50 years into the future. In this project, you will create an interactive narrative hosted on the web.
 
 ## Process
 
 1. Discover Phase
-  - Name  
+  1. On a sheet of paper, choose five categories from the following list: education, economy, health/wellness,  
 2. Define
-3.  Develop
+3. Develop
 4. Deliver
+  1. Download the Twine file and submit to the project dropbox. Post the URL 
 
 ## Citation
 **Adapted from:** THINK CRITICALLY - ACT CREATIVELY: HARNESSING THE POWER OF FICTION FOR SOCIAL GOOD. Accessed on October 10, 2016. http://byanymedia.org/works/mapp/activity-1?path=activities
