@@ -130,6 +130,7 @@
    * [Futurecasting](toolkit/futurecasting.md)
    * [Documentation Guidelines](toolkit/documentation_guidelines.md)
    * [Materials](toolkit/materials.md)
+   * Design Methods
    * [Inspire](toolkit/inspire.md)
        * Design Methods
    * [Immerse and observe](toolkit/immerse_and_observe.md)
