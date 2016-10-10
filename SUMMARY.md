@@ -74,6 +74,7 @@
    * [Tell me a story](practice/tell_me_a_story.md)
    * [Visual Manual](practice/visual_manual.md)
 * Units
+   * Lesson 01
    * [Lessons](toolkit/lessons.md)
        * [1. Introduction](lessons/introduction.md)
            * [What is Design?](topics/what_is_design.md)
@@ -106,7 +107,6 @@
            * Read and Discuss
                * [The Design of Private Knowledge](practice/the_design_of_private_knowledge.md)
    * f
-   * Lesson 01
 * Toolkit
    * Program hub
    * Program structure
