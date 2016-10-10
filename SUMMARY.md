@@ -88,7 +88,6 @@
            * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
            * Tutorials
                * [Twine Tutorial: Getting Started](topics/twine-tutorial-getting-started.md)
-               * f
        * [Lesson 4: Narrative](lessons/narrative.md)
            * [Narrative](topics/narrative.md)
            * [Systems thinking](topics/systems_thinking.md)
