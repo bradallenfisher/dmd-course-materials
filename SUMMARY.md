@@ -101,6 +101,7 @@
                * [The Lady in the Picture: Design and Revelation in Renaissance Art](practice/the_lady_in_the_picture_design_and_revelation_in_r.md)
                * [In Jefferson's Footsteps: Modes of Self-Design](practice/in_jeffersons_footsteps_modes_of_self-design.md)
        * Lessons
+           * s
    * Unit 03
        * [5. Co-generative Design](lessons/co-generative_design.md)
            * Read and Discuss
