@@ -1,6 +1,6 @@
 # Jefferson's Gravestone: Metaphorical Extensions of Design
 
-In Jefferson's Footsteps: Modes of Self-Design (p. 117-133) in Design and Truth by Robert Grudin.
+Jefferson's Gravestone: Metaphorical Extensions of Design (p. 117-133) in Design and Truth by Robert Grudin.
 
 **Writing prompt:**
 
