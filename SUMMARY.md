@@ -113,7 +113,6 @@
                * [The Design of Private Knowledge](practice/the_design_of_private_knowledge.md)
        * Unit 3 Project
            * [Toolkit Design Project](projects/toolkit_design_project.md)
-           * d
 * Toolkit
    * Program hub
    * Program structure
