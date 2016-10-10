@@ -94,6 +94,7 @@
            * Project
                * [Interactive Story Project](projects/interactive_story_project.md)
                * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
+               * World Building
            * Read and Discuss
                * [The Lady in the Picture: Design and Revelation in Renaissance Art](practice/the_lady_in_the_picture_design_and_revelation_in_r.md)
                * [In Jefferson's Footsteps: Modes of Self-Design](practice/in_jeffersons_footsteps_modes_of_self-design.md)
