@@ -12,7 +12,6 @@
        * [Characters](topics/characters.md)
        * Color
        * [Constructing meaning](topics/constructing_meaning.md)
-       * [Design thinking](topics/design_thinking.md)
        * [Hypertext](topics/hypertext.md)
        * [Intellectual property](topics/intellectual_property.md)
        * [Language](topics/language.md)
@@ -69,6 +68,7 @@
            * [Ritual](projects/ritual.md)
        * [Lesson 1: What is Design?](lessons/introduction.md)
            * [What is Design?](topics/what_is_design.md)
+           * [Design thinking](topics/design_thinking.md)
            * [Double diamond](topics/double_diamond.md)
            * Read and Discuss
                * [Good Design Tells the Truth](practice/good_design_tells_the_truth.md)
