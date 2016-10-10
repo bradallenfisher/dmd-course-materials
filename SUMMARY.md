@@ -76,7 +76,7 @@
 * Units
    * Lesson 01
    * [Lessons](toolkit/lessons.md)
-       * [1. Introduction](lessons/introduction.md)
+       * [1. What is Design?](lessons/introduction.md)
            * [What is Design?](topics/what_is_design.md)
            * Read and Discuss
                * [Good Design Tells the Truth](practice/good_design_tells_the_truth.md)
