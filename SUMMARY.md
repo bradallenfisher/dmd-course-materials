@@ -12,7 +12,6 @@
        * [Characters](topics/characters.md)
        * Color
        * [Constructing meaning](topics/constructing_meaning.md)
-       * [Intellectual property](topics/intellectual_property.md)
        * [Language](topics/language.md)
        * Media
        * Modularity
@@ -96,6 +95,7 @@
                * [The Lady in the Picture: Design and Revelation in Renaissance Art](practice/the_lady_in_the_picture_design_and_revelation_in_r.md)
                * [In Jefferson's Footsteps: Modes of Self-Design](practice/in_jeffersons_footsteps_modes_of_self-design.md)
        * [Lesson 5: Remix](lessons/remix.md)
+           * [Intellectual property](topics/intellectual_property.md)
            * Read and Discuss
                * [Jefferson's Gravestone: Metaphorical Extensions of Design](practice/jeffersons_gravestone_metaphorical_extensions_of_d.md)
                * [Liberty as Knowledge Design](practice/liberty_as_knowledge_design.md)
