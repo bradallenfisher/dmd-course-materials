@@ -54,7 +54,6 @@
 * [Projects](projects.md)
    * [Design Fiction Project](projects/design_fiction_project.md)
    * [Toolkit Design Project](projects/toolkit_design_project.md)
-   * [Interactive Story Project](projects/interactive_story_project.md)
    * [Digital Service or Product Project](projects/digital_service_or_product.md)
    * [Ritual](projects/ritual.md)
 * Practice
@@ -93,6 +92,7 @@
        * [4. Narrative](lessons/narrative.md)
            * [Narrative](topics/narrative.md)
            * Project
+               * [Interactive Story Project](projects/interactive_story_project.md)
                * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
            * Read and Discuss
                * [The Lady in the Picture: Design and Revelation in Renaissance Art](practice/the_lady_in_the_picture_design_and_revelation_in_r.md)
