@@ -104,7 +104,6 @@
            * Read and Discuss
                * [Jefferson's Gravestone: Metaphorical Extensions of Design](practice/jeffersons_gravestone_metaphorical_extensions_of_d.md)
                * [Liberty as Knowledge Design](practice/liberty_as_knowledge_design.md)
-       * Lessons
    * Unit 03
        * [Lesson 6: Co-generative Design](lessons/co-generative_design.md)
            * Read and Discuss
