@@ -37,7 +37,6 @@
        * Web
 * [Projects](projects.md)
 * Practice
-   * [Non-linear Narrative](practice/non-linear_narrative.md)
 * Units
    * [Unit 01](toolkit/lessons.md)
        * Unit 01 Project
@@ -87,6 +86,7 @@
                * [Twine Tutorial: Getting Started](topics/twine-tutorial-getting-started.md)
        * [Lesson 4: Narrative](lessons/narrative.md)
            * [Narrative](topics/narrative.md)
+           * [Non-linear Narrative](practice/non-linear_narrative.md)
            * [Characters](topics/characters.md)
            * [Systems thinking](topics/systems_thinking.md)
            * [Hypertext](topics/hypertext.md)
