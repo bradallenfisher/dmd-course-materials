@@ -1,4 +1,4 @@
-# What is Design?
+# Introduction
 
 - **Slides:**
   - [The DMD Program](https://docs.google.com/presentation/d/1wxRa7rKQ7nNaekdb1zgYH7GiTvMhNXqlHgtrI9cLSTc/edit?usp=sharing)
