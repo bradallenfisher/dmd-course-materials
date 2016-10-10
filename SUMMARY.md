@@ -96,7 +96,7 @@
                * [Tell me a story](practice/tell_me_a_story.md)
                * [Story Breakdown](practice/story_breakdown.md)
        * [Lesson 5: Remix](lessons/remix.md)
-           * Remix
+           * Everything is a Remix
            * [Intellectual property](topics/intellectual_property.md)
            * Read and Discuss
                * [Chapter 11. Jefferson's Gravestone: Metaphorical Extensions of Design](practice/jeffersons_gravestone_metaphorical_extensions_of_d.md)
