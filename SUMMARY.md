@@ -69,7 +69,7 @@
            * [Discursive design](topics/discursive_design.md)
            * [Sustainable design](topics/sustainable_design.md)
            * [Critical thinking](topics/critical_thinking.md)
-           * Practice
+           * Activity
            * Read and Discuss
                * [Edsel's Law: How Bad Design Happens](practice/edsels_law_how_bad_design_happens.md)
                * [Designs of Darkness](practice/bad_design.md)
