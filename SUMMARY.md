@@ -58,8 +58,8 @@
                * [Twine Tutorial: Getting Started](topics/twine-tutorial-getting-started.md)
        * [Lesson 4: Narrative](lessons/narrative.md)
            * Topics
+               * [Narrative](topics/narrative.md)
                * c
-           * [Narrative](topics/narrative.md)
            * [Characters](topics/characters.md)
            * [Hypertext](topics/hypertext.md)
            * Read and Discuss
