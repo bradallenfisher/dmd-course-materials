@@ -99,13 +99,13 @@
            * Read and Discuss
                * [Jefferson's Gravestone: Metaphorical Extensions of Design](practice/jeffersons_gravestone_metaphorical_extensions_of_d.md)
                * [Liberty as Knowledge Design](practice/liberty_as_knowledge_design.md)
+   * Lesson 02
+       * d
+   * Lesson 03
        * [6. Remix](lessons/remix.md)
            * Read and Discuss
                * [Corporate Redesign and the Business of Knowledge](practice/corporate_redesign_and_the_business_of_knowledge.md)
                * [Designing Time](practice/designing_time.md)
-   * Lesson 02
-       * d
-   * Lesson 03
        * [7. Open Design](lessons/open_design.md)
            * Read and Discuss
                * [The Design of Private Knowledge](practice/the_design_of_private_knowledge.md)
