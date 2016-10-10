@@ -46,7 +46,6 @@
    * [Future Living](practice/future_living.md)
    * [Story Breakdown](practice/story_breakdown.md)
    * [Dwelling Design](practice/dwelling_design.md)
-   * [Tell me a story](practice/tell_me_a_story.md)
    * [Visual Manual](practice/visual_manual.md)
 * Units
    * [Unit 01](toolkit/lessons.md)
@@ -99,6 +98,7 @@
                * [The Lady in the Picture: Design and Revelation in Renaissance Art](practice/the_lady_in_the_picture_design_and_revelation_in_r.md)
                * [In Jefferson's Footsteps: Modes of Self-Design](practice/in_jeffersons_footsteps_modes_of_self-design.md)
            * Activity
+               * [Tell me a story](practice/tell_me_a_story.md)
                * a
        * [Lesson 5: Remix](lessons/remix.md)
            * [Intellectual property](topics/intellectual_property.md)
