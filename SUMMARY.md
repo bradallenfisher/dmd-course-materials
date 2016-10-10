@@ -15,7 +15,6 @@
        * Media
        * Modularity
        * [Semiotics](topics/semiotics.md)
-       * [SOFI](topics/sofi.md)
        * Sound
    * Methods
        * Research
@@ -58,6 +57,7 @@
            * [Ritual](projects/ritual.md)
        * [Lesson 1: What is Design?](lessons/introduction.md)
            * [What is Design?](topics/what_is_design.md)
+           * [SOFI](topics/sofi.md)
            * [Design thinking](topics/design_thinking.md)
            * [Double diamond](topics/double_diamond.md)
            * [Concept development](topics/concept_development.md)
