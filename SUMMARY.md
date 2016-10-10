@@ -108,6 +108,7 @@
            * s
    * Unit 03
        * [5. Co-generative Design](lessons/co-generative_design.md)
+           * 1
        * Read and Discuss
            * [Corporate Redesign and the Business of Knowledge](practice/corporate_redesign_and_the_business_of_knowledge.md)
            * [Designing Time](practice/designing_time.md)
