@@ -31,7 +31,6 @@
    * Methods
        * [Collaboration](topics/collaboration.md)
        * [Concept development](topics/concept_development.md)
-       * [Double diamond](topics/double_diamond.md)
        * Research
        * [Statement writing](topics/statement_writing.md)
        * [The design brief](topics/the_design_brief.md)
@@ -73,6 +72,7 @@
    * Lesson 01
    * [Unit 01](toolkit/lessons.md)
        * [1. What is Design?](lessons/introduction.md)
+           * [Double diamond](topics/double_diamond.md)
            * [What is Design?](topics/what_is_design.md)
            * Read and Discuss
                * [Good Design Tells the Truth](practice/good_design_tells_the_truth.md)
