@@ -38,7 +38,6 @@
 * [Projects](projects.md)
 * Practice
    * [Linear Narrative](practice/linear_narrative.md)
-   * [Make a Brand](practice/make_a_brand.md)
    * [Non-linear Narrative](practice/non-linear_narrative.md)
    * [Visual Manual](practice/visual_manual.md)
 * Units
@@ -56,6 +55,7 @@
                * [Good Design Tells the Truth](practice/good_design_tells_the_truth.md)
                * [What Design and Truth Say about Each Other](practice/what_design_and_truth_say_about_each_other.md)
            * Activity
+               * [Make a Brand](practice/make_a_brand.md)
                * a
        * [Lesson 2: Discursive Design](lessons/discursive_design.md)
            * [Discursive design](topics/discursive_design.md)
