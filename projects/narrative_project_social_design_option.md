@@ -11,7 +11,7 @@ Imagine a better world 50 years into the future. In this project, you will creat
 2. Define
 3. Develop
 4. Deliver
-  1. Download the Twine file and submit to the project dropbox. Post the URL 
+  1. Download the Twine file and submit to the project Dropbox. Post the URL to the Studio page for your classmates to review.
 
 ## Citation
 **Adapted from:** THINK CRITICALLY - ACT CREATIVELY: HARNESSING THE POWER OF FICTION FOR SOCIAL GOOD. Accessed on October 10, 2016. http://byanymedia.org/works/mapp/activity-1?path=activities
