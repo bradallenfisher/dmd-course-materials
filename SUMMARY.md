@@ -49,13 +49,13 @@
            * [Double diamond](topics/double_diamond.md)
            * [Concept development](topics/concept_development.md)
            * Read and Discuss
-               * [Good Design Tells the Truth](practice/good_design_tells_the_truth.md)
-               * [What Design and Truth Say about Each Other](practice/what_design_and_truth_say_about_each_other.md)
-               * 1) Sen Rikyu and the Paradox of Innovation
+               * Chapter 1. Sen Rikyu and the Paradox of Innovation
+               * [Chapter 2. Good Design Tells the Truth](practice/good_design_tells_the_truth.md)
+               * [Chapter 3.What Design and Truth Say about Each Other](practice/what_design_and_truth_say_about_each_other.md)
+               
            * Activity
                * [Visual Manual](practice/visual_manual.md)
                * [Make a Brand](practice/make_a_brand.md)
-               * a
        * [Lesson 2: Discursive Design](lessons/discursive_design.md)
            * [Discursive design](topics/discursive_design.md)
            * [Sustainable design](topics/sustainable_design.md)
@@ -63,15 +63,16 @@
                * [Future Living](practice/future_living.md)
                * [Dwelling Design](practice/dwelling_design.md)
            * Read and Discuss
-               * [Edsel's Law: How Bad Design Happens](practice/edsels_law_how_bad_design_happens.md)
-               * [Designs of Darkness](practice/bad_design.md)
+               * Chapter 4. Design as Tragedy: The Rise and Fall of the Twin Towers
+               * [Chapter 5. Edsel's Law: How Bad Design Happens](practice/edsels_law_how_bad_design_happens.md)
+               * [Chapter 6. Designs of Darkness](practice/bad_design.md)
        * [Lesson 3: UX](lessons/ux.md)
            * [Wireframing](topics/wireframing.md)
            * [Digital Service or Product Project](projects/digital_service_or_product.md)
            * [Mental model](topics/mental_model.md)
            * Read and Discuss
-               * [Face to Face with Design](practice/face_to_face_with_design.md)
-               * [Giorgio Vasari and the Permutations of Design](practice/giorgio_vasari_and_the_permutations_of_design.md)
+               * [Chapter 7. Face to Face with Design](practice/face_to_face_with_design.md)
+               * [Chapter 8. Giorgio Vasari and the Permutations of Design](practice/giorgio_vasari_and_the_permutations_of_design.md)
            * Activity
                * [Design an Interface](practice/design_an_interface.md)
                * [Design Intervention](practice/design_intervention.md)
@@ -88,8 +89,8 @@
            * [Characters](topics/characters.md)
            * [Hypertext](topics/hypertext.md)
            * Read and Discuss
-               * [The Lady in the Picture: Design and Revelation in Renaissance Art](practice/the_lady_in_the_picture_design_and_revelation_in_r.md)
-               * [In Jefferson's Footsteps: Modes of Self-Design](practice/in_jeffersons_footsteps_modes_of_self-design.md)
+               * [Chapter 9. The Lady in the Picture: Design and Revelation in Renaissance Art](practice/the_lady_in_the_picture_design_and_revelation_in_r.md)
+               * [Chapter 10. In Jefferson's Footsteps: Modes of Self-Design](practice/in_jeffersons_footsteps_modes_of_self-design.md)
            * Activity
                * [Non-linear Narrative](practice/non-linear_narrative.md)
                * [Linear Narrative](practice/linear_narrative.md)
@@ -98,8 +99,8 @@
        * [Lesson 5: Remix](lessons/remix.md)
            * [Intellectual property](topics/intellectual_property.md)
            * Read and Discuss
-               * [Jefferson's Gravestone: Metaphorical Extensions of Design](practice/jeffersons_gravestone_metaphorical_extensions_of_d.md)
-               * [Liberty as Knowledge Design](practice/liberty_as_knowledge_design.md)
+               * [Chapter 11. Jefferson's Gravestone: Metaphorical Extensions of Design](practice/jeffersons_gravestone_metaphorical_extensions_of_d.md)
+               * [Chapter 12. Liberty as Knowledge Design](practice/liberty_as_knowledge_design.md)
            * Activity
                * [Curating for an Idea](practice/curating_for_an_idea.md)
    * Unit 03
@@ -108,15 +109,15 @@
        * [Lesson 6: Co-generative Design](lessons/co-generative_design.md)
            * [Collaboration](topics/collaboration.md)
            * Read and Discuss
-               * [Corporate Redesign and the Business of Knowledge](practice/corporate_redesign_and_the_business_of_knowledge.md)
-               * [Designing Time](practice/designing_time.md)
+               * [Chapter 13. Corporate Redesign and the Business of Knowledge](practice/corporate_redesign_and_the_business_of_knowledge.md)
+               * [Chapter 14. Designing Time](practice/designing_time.md)
            * Activity
                * a
        * [Lesson 7: Open Design](lessons/open_design.md)
            * [Open design](topics/open_design.md)
            * [Risk and innovation](topics/risk_and_innovation.md)
            * Read and Discuss
-               * [The Design of Private Knowledge](practice/the_design_of_private_knowledge.md)
+               * [Chapter 15. The Design of Private Knowledge](practice/the_design_of_private_knowledge.md)
            * Activity
                * [Open Source Gift](practice/open_source_gift.md)
 * Toolkit
