@@ -1,6 +1,6 @@
 # Co-generative Design
 - **Presentation:** Slides
-- **Reading:**
+- **Read and Discuss:**
 - **Terms:**
   - [DIY](../topics/diy.md)
   - [Collaboration](../topics/collaboration.md)
