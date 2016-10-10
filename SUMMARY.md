@@ -25,7 +25,6 @@
        * Research
        * [Statement writing](topics/statement_writing.md)
        * [The design brief](topics/the_design_brief.md)
-       * [Twine Tutorial: Getting Started](topics/twine-tutorial-getting-started.md)
        * Brainwriting
    * Fields
        * Animation and VFX
@@ -87,6 +86,7 @@
            * [Interactive Story Project](projects/interactive_story_project.md)
            * World Building
            * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
+       * [Twine Tutorial: Getting Started](topics/twine-tutorial-getting-started.md)
        * [Lesson 4: Narrative](lessons/narrative.md)
            * [Narrative](topics/narrative.md)
            * [Systems thinking](topics/systems_thinking.md)
