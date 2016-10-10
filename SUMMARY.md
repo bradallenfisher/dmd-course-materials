@@ -76,7 +76,7 @@
    * [Visual Manual](practice/visual_manual.md)
 * [Lessons](toolkit/lessons.md)
    * [1. What is Design?](lessons/what_is_design.md)
-   * [Discursive Design](lessons/discursive_design.md)
+   * [Discursive Design](2. lessons/discursive_design.md)
    * [UX](lessons/ux.md)
    * [Narrative](lessons/narrative.md)
    * [Co-generative Design](lessons/co-generative_design.md)
