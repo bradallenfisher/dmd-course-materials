@@ -2,8 +2,7 @@
 
 - **Slides:**
 - **Reading:** 
-  - [What is discursive design](http://www.core77.com/posts/41991/What-is-Discursive-Design)
-  - Design and Truth by Robert Grudin: Chapter - Good design tells the truth
+  - ~~[What is discursive design](http://www.core77.com/posts/41991/What-is-Discursive-Design)~~
 - **Terms:**
   - [Constructing Meaning](../topics/critical_thinking.md)
   - [Critical Thinking](../topics/critical_thinking.md)
