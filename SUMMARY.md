@@ -49,7 +49,6 @@
        * Web
 * [Projects](projects.md)
    * [Design Fiction Project](projects/design_fiction_project.md)
-   * [Toolkit Design Project](projects/toolkit_design_project.md)
    * [Ritual](projects/ritual.md)
 * Practice
    * [Curating for an Idea](practice/curating_for_an_idea.md)
@@ -112,6 +111,7 @@
        * [Lesson 7: Open Design](lessons/open_design.md)
            * Read and Discuss
                * [The Design of Private Knowledge](practice/the_design_of_private_knowledge.md)
+       * [Toolkit Design Project](projects/toolkit_design_project.md)
        * Unit 3 Project
            * d
 * Toolkit
