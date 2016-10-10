@@ -127,11 +127,11 @@
    * Social media
    * [Career trajectory](toolkit/career_trajectory.md)
    * [Project Management](toolkit/project_management.md)
-   * [Futurecasting](toolkit/futurecasting.md)
    * [Documentation Guidelines](toolkit/documentation_guidelines.md)
    * [Materials](toolkit/materials.md)
    * Design Methods
    * Design Methods
+       * [Futurecasting](toolkit/futurecasting.md)
        * [Immerse and observe](toolkit/immerse_and_observe.md)
        * [Interview](toolkit/interview.md)
        * [User stories](toolkit/user_stories.md)
