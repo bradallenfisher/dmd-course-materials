@@ -95,7 +95,7 @@
    * [Liberty as Knowledge Design](practice/liberty_as_knowledge_design.md)
    * [Corporate Redesign and the Business of Knowledge](practice/corporate_redesign_and_the_business_of_knowledge.md)
    * [Designing Time](practice/designing_time.md)
-   * The Design of Private Knowledge
+   * [The Design of Private Knowledge](practice/the_design_of_private_knowledge.md)
    * [The Lady in the Picture: Design and Revelation](the_lady_in_the_picture_design_and_revelation_in_renaissance_art.md)
 * Toolkit
    * Program hub
