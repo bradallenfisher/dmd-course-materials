@@ -6,5 +6,8 @@
 > 
 >– Robert Grudin
 
+From the moment you wake up you are interacting with design.
+
 
 ## Citations
+
