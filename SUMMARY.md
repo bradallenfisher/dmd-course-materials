@@ -51,6 +51,7 @@
            * Read and Discuss
                * [Good Design Tells the Truth](practice/good_design_tells_the_truth.md)
                * [What Design and Truth Say about Each Other](practice/what_design_and_truth_say_about_each_other.md)
+               * 1. Sen Rikyu and the Paradox of Innovation
            * Activity
                * [Visual Manual](practice/visual_manual.md)
                * [Make a Brand](practice/make_a_brand.md)
