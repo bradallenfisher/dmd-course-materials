@@ -12,7 +12,6 @@
   - Design intervention activity: - Draw a visual manual for a confusing user experience.
 - **Read, watch, and listen:**  
   - Listen: Tea Ceremony podcast
-  - Read: Design and Truth by Robert Grudin: Chapter 2 - Good design tells the truth
 - **Read and Discuss:**
   - Face to Face with Design (p. 62-82) in Design and Truth by Robert Grudin
   - Giorgio Vasari and the Permutations of Design (p. 62-82) in Design and Truth by Robert Grudin
