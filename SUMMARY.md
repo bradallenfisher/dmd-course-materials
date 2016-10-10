@@ -35,7 +35,6 @@
        * Digital imaging
        * 3D
        * Web
-* [Projects](projects.md)
 * Units
    * [Unit 01](toolkit/lessons.md)
        * Unit 01 Project
