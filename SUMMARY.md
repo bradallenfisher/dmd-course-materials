@@ -66,6 +66,8 @@
 * Units
    * Lesson 01
    * [Unit 01](toolkit/lessons.md)
+       * Unit 01 Project
+           * [Ritual](projects/ritual.md)
        * [Lesson 1: What is Design?](lessons/introduction.md)
            * [What is Design?](topics/what_is_design.md)
            * [Double diamond](topics/double_diamond.md)
@@ -85,8 +87,6 @@
            * Read and Discuss
                * [Face to Face with Design](practice/face_to_face_with_design.md)
                * [Giorgio Vasari and the Permutations of Design](practice/giorgio_vasari_and_the_permutations_of_design.md)
-       * Unit 01 Project
-           * [Ritual](projects/ritual.md)
    * Unit 02
        * Unit 02 Project
            * [Interactive Story Project](projects/interactive_story_project.md)
