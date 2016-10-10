@@ -1,6 +1,6 @@
 # Corporate Redesign and the Business of Knowledge
 
-In Jefferson's Footsteps: Modes of Self-Design (p. 150-165) in Design and Truth by Robert Grudin.
+Corporate Redesign and the Business of Knowledge (p. 150-165) in Design and Truth by Robert Grudin.
 
 **Writing prompt:**
 
