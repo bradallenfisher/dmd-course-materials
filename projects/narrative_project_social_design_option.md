@@ -7,7 +7,19 @@ Imagine a better world 50 years into the future. In this project, you will creat
 ## Process
 
 1. Discover Phase
-  1. On a sheet of paper, choose three of the most interesting categories from the following list: education, economy, health/wellness, transportation, technology, government, business, environment, energy, labor, armed conflict.
+  1. Write three categories you are most interested in from the following list across the top of a sheet of paper:
+    - education
+    - economy
+    - health/wellness
+    - transportation
+    - technology
+    - government
+    - business
+    - environment
+    - food
+    - energy
+    - labor
+    - armed conflict.
 2. Define
 3. Develop
 4. Deliver
