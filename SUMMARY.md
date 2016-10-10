@@ -76,6 +76,7 @@
    * [Visual Manual](practice/visual_manual.md)
 * [Lessons](toolkit/lessons.md)
    * [1. What is Design?](lessons/what_is_design.md)
+   * [Good Design Tells the Truth](practice/good_design_tells_the_truth.md)
    * [2. Discursive Design](lessons/discursive_design.md)
    * [3. UX](lessons/ux.md)
    * [4. Narrative](lessons/narrative.md)
@@ -83,7 +84,6 @@
    * [6. Remix](lessons/remix.md)
    * [7. Open Design](lessons/open_design.md)
 * Reading Discussions
-   * [Good Design Tells the Truth](practice/good_design_tells_the_truth.md)
    * [What Design and Truth Say about Each Other](practice/what_design_and_truth_say_about_each_other.md)
    * [Edsel's Law: How Bad Design Happens](practice/edsels_law_how_bad_design_happens.md)
    * [Designs of Darkness](practice/bad_design.md)
