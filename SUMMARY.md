@@ -37,7 +37,6 @@
        * Web
 * [Projects](projects.md)
 * Practice
-   * [Linear Narrative](practice/linear_narrative.md)
    * [Non-linear Narrative](practice/non-linear_narrative.md)
 * Units
    * [Unit 01](toolkit/lessons.md)
@@ -95,6 +94,7 @@
                * [The Lady in the Picture: Design and Revelation in Renaissance Art](practice/the_lady_in_the_picture_design_and_revelation_in_r.md)
                * [In Jefferson's Footsteps: Modes of Self-Design](practice/in_jeffersons_footsteps_modes_of_self-design.md)
            * Activity
+               * [Linear Narrative](practice/linear_narrative.md)
                * [Tell me a story](practice/tell_me_a_story.md)
                * [Story Breakdown](practice/story_breakdown.md)
                * a
