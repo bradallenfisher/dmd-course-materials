@@ -132,8 +132,8 @@
    * [Materials](toolkit/materials.md)
    * Design Methods
    * [Immerse and observe](toolkit/immerse_and_observe.md)
+   * Design Methods
    * [Inspire](toolkit/inspire.md)
-       * [Immerse and observe](toolkit/immerse_and_observe.md)
        * Design Methods
    * [Interview](toolkit/interview.md)
    * [Journey map](toolkit/journey_map.md)
