@@ -89,6 +89,7 @@
            * [Giorgio Vasari and the Permutations of Design](practice/giorgio_vasari_and_the_permutations_of_design.md)
    * [4. Narrative](lessons/narrative.md)
        * Practice
+           * e
        * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
        * Read and Discuss
            * [The Lady in the Picture: Design and Revelation in Renaissance Art](practice/the_lady_in_the_picture_design_and_revelation_in_r.md)
