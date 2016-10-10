@@ -57,6 +57,7 @@
            * Tutorials
                * [Twine Tutorial: Getting Started](topics/twine-tutorial-getting-started.md)
        * [Lesson 4: Narrative](lessons/narrative.md)
+           * Topics
            * [Narrative](topics/narrative.md)
            * [Characters](topics/characters.md)
            * [Hypertext](topics/hypertext.md)
@@ -68,7 +69,6 @@
                * [Linear Narrative](practice/linear_narrative.md)
                * [Tell me a story](practice/tell_me_a_story.md)
                * [Story Breakdown](practice/story_breakdown.md)
-           * Topics
        * [Lesson 5: Remix](lessons/remix.md)
            * Everything is a Remix
            * [Intellectual property](topics/intellectual_property.md)
