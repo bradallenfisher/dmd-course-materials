@@ -106,7 +106,7 @@
                    * [Jefferson's Gravestone: Metaphorical Extensions of Design](practice/jeffersons_gravestone_metaphorical_extensions_of_d.md)
                    * [Liberty as Knowledge Design](practice/liberty_as_knowledge_design.md)
    * Unit 03
-       * [6. Co-generative Design](lessons/co-generative_design.md)
+       * [Lesson 6: Co-generative Design](lessons/co-generative_design.md)
            * Read and Discuss
                * [Corporate Redesign and the Business of Knowledge](practice/corporate_redesign_and_the_business_of_knowledge.md)
                * [Designing Time](practice/designing_time.md)
