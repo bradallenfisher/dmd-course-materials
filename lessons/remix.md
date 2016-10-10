@@ -1,7 +1,8 @@
 # Remix
 
 - **Presentation:** Slides
-- **Reading:** 
+- **Read and Discuss:**
+  - Liberty as Knowledge Design (p. 1xx) in Design and Truth by Robert Grudin. 
 - **Terms:**
   - [Remix](../topics/remix.md)
   - [Media](../topics/media.md)
