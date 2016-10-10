@@ -107,6 +107,7 @@
            * Read and Discuss
                * [The Design of Private Knowledge](practice/the_design_of_private_knowledge.md)
    * Lesson 02
+       * d
    * Lesson 03
        * f
 * Toolkit
