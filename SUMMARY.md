@@ -118,7 +118,6 @@
                * [The Design of Private Knowledge](practice/the_design_of_private_knowledge.md)
            * Activity
                * [Open Source Gift](practice/open_source_gift.md)
-               * a
 * Toolkit
    * Program hub
    * Program structure
