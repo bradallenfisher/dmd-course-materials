@@ -131,8 +131,8 @@
    * [Documentation Guidelines](toolkit/documentation_guidelines.md)
    * [Materials](toolkit/materials.md)
    * Design Methods
-   * [Immerse and observe](toolkit/immerse_and_observe.md)
    * Design Methods
+       * [Immerse and observe](toolkit/immerse_and_observe.md)
        * [Interview](toolkit/interview.md)
        * [User stories](toolkit/user_stories.md)
        * [Prototype](toolkit/prototype.md)
