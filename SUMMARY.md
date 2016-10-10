@@ -45,6 +45,7 @@
        * [Lesson 1: What is Design?](lessons/introduction.md)
            * [What is Design?](topics/what_is_design.md)
            * [SOFI](topics/sofi.md)
+           * [Critical thinking](topics/critical_thinking.md)
            * [Design thinking](topics/design_thinking.md)
            * [Systems thinking](topics/systems_thinking.md)
            * [Double diamond](topics/double_diamond.md)
@@ -59,7 +60,6 @@
        * [Lesson 2: Discursive Design](lessons/discursive_design.md)
            * [Discursive design](topics/discursive_design.md)
            * [Sustainable design](topics/sustainable_design.md)
-           * [Critical thinking](topics/critical_thinking.md)
            * Activity
                * [Future Living](practice/future_living.md)
                * [Dwelling Design](practice/dwelling_design.md)
