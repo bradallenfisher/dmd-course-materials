@@ -3,7 +3,7 @@
 - **Presentation:** Slides
 - **Read and Discuss:**
   - Designing Time (p. ) in Design and Truth by Robert Grudin
-  - 
+  - The Design of Private Knowledge (p. ) in Design and Truth by Robert Grudin
 - **Terms:**
   - [Tools and technology](../topics/tools_and_technology.md)
   - [Systems Thinking](../topics/systems_thinking.md)
