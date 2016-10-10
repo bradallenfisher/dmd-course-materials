@@ -49,7 +49,6 @@
        * Web
 * [Projects](projects.md)
    * [Design Fiction Project](projects/design_fiction_project.md)
-   * [Ritual](projects/ritual.md)
 * Practice
    * [Curating for an Idea](practice/curating_for_an_idea.md)
    * [Design an Interface](practice/design_an_interface.md)
@@ -86,6 +85,7 @@
            * Read and Discuss
                * [Face to Face with Design](practice/face_to_face_with_design.md)
                * [Giorgio Vasari and the Permutations of Design](practice/giorgio_vasari_and_the_permutations_of_design.md)
+       * [Ritual](projects/ritual.md)
        * Unit 01 Project
            * d
    * Unit 02
