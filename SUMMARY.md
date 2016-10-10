@@ -108,9 +108,9 @@
                * [Corporate Redesign and the Business of Knowledge](practice/corporate_redesign_and_the_business_of_knowledge.md)
                * [Designing Time](practice/designing_time.md)
        * [Lesson 7: Open Design](lessons/open_design.md)
+           * [Open design](topics/open_design.md)
            * Read and Discuss
                * [The Design of Private Knowledge](practice/the_design_of_private_knowledge.md)
-* [Open design](topics/open_design.md)
 * Toolkit
    * Program hub
    * Program structure
