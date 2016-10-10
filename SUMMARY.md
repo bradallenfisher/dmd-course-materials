@@ -117,6 +117,7 @@
            * [Risk and innovation](topics/risk_and_innovation.md)
            * Read and Discuss
                * [The Design of Private Knowledge](practice/the_design_of_private_knowledge.md)
+           * Activity
 * Toolkit
    * Program hub
    * Program structure
