@@ -13,6 +13,6 @@
 - **Read, watch, and listen:**  
   - Listen: Tea Ceremony podcast
   - Read: Design and Truth by Robert Grudin: Chapter 2 - Good design tells the truth
-- **Discussion Topic:**
-  - [Blog Post: Design and Truth by Robert Grudin: Chapter - Good design tells the truth](../practice/blog_post_ux.md)
+- **Read and Discuss:**
+  - Face to Face with Design (p. 62-82) in Design and Truth by Robert Grudin
 - **Project:** [Ritual](../projects/ritual.md)
