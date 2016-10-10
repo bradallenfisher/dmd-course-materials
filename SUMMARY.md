@@ -75,7 +75,7 @@
    * [Tell me a story](practice/tell_me_a_story.md)
    * [Visual Manual](practice/visual_manual.md)
 * [Lessons](toolkit/lessons.md)
-   * [1. What is Design?](lessons/introduction.md)
+   * [1. Introduction](lessons/introduction.md)
        * Read and Discuss
            * [Good Design Tells the Truth](practice/good_design_tells_the_truth.md)
            * [What Design and Truth Say about Each Other](practice/what_design_and_truth_say_about_each_other.md)
