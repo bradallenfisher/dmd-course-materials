@@ -112,7 +112,7 @@
                * [Chapter 13. Corporate Redesign and the Business of Knowledge](practice/corporate_redesign_and_the_business_of_knowledge.md)
                * [Chapter 14. Designing Time](practice/designing_time.md)
            * Activity
-               * a
+               * Co-generative Design Activity
        * [Lesson 7: Open Design](lessons/open_design.md)
            * [Open design](topics/open_design.md)
            * [Risk and innovation](topics/risk_and_innovation.md)
