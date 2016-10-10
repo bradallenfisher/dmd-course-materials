@@ -88,6 +88,10 @@
                * [Face to Face with Design](practice/face_to_face_with_design.md)
                * [Giorgio Vasari and the Permutations of Design](practice/giorgio_vasari_and_the_permutations_of_design.md)
    * Unit 02
+       * Project
+           * [Interactive Story Project](projects/interactive_story_project.md)
+           * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
+           * World Building
        * [4. Narrative](lessons/narrative.md)
            * [Narrative](topics/narrative.md)
            * [Systems thinking](topics/systems_thinking.md)
