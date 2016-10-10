@@ -86,13 +86,13 @@
                * [Twine Tutorial: Getting Started](topics/twine-tutorial-getting-started.md)
        * [Lesson 4: Narrative](lessons/narrative.md)
            * [Narrative](topics/narrative.md)
-           * [Non-linear Narrative](practice/non-linear_narrative.md)
            * [Characters](topics/characters.md)
            * [Systems thinking](topics/systems_thinking.md)
            * [Hypertext](topics/hypertext.md)
            * Read and Discuss
                * [The Lady in the Picture: Design and Revelation in Renaissance Art](practice/the_lady_in_the_picture_design_and_revelation_in_r.md)
                * [In Jefferson's Footsteps: Modes of Self-Design](practice/in_jeffersons_footsteps_modes_of_self-design.md)
+           * [Non-linear Narrative](practice/non-linear_narrative.md)
            * Activity
                * [Linear Narrative](practice/linear_narrative.md)
                * [Tell me a story](practice/tell_me_a_story.md)
