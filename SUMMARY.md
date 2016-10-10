@@ -93,7 +93,7 @@
            * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
            * World Building
        * Lessons
-           * [4. Narrative](lessons/narrative.md)
+           * [Lesson 4: Narrative](lessons/narrative.md)
                * [Narrative](topics/narrative.md)
                * [Systems thinking](topics/systems_thinking.md)
                * Project
