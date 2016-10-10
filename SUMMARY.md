@@ -138,5 +138,4 @@
        * [Insights](toolkit/insights.md)
        * [Journey map](toolkit/journey_map.md)
        * [Inspire](toolkit/inspire.md)
-   * Design Methods
 
