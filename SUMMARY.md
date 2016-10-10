@@ -53,9 +53,9 @@
            * World Building
            * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
            * [Narrative Project: Self Design Option](projects/narrative_project_self_design_option.md)
+           * Narrative Project: Social Design Option
            * Tutorials
                * [Twine Tutorial: Getting Started](topics/twine-tutorial-getting-started.md)
-           * Narrative Project: Social Design Option
        * [Lesson 4: Narrative](lessons/narrative.md)
            * [Narrative](topics/narrative.md)
            * [Characters](topics/characters.md)
