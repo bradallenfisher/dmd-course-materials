@@ -131,6 +131,7 @@
    * [Documentation Guidelines](toolkit/documentation_guidelines.md)
    * [Materials](toolkit/materials.md)
    * [Inspire](toolkit/inspire.md)
+       * Design Methods
    * [Immerse and observe](toolkit/immerse_and_observe.md)
    * [Interview](toolkit/interview.md)
    * [Journey map](toolkit/journey_map.md)
