@@ -106,6 +106,7 @@
            * Read and Discuss
                * [The Design of Private Knowledge](practice/the_design_of_private_knowledge.md)
    * f
+   * Lesson 01
 * Toolkit
    * Program hub
    * Program structure
