@@ -73,6 +73,7 @@
    * [Dwelling Design](practice/dwelling_design.md)
    * [Tell me a story](practice/tell_me_a_story.md)
    * [Visual Manual](practice/visual_manual.md)
+* Units
 * [Lessons](toolkit/lessons.md)
    * [1. Introduction](lessons/introduction.md)
        * [What is Design?](topics/what_is_design.md)
@@ -121,5 +122,4 @@
    * [User stories](toolkit/user_stories.md)
    * [Prototype](toolkit/prototype.md)
    * [Insights](toolkit/insights.md)
-* Units
 
