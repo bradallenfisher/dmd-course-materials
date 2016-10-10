@@ -86,6 +86,7 @@
            * [Interactive Story Project](projects/interactive_story_project.md)
            * World Building
            * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
+           * Tutorials
        * [Twine Tutorial: Getting Started](topics/twine-tutorial-getting-started.md)
        * [Lesson 4: Narrative](lessons/narrative.md)
            * [Narrative](topics/narrative.md)
