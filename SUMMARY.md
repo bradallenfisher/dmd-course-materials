@@ -130,6 +130,7 @@
    * [Documentation Guidelines](toolkit/documentation_guidelines.md)
    * [Materials](toolkit/materials.md)
    * Design Methods
+       * [Inspire](toolkit/inspire.md)
        * [Futurecasting](toolkit/futurecasting.md)
        * [Immerse and observe](toolkit/immerse_and_observe.md)
        * [Interview](toolkit/interview.md)
@@ -137,5 +138,4 @@
        * [Prototype](toolkit/prototype.md)
        * [Insights](toolkit/insights.md)
        * [Journey map](toolkit/journey_map.md)
-       * [Inspire](toolkit/inspire.md)
 
