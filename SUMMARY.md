@@ -93,8 +93,8 @@
    * [6. Remix](lessons/remix.md)
    * [Corporate Redesign and the Business of Knowledge](practice/corporate_redesign_and_the_business_of_knowledge.md)
    * [Designing Time](practice/designing_time.md)
+   * [The Design of Private Knowledge](practice/the_design_of_private_knowledge.md)
    * [7. Open Design](lessons/open_design.md)
-* [The Design of Private Knowledge](practice/the_design_of_private_knowledge.md)
 * Reading Discussions
 * Toolkit
    * Program hub
