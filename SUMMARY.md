@@ -52,6 +52,7 @@
        * 3D
        * Web
 * [Projects](projects.md)
+   * [Design Fiction Project](projects/design_fiction_project.md)
    * [Toolkit Design Project](projects/toolkit_design_project.md)
    * [Interactive Story Project](projects/interactive_story_project.md)
    * [Digital Service or Product Project](projects/digital_service_or_product.md)
@@ -80,7 +81,6 @@
                * [What Design and Truth Say about Each Other](practice/what_design_and_truth_say_about_each_other.md)
        * [2. Discursive Design](lessons/discursive_design.md)
            * [Discursive design](topics/discursive_design.md)
-           * [Design Fiction Project](projects/design_fiction_project.md)
            * Practice
            * Read and Discuss
                * [Edsel's Law: How Bad Design Happens](practice/edsels_law_how_bad_design_happens.md)
