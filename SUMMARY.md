@@ -90,7 +90,6 @@
            * [Interactive Story Project](projects/interactive_story_project.md)
            * World Building
            * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
-           * World Building
        * [Lesson 4: Narrative](lessons/narrative.md)
            * [Narrative](topics/narrative.md)
            * [Systems thinking](topics/systems_thinking.md)
