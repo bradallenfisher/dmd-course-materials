@@ -44,7 +44,6 @@
    * [Linear Narrative](practice/linear_narrative.md)
    * [Make a Brand](practice/make_a_brand.md)
    * [Non-linear Narrative](practice/non-linear_narrative.md)
-   * [Open Source Gift](practice/open_source_gift.md)
    * [Future Living](practice/future_living.md)
    * [Story Breakdown](practice/story_breakdown.md)
    * [Dwelling Design](practice/dwelling_design.md)
@@ -124,6 +123,7 @@
            * Read and Discuss
                * [The Design of Private Knowledge](practice/the_design_of_private_knowledge.md)
            * Activity
+               * [Open Source Gift](practice/open_source_gift.md)
                * a
 * Toolkit
    * Program hub
