@@ -77,7 +77,7 @@
 * [Lessons](toolkit/lessons.md)
    * [1. What is Design?](lessons/what_is_design.md)
    * [Discursive Design](2. lessons/discursive_design.md)
-   * [UX](lessons/ux.md)
+   * [1. UX](lessons/ux.md)
    * [Narrative](lessons/narrative.md)
    * [Co-generative Design](lessons/co-generative_design.md)
    * [Remix](lessons/remix.md)
