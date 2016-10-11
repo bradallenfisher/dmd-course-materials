@@ -81,6 +81,7 @@
            * Topics
                * Everything is a Remix
                * Media
+               * Sound
                * [Intellectual property](topics/intellectual_property.md)
            * Read and Discuss
                * [Chapter 11. Jefferson's Gravestone: Metaphorical Extensions of Design](practice/jeffersons_gravestone_metaphorical_extensions_of_d.md)
@@ -118,7 +119,6 @@
        * [Constructing meaning](topics/constructing_meaning.md)
        * [Language](topics/language.md)
        * [Semiotics](topics/semiotics.md)
-       * Sound
        * [Social Theory](topics/social_theory.md)
    * Methods
        * Research
