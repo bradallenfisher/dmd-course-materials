@@ -26,7 +26,7 @@ Imagine a better world 50 years into the future. In this project, you will creat
 
 ### Define
 
-1. Choose one of the category responses. Write the response as a short sentence, **"In 50 years, "** . An example sentence would be *In 50 years, the world will restore all of the world's endangered wildlife species to healthy populations.*
+1. Choose one of the category responses. Write the response as a short sentence, **"In 2045 years, "** . An example sentence would be *In 2045, the world will restore all of the world's endangered wildlife species to healthy populations.*
 
 ### Develop
 
