@@ -103,6 +103,7 @@
                * [Make a Brand](practice/make_a_brand.md)
                * Co-generative Design Activity
                * Design your Day
+           * Co-generative Design Case Study
        * [Lesson 7: Open Design](lessons/open_design.md)
            * Topics
                * [Open design](topics/open_design.md)
