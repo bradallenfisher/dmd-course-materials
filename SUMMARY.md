@@ -25,7 +25,6 @@
                * [Chapter 3.What Design and Truth Say about Each Other](practice/what_design_and_truth_say_about_each_other.md)
            * Activity
                * [Visual Manual](practice/visual_manual.md)
-               * [Make a Brand](practice/make_a_brand.md)
        * [Lesson 2: Discursive Design](lessons/discursive_design.md)
            * [Discursive design](topics/discursive_design.md)
            * [Sustainable design](topics/sustainable_design.md)
@@ -64,6 +63,7 @@
                * [Chapter 9. The Lady in the Picture: Design and Revelation in Renaissance Art](practice/the_lady_in_the_picture_design_and_revelation_in_r.md)
                * [Chapter 10. In Jefferson's Footsteps: Modes of Self-Design](practice/in_jeffersons_footsteps_modes_of_self-design.md)
            * Activity
+               * [Make a Brand](practice/make_a_brand.md)
                * [Non-linear Narrative](practice/non-linear_narrative.md)
                * [Linear Narrative](practice/linear_narrative.md)
                * [Tell me a story](practice/tell_me_a_story.md)
