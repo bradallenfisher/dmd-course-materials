@@ -1,4 +1,4 @@
-# Narrative Project: Social Design Option
+# Narrative Project: Civic Imagination
 
 ## Brief:
 
