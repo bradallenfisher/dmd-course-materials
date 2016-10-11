@@ -52,7 +52,7 @@
            * [Interactive Story Project](projects/interactive_story_project.md)
            * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
            * [Narrative Project: Self Design Option](projects/narrative_project_self_design_option.md)
-           * [Narrative Project: Social Design Option](projects/narrative_project_social_design_option.md)
+           * [Narrative Project: Civic Imagination](projects/narrative_project_social_design_option.md)
            * Tutorials
                * [Twine Tutorial: Getting Started](topics/twine-tutorial-getting-started.md)
        * [Lesson 4: Narrative](lessons/narrative.md)
