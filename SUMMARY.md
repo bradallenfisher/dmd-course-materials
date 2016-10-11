@@ -39,6 +39,7 @@
            * [Wireframing](topics/wireframing.md)
            * [Digital Service or Product Project](projects/digital_service_or_product.md)
            * [Mental model](topics/mental_model.md)
+           * Topics
            * UX Case Study
            * Read and Discuss
                * [Chapter 7. Face to Face with Design](practice/face_to_face_with_design.md)
@@ -46,7 +47,6 @@
            * Activity
                * [Design an Interface](practice/design_an_interface.md)
                * [Drawing a Journey Map](practice/drawing_a_journey_map.md)
-           * Topics
    * Unit 02
        * Unit 02 Project
            * [Interactive Story Project](projects/interactive_story_project.md)
