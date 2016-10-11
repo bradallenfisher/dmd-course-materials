@@ -14,12 +14,12 @@
            * [Ritual](projects/ritual.md)
        * [Lesson 1: What is Design?](lessons/introduction.md)
            * Topics
-             * [What is Design?](topics/what_is_design.md)
-             * [Critical thinking](topics/critical_thinking.md)
-             * [Design thinking](topics/design_thinking.md)
-             * [Systems thinking](topics/systems_thinking.md)
-             * [Double diamond](topics/double_diamond.md)
-             * [Concept development](topics/concept_development.md)
+               * [What is Design?](topics/what_is_design.md)
+               * [Critical thinking](topics/critical_thinking.md)
+               * [Design thinking](topics/design_thinking.md)
+               * [Systems thinking](topics/systems_thinking.md)
+               * [Double diamond](topics/double_diamond.md)
+               * [Concept development](topics/concept_development.md)
            * Design Case Study
            * Read and Discuss
                * [Chapter 1. Sen Rikyu and the Paradox of Innovation](practice/chapter_1_sen_rikyu_and_the_paradox_of_innovation.md)
@@ -29,8 +29,8 @@
                * [Visual Manual](practice/visual_manual.md)
        * [Lesson 2: Discursive Design](lessons/discursive_design.md)
            * Topics
-             * [Discursive design](topics/discursive_design.md)
-             * [Sustainable design](topics/sustainable_design.md)
+               * [Discursive design](topics/discursive_design.md)
+               * [Sustainable design](topics/sustainable_design.md)
            * Discursive Design Case Study
            * Activities
                * [Future Living](practice/future_living.md)
@@ -78,9 +78,9 @@
        * Unit 03 Project
            * [Toolkit Design Project](projects/toolkit_design_project.md)
        * [Lesson 5: Remix](lessons/remix.md)
-           * Topics 
-             * Everything is a Remix
-             * [Intellectual property](topics/intellectual_property.md)
+           * Topics
+               * Everything is a Remix
+               * [Intellectual property](topics/intellectual_property.md)
            * Read and Discuss
                * [Chapter 11. Jefferson's Gravestone: Metaphorical Extensions of Design](practice/jeffersons_gravestone_metaphorical_extensions_of_d.md)
                * [Chapter 12. Liberty as Knowledge Design](practice/liberty_as_knowledge_design.md)
@@ -88,7 +88,7 @@
                * [Curating for an Idea](practice/curating_for_an_idea.md)
        * [Lesson 6: Co-generative Design](lessons/co-generative_design.md)
            * Topics
-             * [Collaboration](topics/collaboration.md)
+               * [Collaboration](topics/collaboration.md)
            * Remix Case Study
            * Read and Discuss
                * [Chapter 13. Corporate Redesign and the Business of Knowledge](practice/corporate_redesign_and_the_business_of_knowledge.md)
@@ -99,8 +99,9 @@
                * Design your Day
        * [Lesson 7: Open Design](lessons/open_design.md)
            * Topics
-             * [Open design](topics/open_design.md)
-             * [Risk and innovation](topics/risk_and_innovation.md)
+               * [Open design](topics/open_design.md)
+               * Modularity
+               * [Risk and innovation](topics/risk_and_innovation.md)
            * Open Design Case Study
            * Read and Discuss
                * [Chapter 15. The Design of Private Knowledge](practice/the_design_of_private_knowledge.md)
@@ -113,7 +114,6 @@
        * [Constructing meaning](topics/constructing_meaning.md)
        * [Language](topics/language.md)
        * Media
-       * Modularity
        * [Semiotics](topics/semiotics.md)
        * Sound
        * [Social Theory](topics/social_theory.md)
