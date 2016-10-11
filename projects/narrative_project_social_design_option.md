@@ -24,7 +24,7 @@ Imagine a better world 50 years into the future. In this project, you will creat
     - labor
   2. Now that you have selected three categories, write them across the top of a sheet of paper to form three columns. Imagine what would be an ideal situation 50 years from now for that category. Respond to each category with a description of this scenario. Try to have an inspiration source for your ideas, though you do not need to mention it (IE - Flying cars as shown in the film, Blade Runner). Write at least one response per category, but feel free to write down as many as you like. Limit yourself to 10 minutes. **Take a photo of this process and post it to the Studio Project feed**
 2. Define
-  1. Choose one of the category responses. You will now map a fictional, yet plausible narrative. To clarify, magical spells are not plausible. Not yet invented technology is plausible. 
+  1. Choose one of the category responses. You will now map a fictional, yet plausible narrative. To clarify, removing gravity from Earth is not plausible. Yet to be invented technology is plausible. 
 3. Develop
 4. Deliver
   1. Download the Twine file and submit to the project Dropbox. Post the URL to the Studio page for your classmates to review.
