@@ -12,8 +12,12 @@ For this activity, you will create a visual "How To" guide that explains how to 
 **Process:**
 1. Select something you've struggled to understand for which you would like to create a visual how-to guide
   - Practice KISS.
-2. Choose the **graphic structure** that best suits the kind of how-to guide you are making.
-  - Examples include a storyboard, a flow-chart, a timeline, a diagram, or a doodle.
+2. Choose the **graphic structure** that best suits the kind of how-to guide you are making. This could be any of the following:
+  - storyboard
+  - flow-chart
+  - timeline
+  - diagram
+  - doodle.
 3. Use a pencil, pen, or marker to draw your how-to guide on paper. 
   - Use a scanner for best results.
 
