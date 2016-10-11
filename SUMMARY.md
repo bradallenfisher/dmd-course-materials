@@ -39,13 +39,13 @@
            * [Wireframing](topics/wireframing.md)
            * [Digital Service or Product Project](projects/digital_service_or_product.md)
            * [Mental model](topics/mental_model.md)
+           * UX Case Study
            * Read and Discuss
                * [Chapter 7. Face to Face with Design](practice/face_to_face_with_design.md)
                * [Chapter 8. Giorgio Vasari and the Permutations of Design](practice/giorgio_vasari_and_the_permutations_of_design.md)
            * Activity
                * [Design an Interface](practice/design_an_interface.md)
                * [Drawing a Journey Map](practice/drawing_a_journey_map.md)
-           * UX Case Study
    * Unit 02
        * Unit 02 Project
            * [Interactive Story Project](projects/interactive_story_project.md)
