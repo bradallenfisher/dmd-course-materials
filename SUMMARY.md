@@ -32,7 +32,6 @@
            * Topics
                * [Semiotics](topics/semiotics.md)
                * [Language](topics/language.md)
-               * [Constructing meaning](topics/constructing_meaning.md)
                * [Discursive design](topics/discursive_design.md)
            * Discursive Design Case Study
            * Activities
@@ -84,6 +83,7 @@
            * Topics
                * Everything is a Remix
                * Media
+               * [Constructing meaning](topics/constructing_meaning.md)
                * Sound
                * [Intellectual property](topics/intellectual_property.md)
            * Remix Case Study
