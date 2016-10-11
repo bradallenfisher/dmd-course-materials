@@ -31,7 +31,6 @@
        * [Lesson 2: Discursive Design](lessons/discursive_design.md)
            * Topics
                * [Semiotics](topics/semiotics.md)
-               * [Language](topics/language.md)
                * [Discursive design](topics/discursive_design.md)
            * Discursive Design Case Study
            * Activities
@@ -84,6 +83,7 @@
                * Everything is a Remix
                * Media
                * [Constructing meaning](topics/constructing_meaning.md)
+               * [Language](topics/language.md)
                * Sound
                * [Intellectual property](topics/intellectual_property.md)
            * Remix Case Study
