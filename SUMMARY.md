@@ -38,8 +38,8 @@
        * [Lesson 3: UX](lessons/ux.md)
            * [Wireframing](topics/wireframing.md)
            * [Digital Service or Product Project](projects/digital_service_or_product.md)
-           * [Mental model](topics/mental_model.md)
            * Topics
+               * [Mental model](topics/mental_model.md)
                * c
            * UX Case Study
            * Read and Discuss
