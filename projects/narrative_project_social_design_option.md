@@ -26,14 +26,17 @@ Imagine a better world 50 years into the future. In this project, you will creat
 
 ### Define
 
-1. Choose one of the category responses. Write the response as a short sentence, **"In 50 years, "** . An example setence would be *In 50 years, the world will restore all of the world's endangered wildlife species to healthy populations.*
+1. Choose one of the category responses. Write the response as a short sentence, **"In 50 years, "** . An example sentence would be *In 50 years, the world will restore all of the world's endangered wildlife species to healthy populations.*
 
 ### Develop
 
-1. You will now use Twine to create a fictional, yet plausible narrative that describes how this imagined future you have described came to be. For example, shape-shifting lizard people is not a plausibility.
+1. You will now use Twine to create a fictional, yet ***plausible*** narrative that describes how this imagined future you have described came to be. For example, shape-shifting lizard people are not plausible, but technology being developed that allows a person to change their appearance at will could be.
+  -  
 
 ### Deliver
-1. Download the Twine file and submit to the project Dropbox. Post the URL to the Studio page for your classmates to review.
+
+1. Post the web link of your Twine narrative to the Studio Project feed for the class to review.
+2. Download the Twine file and submit to the project Dropbox. Post the URL to the Studio page for your classmates to review.
 
 ## Citation
 **Adapted from:** THINK CRITICALLY - ACT CREATIVELY: HARNESSING THE POWER OF FICTION FOR SOCIAL GOOD. Accessed on October 10, 2016. http://byanymedia.org/works/mapp/activity-1?path=activities
