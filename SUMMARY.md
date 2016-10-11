@@ -14,7 +14,6 @@
            * [Ritual](projects/ritual.md)
        * [Lesson 1: What is Design?](lessons/introduction.md)
            * [What is Design?](topics/what_is_design.md)
-           * [SOFI](topics/sofi.md)
            * [Critical thinking](topics/critical_thinking.md)
            * [Design thinking](topics/design_thinking.md)
            * [Systems thinking](topics/systems_thinking.md)
