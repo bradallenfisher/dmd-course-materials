@@ -31,6 +31,7 @@
        * [Lesson 2: Discursive Design](lessons/discursive_design.md)
            * Topics
                * [Semiotics](topics/semiotics.md)
+               * [Constructing meaning](topics/constructing_meaning.md)
                * [Discursive design](topics/discursive_design.md)
            * Discursive Design Case Study
            * Activities
@@ -117,7 +118,6 @@
    * Principles
        * Brand
        * Color
-       * [Constructing meaning](topics/constructing_meaning.md)
        * [Language](topics/language.md)
        * [Social Theory](topics/social_theory.md)
    * Methods
