@@ -30,7 +30,6 @@
                * [Visual Manual](practice/visual_manual.md)
        * [Lesson 2: Discursive Design](lessons/discursive_design.md)
            * Topics
-               * [Semiotics](topics/semiotics.md)
                * [Discursive design](topics/discursive_design.md)
            * Discursive Design Case Study
            * Activities
@@ -82,6 +81,7 @@
            * Topics
                * Everything is a Remix
                * Media
+               * [Semiotics](topics/semiotics.md)
                * [Constructing meaning](topics/constructing_meaning.md)
                * [Language](topics/language.md)
                * Sound
