@@ -86,6 +86,7 @@
            * Activity
                * [Make a Brand](practice/make_a_brand.md)
                * Co-generative Design Activity
+               * Design your Day
        * [Lesson 7: Open Design](lessons/open_design.md)
            * [Open design](topics/open_design.md)
            * [Risk and innovation](topics/risk_and_innovation.md)
