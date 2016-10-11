@@ -46,6 +46,7 @@
            * Activity
                * [Design an Interface](practice/design_an_interface.md)
                * [Drawing a Journey Map](practice/drawing_a_journey_map.md)
+           * Topics
    * Unit 02
        * Unit 02 Project
            * [Interactive Story Project](projects/interactive_story_project.md)
