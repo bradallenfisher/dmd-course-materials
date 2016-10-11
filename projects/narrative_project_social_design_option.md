@@ -46,6 +46,5 @@ In this project, you will create a hypertext narrative describing how a better w
   - What did you notice?
   - What were some themes that emerged?
 
-
 ## Citation
 **Adapted from:** THINK CRITICALLY - ACT CREATIVELY: HARNESSING THE POWER OF FICTION FOR SOCIAL GOOD. Accessed on October 10, 2016. http://byanymedia.org/works/mapp/activity-1?path=activities
