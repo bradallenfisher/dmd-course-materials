@@ -55,7 +55,7 @@
            * [Narrative Project: Civic Imagination](projects/narrative_project_social_design_option.md)
            * Tutorials
                * [Twine Tutorial: Getting Started](topics/twine-tutorial-getting-started.md)
-               * Twine tutorial: Exploring Twine
+               * [Twine tutorial: Exploring Twine](topics/twine_tutorial_exploring_twine.md)
        * [Lesson 4: Narrative](lessons/narrative.md)
            * Topics
                * [Characters](topics/characters.md)
