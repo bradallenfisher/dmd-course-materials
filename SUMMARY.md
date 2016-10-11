@@ -44,7 +44,7 @@
            * Read and Discuss
                * [Chapter 7. Face to Face with Design](practice/face_to_face_with_design.md)
                * [Chapter 8. Giorgio Vasari and the Permutations of Design](practice/giorgio_vasari_and_the_permutations_of_design.md)
-           * Activity
+           * Activities
                * [Design an Interface](practice/design_an_interface.md)
                * [Drawing a Journey Map](practice/drawing_a_journey_map.md)
    * Unit 02
