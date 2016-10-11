@@ -73,8 +73,9 @@
        * Unit 03 Project
            * [Toolkit Design Project](projects/toolkit_design_project.md)
        * [Lesson 5: Remix](lessons/remix.md)
-           * Everything is a Remix
-           * [Intellectual property](topics/intellectual_property.md)
+           * Topics 
+             * Everything is a Remix
+             * [Intellectual property](topics/intellectual_property.md)
            * Read and Discuss
                * [Chapter 11. Jefferson's Gravestone: Metaphorical Extensions of Design](practice/jeffersons_gravestone_metaphorical_extensions_of_d.md)
                * [Chapter 12. Liberty as Knowledge Design](practice/liberty_as_knowledge_design.md)
@@ -90,8 +91,10 @@
                * Co-generative Design Activity
                * Design your Day
        * [Lesson 7: Open Design](lessons/open_design.md)
-           * [Open design](topics/open_design.md)
-           * [Risk and innovation](topics/risk_and_innovation.md)
+           * Topics
+             * [Open design](topics/open_design.md)
+             * [Risk and innovation](topics/risk_and_innovation.md)
+           * Case Study
            * Read and Discuss
                * [Chapter 15. The Design of Private Knowledge](practice/the_design_of_private_knowledge.md)
            * Activity
