@@ -20,6 +20,7 @@
              * [Systems thinking](topics/systems_thinking.md)
              * [Double diamond](topics/double_diamond.md)
              * [Concept development](topics/concept_development.md)
+           * Design Case Study
            * Read and Discuss
                * [Chapter 1. Sen Rikyu and the Paradox of Innovation](practice/chapter_1_sen_rikyu_and_the_paradox_of_innovation.md)
                * [Chapter 2. Good Design Tells the Truth](practice/good_design_tells_the_truth.md)
