@@ -68,6 +68,9 @@
                * [Linear Narrative](practice/linear_narrative.md)
                * [Tell me a story](practice/tell_me_a_story.md)
                * [Story Breakdown](practice/story_breakdown.md)
+   * Unit 03
+       * Unit 03 Project
+           * [Toolkit Design Project](projects/toolkit_design_project.md)
        * [Lesson 5: Remix](lessons/remix.md)
            * Everything is a Remix
            * [Intellectual property](topics/intellectual_property.md)
@@ -76,9 +79,6 @@
                * [Chapter 12. Liberty as Knowledge Design](practice/liberty_as_knowledge_design.md)
            * Activity
                * [Curating for an Idea](practice/curating_for_an_idea.md)
-   * Unit 03
-       * Unit 03 Project
-           * [Toolkit Design Project](projects/toolkit_design_project.md)
        * [Lesson 6: Co-generative Design](lessons/co-generative_design.md)
            * [Collaboration](topics/collaboration.md)
            * Read and Discuss
