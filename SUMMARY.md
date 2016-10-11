@@ -36,8 +36,8 @@
                * [Chapter 5. Edsel's Law: How Bad Design Happens](practice/edsels_law_how_bad_design_happens.md)
                * [Chapter 6. Designs of Darkness](practice/bad_design.md)
        * [Lesson 3: UX](lessons/ux.md)
-           * [Wireframing](topics/wireframing.md)
            * Topics
+               * [Wireframing](topics/wireframing.md)
                * [Digital Service or Product Project](projects/digital_service_or_product.md)
                * [Mental model](topics/mental_model.md)
                * c
