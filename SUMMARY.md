@@ -18,6 +18,7 @@
                * [Critical thinking](topics/critical_thinking.md)
                * [Design thinking](topics/design_thinking.md)
                * [Systems thinking](topics/systems_thinking.md)
+               * [Sustainable design](topics/sustainable_design.md)
                * [Double diamond](topics/double_diamond.md)
                * [Concept development](topics/concept_development.md)
            * Design Case Study
@@ -30,7 +31,6 @@
        * [Lesson 2: Discursive Design](lessons/discursive_design.md)
            * Topics
                * [Discursive design](topics/discursive_design.md)
-               * [Sustainable design](topics/sustainable_design.md)
            * Discursive Design Case Study
            * Activities
                * [Future Living](practice/future_living.md)
