@@ -63,13 +63,13 @@
                * [Chapter 9. The Lady in the Picture: Design and Revelation in Renaissance Art](practice/the_lady_in_the_picture_design_and_revelation_in_r.md)
                * [Chapter 10. In Jefferson's Footsteps: Modes of Self-Design](practice/in_jeffersons_footsteps_modes_of_self-design.md)
            * Activity
-               * [Make a Brand](practice/make_a_brand.md)
                * [Non-linear Narrative](practice/non-linear_narrative.md)
                * [Linear Narrative](practice/linear_narrative.md)
                * [Tell me a story](practice/tell_me_a_story.md)
                * [Story Breakdown](practice/story_breakdown.md)
    * Unit 03
        * Unit 03 Project
+           * [Make a Brand](practice/make_a_brand.md)
            * [Toolkit Design Project](projects/toolkit_design_project.md)
        * [Lesson 5: Remix](lessons/remix.md)
            * Everything is a Remix
