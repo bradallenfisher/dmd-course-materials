@@ -69,7 +69,6 @@
                * [Story Breakdown](practice/story_breakdown.md)
    * Unit 03
        * Unit 03 Project
-           * [Make a Brand](practice/make_a_brand.md)
            * [Toolkit Design Project](projects/toolkit_design_project.md)
        * [Lesson 5: Remix](lessons/remix.md)
            * Everything is a Remix
@@ -85,6 +84,7 @@
                * [Chapter 13. Corporate Redesign and the Business of Knowledge](practice/corporate_redesign_and_the_business_of_knowledge.md)
                * [Chapter 14. Designing Time](practice/designing_time.md)
            * Activity
+               * [Make a Brand](practice/make_a_brand.md)
                * Co-generative Design Activity
        * [Lesson 7: Open Design](lessons/open_design.md)
            * [Open design](topics/open_design.md)
