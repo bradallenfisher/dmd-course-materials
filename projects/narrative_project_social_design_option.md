@@ -20,7 +20,6 @@ Imagine a better world 50 years into the future. In this project, you will creat
     - food
     - energy
     - labor
-    - conflict
   2. Now that you have your categories
 2. Define
 3. Develop
