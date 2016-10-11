@@ -7,7 +7,7 @@ Imagine a better world 50 years into the future. In this project, you will creat
 ## Process
 
 1. Discover Phase
-  1. Write three categories you are most interested in from the following list across the top of a sheet of paper to form columns:
+  1. Choose three categories that seem the most interesting from the following list:
     - education
     - economy
     - health/wellness
@@ -15,12 +15,12 @@ Imagine a better world 50 years into the future. In this project, you will creat
     - technology
     - government
     - freedom
-    - business
+    - business/trade
     - environment
     - food
     - energy
     - labor
-  2. Now that you have your categories
+  2. Now that you have selected three categories, write them across the top of a sheet of paper to form three columns. Imagine what would be an ideal situation 50 years from now for that category. Respond to each category with a description of this scenario. It's okay to have direct inspiration for your ideas (IE - Flying cars as shown in the film, Blade Runner). Write at least one response per category, but feel free to write down as many as you like. Limit yourself to 10 minutes.
 2. Define
 3. Develop
 4. Deliver
