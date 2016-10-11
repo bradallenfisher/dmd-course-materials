@@ -30,7 +30,7 @@ Imagine a better world 50 years into the future. In this project, you will creat
 
 ### Develop
 
-1. You will now use Twine to create a fictional, yet ***plausible*** narrative that describes how this imagined future you have described came to be. For example, shape-shifting lizard people are not plausible, but technology being developed that allows a person to change their appearance at will could be. Develop and include the following in your story.
+1. You will now use Twine to create a fictional, yet ***plausible*** narrative that describes how this imagined future you have described came to be. For example, shape-shifting lizard people are not plausible, but technology developed to enable a person to change their appearance at will is plausible. Develop and include the following in your story.
   -  Characters
   -  Conflict
   -  Resolution
