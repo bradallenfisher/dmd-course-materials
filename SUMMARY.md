@@ -104,6 +104,7 @@
        * Modularity
        * [Semiotics](topics/semiotics.md)
        * Sound
+       * Social Theory
    * Methods
        * Research
        * [Statement writing](topics/statement_writing.md)
