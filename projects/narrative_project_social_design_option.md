@@ -44,7 +44,9 @@ In this project, you will create a hypertext narrative describing how a better w
 
 1. Now that you've produced a hypertext story, it's time to leave feedback for your classmates. Review three of your classmates' work and write a response that includes the following: 
   - What did you notice?
-  - What were some themes that emerged?
+  - Where elements of dramatic plot evident?
+  - Was the story about a positive future? How do you know?
+  - What themes emerged in the story?
 
 ## Citation
 **Adapted from:** THINK CRITICALLY - ACT CREATIVELY: HARNESSING THE POWER OF FICTION FOR SOCIAL GOOD. Accessed on October 10, 2016. http://byanymedia.org/works/mapp/activity-1?path=activities
