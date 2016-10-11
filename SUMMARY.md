@@ -89,6 +89,7 @@
        * [Lesson 6: Co-generative Design](lessons/co-generative_design.md)
            * Topics
                * [Collaboration](topics/collaboration.md)
+               * DIY
            * Remix Case Study
            * Read and Discuss
                * [Chapter 13. Corporate Redesign and the Business of Knowledge](practice/corporate_redesign_and_the_business_of_knowledge.md)
