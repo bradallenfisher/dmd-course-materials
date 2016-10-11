@@ -7,6 +7,7 @@
   - What is Design?
 - **Activities:**
   - Meet your classmates
+    - Icebreaker activity
   - Start a portfolio
   - **Read and Discuss:**
     - [Design and Truth by Robert Grudin: Good Design Tells the Truth](../practice/good_design_tells_the_truth.md)
