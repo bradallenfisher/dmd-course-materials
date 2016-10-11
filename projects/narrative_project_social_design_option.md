@@ -6,7 +6,7 @@ In this project, you will create a hypertext narrative describing how a better w
 
 ## Process
 
-### Discover
+### Discover (Week 1)
   1. Choose three categories that seem the most interesting from the following list:
     - education
     - economy
@@ -24,23 +24,28 @@ In this project, you will create a hypertext narrative describing how a better w
     - labor
   2. Now that you have selected three categories, write them across the top of a sheet of paper to form three columns. Imagine what would be an ideal or positive situation for that category for the year 2045. Respond to each category with a short one-sentence description of this scenario. Try to have an inspiration source for your ideas, though you do not need to mention it (IE - Flying cars as shown in the film, Blade Runner). Write at least one response per category, but feel free to write down as many as you like. Limit yourself to 10 minutes. **Take a photo of your process and post it to the Studio Project feed**
 
-### Define
+### Define (Week 1)
 
 1. Choose one of the category responses. Write the response as a short sentence, **"In 2045 years, "** . An example sentence would be *In 2045, the world will restore all of the world's endangered wildlife species to healthy populations.*
 
-### Develop
+### Develop (Week 1)
 
 1. You will now use Twine to create a fictional, yet ***plausible*** narrative that describes how this imagined future you have described came to be. For example, shape-shifting lizard people are not plausible, but technology developed to enable a person to change their appearance at will is plausible. Develop and include the following in your story.
   -  Characters
   -  Conflict
   -  Resolution
 
-### Deliver
+### Deliver (Week 1)
 
 1. Post the web link of your Twine narrative to the Studio Project feed for the class to review.
 2. Download the Twine file and submit to the Studio Project Dropbox. Post the URL to the Studio page for your classmates to review.
 
-### Discuss
+### Discuss (Week 2)
+
+1. Now that you've produced a hypertext story, it's time to leave feedback for your classmates. Review three of your classmates' work and write a response that includes the following: 
+  - What did you notice?
+  - What were some themes that emerged?
+
 
 ## Citation
 **Adapted from:** THINK CRITICALLY - ACT CREATIVELY: HARNESSING THE POWER OF FICTION FOR SOCIAL GOOD. Accessed on October 10, 2016. http://byanymedia.org/works/mapp/activity-1?path=activities
