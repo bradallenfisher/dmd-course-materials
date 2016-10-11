@@ -5,6 +5,7 @@ If you consider that an expert in any given field is an expert on the system or 
 
 
 ## Design field examples
+
 Cradle-to-cradle design accounts for social, economic, and ecological systems when designing consumer products.
 
 
