@@ -2,7 +2,7 @@
 
 ## Brief:
 
-Imagine a better world 50 years into the future. In this project, you will create an interactive narrative hosted on the web.
+In this project, you will create a hypertext narrative describing how a better world came to be for the year 2045.
 
 ## Process
 
