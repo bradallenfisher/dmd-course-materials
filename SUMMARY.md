@@ -31,6 +31,7 @@
            * Topics
              * [Discursive design](topics/discursive_design.md)
              * [Sustainable design](topics/sustainable_design.md)
+           * Discursive Design Case Study
            * Activities
                * [Future Living](practice/future_living.md)
                * [Dwelling Design](practice/dwelling_design.md)
