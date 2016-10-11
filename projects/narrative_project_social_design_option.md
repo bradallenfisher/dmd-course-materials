@@ -6,7 +6,7 @@ Imagine a better world 50 years into the future. In this project, you will creat
 
 ## Process
 
-### Discover Phase
+### Discover
   1. Choose three categories that seem the most interesting from the following list:
     - education
     - economy
@@ -30,13 +30,17 @@ Imagine a better world 50 years into the future. In this project, you will creat
 
 ### Develop
 
-1. You will now use Twine to create a fictional, yet ***plausible*** narrative that describes how this imagined future you have described came to be. For example, shape-shifting lizard people are not plausible, but technology being developed that allows a person to change their appearance at will could be.
-  -  
+1. You will now use Twine to create a fictional, yet ***plausible*** narrative that describes how this imagined future you have described came to be. For example, shape-shifting lizard people are not plausible, but technology being developed that allows a person to change their appearance at will could be. Develop and include the following in your story.
+  -  Characters
+  -  Conflict
+  -  Resolution
 
 ### Deliver
 
 1. Post the web link of your Twine narrative to the Studio Project feed for the class to review.
 2. Download the Twine file and submit to the project Dropbox. Post the URL to the Studio page for your classmates to review.
+
+### Discuss
 
 ## Citation
 **Adapted from:** THINK CRITICALLY - ACT CREATIVELY: HARNESSING THE POWER OF FICTION FOR SOCIAL GOOD. Accessed on October 10, 2016. http://byanymedia.org/works/mapp/activity-1?path=activities
