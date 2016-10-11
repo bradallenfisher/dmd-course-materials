@@ -103,6 +103,7 @@
                * Modularity
                * [Risk and innovation](topics/risk_and_innovation.md)
                * Community
+               * Activism
            * Open Design Case Study
            * Read and Discuss
                * [Chapter 15. The Design of Private Knowledge](practice/the_design_of_private_knowledge.md)
