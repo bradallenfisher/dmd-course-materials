@@ -9,7 +9,7 @@
 * Units
    * [Unit 01](toolkit/lessons.md)
        * Unit 01 Description
-       * Icebreaker: Visual Telephone
+       * [Icebreaker: Visual Telephone](icebreakers/icebreaker_visual_telephone.md)
        * Unit 01 Project
            * [Design Fiction Project](projects/design_fiction_project.md)
            * [Design Intervention](practice/design_intervention.md)
