@@ -9,6 +9,7 @@
 * Units
    * [Unit 01](toolkit/lessons.md)
        * Unit 01 Description
+       * Icebreaker: Visual Telephone
        * Unit 01 Project
            * [Design Fiction Project](projects/design_fiction_project.md)
            * [Design Intervention](practice/design_intervention.md)
@@ -52,7 +53,6 @@
            * Activities
                * [Design an Interface](practice/design_an_interface.md)
                * [Drawing a Journey Map](practice/drawing_a_journey_map.md)
-       * Icebreaker: Visual Telephone
    * Unit 02
        * Unit 02 Project
            * [Interactive Story Project](projects/interactive_story_project.md)
