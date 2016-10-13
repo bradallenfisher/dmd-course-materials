@@ -65,7 +65,7 @@
                * [Twine tutorial: Exploring Twine](topics/twine_tutorial_exploring_twine.md)
        * [Lesson 4: Narrative](lessons/narrative.md)
            * Topics
-               * [Character](topics/characters.md)
+               * [Character](topics/character.md)
                * [Hypertext](topics/hypertext.md)
                * [Narrative](topics/narrative.md)
            * Narrative Case Study
