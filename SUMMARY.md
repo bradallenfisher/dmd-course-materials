@@ -6,18 +6,18 @@
    * [Measuring success](introduction/measuring_success.md)
    * [References](introduction/references.md)
    * [Recommended Tools](introduction/recommended_tools.md)
-* [Lesson 2: Discursive Design](lessons/discursive_design.md)
-   * Topics
-       * [Discursive design](topics/discursive_design.md)
-   * Discursive Design Case Study
-   * Activities
-       * [Future Living](practice/future_living.md)
-       * [Dwelling Design](practice/dwelling_design.md)
-   * Read and Discuss
-       * Chapter 4. Design as Tragedy: The Rise and Fall of the Twin Towers
-       * [Chapter 5. Edsel's Law: How Bad Design Happens](practice/edsels_law_how_bad_design_happens.md)
-       * [Chapter 6. Designs of Darkness](practice/bad_design.md)
 * unused
+   * [Lesson 2: Discursive Design](lessons/discursive_design.md)
+       * Topics
+           * [Discursive design](topics/discursive_design.md)
+       * Discursive Design Case Study
+       * Activities
+           * [Future Living](practice/future_living.md)
+           * [Dwelling Design](practice/dwelling_design.md)
+       * Read and Discuss
+           * Chapter 4. Design as Tragedy: The Rise and Fall of the Twin Towers
+           * [Chapter 5. Edsel's Law: How Bad Design Happens](practice/edsels_law_how_bad_design_happens.md)
+           * [Chapter 6. Designs of Darkness](practice/bad_design.md)
    * f
 * Units
    * [Unit 01](toolkit/lessons.md)
