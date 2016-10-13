@@ -47,6 +47,7 @@
                * Brand
                * [Elements of Visual Design](topics/elements_of_visual_design.md)
                * [Principles of Visual Design](topics/principles_of_visual_design.md)
+               * Semiotics
            * [Visual Design Case Study](topics/visual_design_case_study.md)
            * Read and Discuss
                * Chapter 4. Design as Tragedy: The Rise and Fall of the Twin Towers
