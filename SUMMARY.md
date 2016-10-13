@@ -9,6 +9,7 @@
 * unused
    * [Tell me a story](practice/tell_me_a_story.md)
    * [Interactive Story Project](projects/interactive_story_project.md)
+   * [Narrative Project: Self Design Option](projects/narrative_project_self_design_option.md)
    * [Lesson 2: Discursive Design](lessons/discursive_design.md)
        * Topics
            * [Discursive design](topics/discursive_design.md)
@@ -56,7 +57,6 @@
    * Unit 02
        * Unit 02 Project
            * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
-           * [Narrative Project: Self Design Option](projects/narrative_project_self_design_option.md)
            * [Narrative Project: Civic Imagination](projects/narrative_project_social_design_option.md)
            * Tutorials
                * [Twine Tutorial: Getting Started](topics/twine-tutorial-getting-started.md)
