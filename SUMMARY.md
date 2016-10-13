@@ -75,7 +75,7 @@
                * [Design an Interface](practice/design_an_interface.md)
                * [Drawing a Journey Map](practice/drawing_a_journey_map.md)
        * [Lesson 4: Narrative](lessons/narrative.md)
-           * Introduction
+           * [Introduction](lessons/narrative/introduction.md)
            * Topics
                * [Character](topics/character.md)
                * [Hypertext](topics/hypertext.md)
