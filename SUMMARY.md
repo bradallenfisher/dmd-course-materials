@@ -45,7 +45,7 @@
            * Topics
                * Color
                * Brand
-               * Elements of Visual Design
+               * [Elements of Visual Design](topics/elements_of_visual_design.md)
                * Principles of Visual Design
            * [Visual Design Case Study](topics/visual_design_case_study.md)
            * Read and Discuss
