@@ -1,6 +1,6 @@
 # Character
 
-In fictional film or literature, character types are used to enable viewers to empathize with the story.
+In fictional film or literature, character types are used to enable viewers to empathize with the story. A person's character typically refers to the qualities a they possess. However, a character can also be an object or abstraction in a story. 
 
 Characterization types in fiction:
 
