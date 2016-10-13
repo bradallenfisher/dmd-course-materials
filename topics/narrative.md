@@ -1,5 +1,8 @@
 # Narrative
-Story can be both integral to the design process and the intended product. Story is always built into a visual or physical object.
+
+In the talk, [The storytelling animal: Jonathan Gottschall at TEDxFurmanU](https://www.youtube.com/watch?v=Vhd0XdedLpY), Jonathan Gottshcall tells about the pervasive role stories play in the human experience.
+
+
 
 Major considerations for the storytelling include:
 
@@ -15,7 +18,7 @@ Major considerations for the storytelling include:
 >
 >*-Ellen Lupton, Design Fictions, https://vimeo.com/90492776*
 
-Why are you telling this story? What does it mean to be a story teller from a designer's perspective?
+What does it mean to be a story teller from a designer's perspective? Perhaps one of the greatest signs of a bad designer is one that introduces stories into the world arbitrarily.
 
 ## Narrative structure
 A narrative structure orders or disorders the content of a story for the audience. Hollywood film financiers tend to favor safe and time-tested structures to better the chances of a profitable return on their investment. The perception is that experimental or less used narrative structures tend to be risky investments. The same can be said for large game developers who are prone to sequels of high selling titles.
