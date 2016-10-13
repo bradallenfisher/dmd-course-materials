@@ -2,7 +2,7 @@
     "plugins": [
         "oerschema",
         "youtube",
-        "video"
+        "-video"
     ],
     "pluginsConfig": {}
 }
