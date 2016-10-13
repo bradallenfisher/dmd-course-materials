@@ -1,4 +1,4 @@
-# Characters
+# Character
 
 In fictional film or literature, character types are used to enable viewers to empathize with the story.
 
@@ -16,3 +16,5 @@ Characterization types in fiction:
 10. Anti-hero character
 11. Foil character
 12. Symbolic character
+
+
