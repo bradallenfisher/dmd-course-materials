@@ -42,6 +42,15 @@
                * Chapter 4. Design as Tragedy: The Rise and Fall of the Twin Towers
                * [Chapter 5. Edsel's Law: How Bad Design Happens](practice/edsels_law_how_bad_design_happens.md)
                * [Chapter 6. Designs of Darkness](practice/bad_design.md)
+   * Unit 02
+       * Unit 02 Project
+           * [Interactive Story Project](projects/interactive_story_project.md)
+           * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
+           * [Narrative Project: Self Design Option](projects/narrative_project_self_design_option.md)
+           * [Narrative Project: Civic Imagination](projects/narrative_project_social_design_option.md)
+           * Tutorials
+               * [Twine Tutorial: Getting Started](topics/twine-tutorial-getting-started.md)
+               * [Twine tutorial: Exploring Twine](topics/twine_tutorial_exploring_twine.md)
        * [Lesson 3: UX](lessons/ux.md)
            * Topics
                * [Wireframing](topics/wireframing.md)
@@ -54,15 +63,6 @@
            * Activities
                * [Design an Interface](practice/design_an_interface.md)
                * [Drawing a Journey Map](practice/drawing_a_journey_map.md)
-   * Unit 02
-       * Unit 02 Project
-           * [Interactive Story Project](projects/interactive_story_project.md)
-           * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
-           * [Narrative Project: Self Design Option](projects/narrative_project_self_design_option.md)
-           * [Narrative Project: Civic Imagination](projects/narrative_project_social_design_option.md)
-           * Tutorials
-               * [Twine Tutorial: Getting Started](topics/twine-tutorial-getting-started.md)
-               * [Twine tutorial: Exploring Twine](topics/twine_tutorial_exploring_twine.md)
        * [Lesson 4: Narrative](lessons/narrative.md)
            * Topics
                * [Character](topics/character.md)
