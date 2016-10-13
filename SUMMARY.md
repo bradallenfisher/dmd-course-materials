@@ -49,8 +49,8 @@
            * Topics
            * [Visual Design Case Study](topics/visual_design_case_study.md)
            * Read and discuss
-           * [Make a Brand](practice/make_a_brand.md)
            * Activities
+               * [Make a Brand](practice/make_a_brand.md)
                * j
    * Unit 02
        * Unit 02 Project
