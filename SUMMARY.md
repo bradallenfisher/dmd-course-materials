@@ -50,6 +50,7 @@
            * [Visual Design Case Study](topics/visual_design_case_study.md)
            * Read and discuss
            * Activities
+   * [Make a Brand](practice/make_a_brand.md)
    * Unit 02
        * Unit 02 Project
            * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
