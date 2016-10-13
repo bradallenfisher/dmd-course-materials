@@ -43,6 +43,7 @@
                * [Chapter 5. Edsel's Law: How Bad Design Happens](practice/edsels_law_how_bad_design_happens.md)
                * [Chapter 6. Designs of Darkness](practice/bad_design.md)
        * Lesson 2: Visual Design
+           * Read and discuss
    * Unit 02
        * Unit 02 Project
            * [Interactive Story Project](projects/interactive_story_project.md)
