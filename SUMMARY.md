@@ -7,6 +7,7 @@
    * [References](introduction/references.md)
    * [Recommended Tools](introduction/recommended_tools.md)
 * unused
+   * [Interactive Story Project](projects/interactive_story_project.md)
    * [Lesson 2: Discursive Design](lessons/discursive_design.md)
        * Topics
            * [Discursive design](topics/discursive_design.md)
@@ -50,7 +51,6 @@
            * Activities
    * Unit 02
        * Unit 02 Project
-           * [Interactive Story Project](projects/interactive_story_project.md)
            * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
            * [Narrative Project: Self Design Option](projects/narrative_project_self_design_option.md)
            * [Narrative Project: Civic Imagination](projects/narrative_project_social_design_option.md)
