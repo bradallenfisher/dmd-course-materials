@@ -1,8 +1,14 @@
 # Character
 
-In fictional film or literature, character types are used to enable viewers to empathize with the story. A person's character typically refers to the qualities a they possess. However, a character can also be an object or abstraction in a story. 
+In fictional film or literature, character types are used to enable viewers to empathize with the story. A person's character typically refers to the qualities a they possess. However, a character can also be an animal, object, or abstraction in a story. Objects are often represented through anthropomorphism, where human attributes are applied to a non-human.
 
-Characterization types in fiction:
+**Examples of objects as character:**
+
+- Animated Race Car: [Cars (2006)](http://www.imdb.com/title/tt0317219/)
+- Homicidal car tire: [Rubber (2010)](http://www.imdb.com/title/tt1612774/)
+
+
+**Characterization types in fiction:**
 
 1. Main character
 2. Supporting character
