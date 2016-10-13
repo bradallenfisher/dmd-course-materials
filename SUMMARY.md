@@ -131,7 +131,6 @@
                * [Open Source Gift](practice/open_source_gift.md)
 * Topics
    * Principles
-       * [Social Theory](topics/social_theory.md)
    * Methods
        * Research
        * [Statement writing](topics/statement_writing.md)
