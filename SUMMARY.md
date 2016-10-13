@@ -16,10 +16,6 @@
        * Activities
            * [Future Living](practice/future_living.md)
            * [Dwelling Design](practice/dwelling_design.md)
-       * Read and Discuss
-           * Chapter 4. Design as Tragedy: The Rise and Fall of the Twin Towers
-           * [Chapter 5. Edsel's Law: How Bad Design Happens](practice/edsels_law_how_bad_design_happens.md)
-           * [Chapter 6. Designs of Darkness](practice/bad_design.md)
 * Units
    * [Unit 01](toolkit/lessons.md)
        * Unit 01 Description
@@ -52,6 +48,10 @@
                * Elements of Visual Design
                * Principles of Visual Design
            * [Visual Design Case Study](topics/visual_design_case_study.md)
+           * Read and Discuss
+               * Chapter 4. Design as Tragedy: The Rise and Fall of the Twin Towers
+               * [Chapter 5. Edsel's Law: How Bad Design Happens](practice/edsels_law_how_bad_design_happens.md)
+               * [Chapter 6. Designs of Darkness](practice/bad_design.md)
            * Read and discuss
            * Activities
                * [Make a Brand](practice/make_a_brand.md)
