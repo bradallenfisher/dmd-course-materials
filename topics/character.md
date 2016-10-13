@@ -11,15 +11,19 @@ In fictional film or literature, character types are used to enable viewers to e
 **Characterization types in fiction:**
 
 1. Main character
-2. Supporting character
+  - The story typically follows this character most closely. They 
+2. Protagonist character
+3. Antagonist character
+3. Supporting character
 3. Dynamic character
+  - This character shows change over time
 4. Static character
+  - This character does not show much or any change by the end of the story
+  - Anti-hero character
 5. Round character
 6. Flat character
 7. Stock character
-8. Protagonist character
-9. Antagonist character
-10. Anti-hero character
+
 11. Foil character
 12. Symbolic character
 
