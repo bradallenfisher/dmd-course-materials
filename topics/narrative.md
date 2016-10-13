@@ -13,15 +13,6 @@ Story can be integral to the design process and is often times the intended prod
 
 Why are you telling this story? What does it mean to be a story teller from a designer's perspective?
 
----
-
-**Case study:** How can you tell a story to a human ten thousand years into the future with current language? This, as it turns out, is quite difficult.
-
-Listen: [99% Invisible Podcast - Ten Thousand Years](http://99percentinvisible.org/episode/ten-thousand-years/) 
-(**Tags:** language, semiotics, graphic design, storytelling)
-
----
-
 ## Narrative structure
 A narrative structure orders or disorders the content of a story for the audience. Hollywood film financiers tend to favor safe and time-tested structures to better the chances of a profitable return on their investment. The perception is that experimental or less used narrative structures tend to be risky investments. The same can be said for large game developers who are prone to sequels of high selling titles.
 
