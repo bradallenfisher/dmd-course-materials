@@ -8,22 +8,26 @@ In fictional film or literature, character types are used to enable viewers to e
 - Homicidal car tire: [Rubber (2010)](http://www.imdb.com/title/tt1612774/)
 
 
-**Characterization types in fiction:**
+**Characterization types in fiction**
+
+Characters are often a combination of these types.
 
 1. Main character
-  - The story typically follows this character most closely. They are needed to resolve
+  - The story typically follows this character most closely. They are needed to resolve the conflict.
 2. Supporting character
+  - These characters help us understand the main character, advance the story
 3. Protagonist character
 4. Antagonist character
 5. Dynamic character
-  - This character shows change over time
+  - Shows development and change over time
 6. Static character
-  - This character does not show much or any change by the end of the story
-  - Anti-hero character
-7. Round character
-8. Flat character
-9. Stock character
-10. Foil character
-11. Symbolic character
+  - Does not develop or change over time
+7. Anti-hero character
+8. Round character
+9. Flat character
+10. Stock character
+11. Foil character
+  - Typically contrasts the main character in qualities and values so that we may learn more about the main character.
+12. Symbolic character
 
 
