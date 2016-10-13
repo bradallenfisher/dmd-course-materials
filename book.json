@@ -1,8 +1,7 @@
 {
     "plugins": [
         "oerschema",
-        "youtube",
-        "video"
+        "youtube"
     ],
     "pluginsConfig": {}
 }
