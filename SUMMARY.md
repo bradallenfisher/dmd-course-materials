@@ -47,6 +47,7 @@
                * [Daily Design Journal](practice/daily_design_journal.md)
        * Lesson 2: Visual Design
            * Topics
+               * Color
                * Brand
                * h
            * [Visual Design Case Study](topics/visual_design_case_study.md)
@@ -130,7 +131,6 @@
                * [Open Source Gift](practice/open_source_gift.md)
 * Topics
    * Principles
-       * Color
        * [Social Theory](topics/social_theory.md)
    * Methods
        * Research
