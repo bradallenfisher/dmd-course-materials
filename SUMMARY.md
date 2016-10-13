@@ -49,8 +49,8 @@
            * Topics
            * [Visual Design Case Study](topics/visual_design_case_study.md)
            * Read and discuss
+           * [Make a Brand](practice/make_a_brand.md)
            * Activities
-   * [Make a Brand](practice/make_a_brand.md)
    * Unit 02
        * Unit 02 Project
            * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
@@ -112,7 +112,6 @@
                * [Chapter 13. Corporate Redesign and the Business of Knowledge](practice/corporate_redesign_and_the_business_of_knowledge.md)
                * [Chapter 14. Designing Time](practice/designing_time.md)
            * Activities
-               * [Make a Brand](practice/make_a_brand.md)
                * Co-generative Design Activity
                * Design your Day
        * [Lesson 7: Open Design](lessons/open_design.md)
