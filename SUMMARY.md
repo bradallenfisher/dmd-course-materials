@@ -44,7 +44,7 @@
                * [Daily Design Journal](practice/daily_design_journal.md)
        * Lesson 2: Visual Design
            * Topics
-           * Visual Design Case Study
+           * [Visual Design Case Study](topics/visual_design_case_study.md)
            * Read and discuss
            * Activities
    * Unit 02
