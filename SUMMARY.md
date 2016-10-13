@@ -7,6 +7,7 @@
    * [References](introduction/references.md)
    * [Recommended Tools](introduction/recommended_tools.md)
 * unused
+   * [Tell me a story](practice/tell_me_a_story.md)
    * [Interactive Story Project](projects/interactive_story_project.md)
    * [Lesson 2: Discursive Design](lessons/discursive_design.md)
        * Topics
@@ -81,7 +82,6 @@
            * Activities
                * [Non-linear Narrative](practice/non-linear_narrative.md)
                * [Linear Narrative](practice/linear_narrative.md)
-               * [Tell me a story](practice/tell_me_a_story.md)
                * [Story Breakdown](practice/story_breakdown.md)
            * Introduction
    * Unit 03
