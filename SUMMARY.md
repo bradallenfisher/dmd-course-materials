@@ -30,7 +30,7 @@
                * [Chapter 3.What Design and Truth Say about Each Other](practice/what_design_and_truth_say_about_each_other.md)
            * Activities
                * [Visual Manual](practice/visual_manual.md)
-               * Daily Design Journal
+               * [Daily Design Journal](practice/daily_design_journal.md)
        * [Lesson 2: Discursive Design](lessons/discursive_design.md)
            * Topics
                * [Discursive design](topics/discursive_design.md)
