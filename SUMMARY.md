@@ -42,20 +42,10 @@
            * Activities
                * [Visual Manual](practice/visual_manual.md)
                * [Daily Design Journal](practice/daily_design_journal.md)
-       * [Lesson 2: Discursive Design](lessons/discursive_design.md)
-           * Topics
-               * [Discursive design](topics/discursive_design.md)
-           * Discursive Design Case Study
-           * Activities
-               * [Future Living](practice/future_living.md)
-               * [Dwelling Design](practice/dwelling_design.md)
-           * Read and Discuss
-               * Chapter 4. Design as Tragedy: The Rise and Fall of the Twin Towers
-               * [Chapter 5. Edsel's Law: How Bad Design Happens](practice/edsels_law_how_bad_design_happens.md)
-               * [Chapter 6. Designs of Darkness](practice/bad_design.md)
        * Lesson 2: Visual Design
            * Read and discuss
            * Activities
+           * Visual Design Case Study
    * Unit 02
        * Unit 02 Project
            * [Interactive Story Project](projects/interactive_story_project.md)
