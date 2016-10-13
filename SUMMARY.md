@@ -18,7 +18,6 @@
            * Chapter 4. Design as Tragedy: The Rise and Fall of the Twin Towers
            * [Chapter 5. Edsel's Law: How Bad Design Happens](practice/edsels_law_how_bad_design_happens.md)
            * [Chapter 6. Designs of Darkness](practice/bad_design.md)
-   * f
 * Units
    * [Unit 01](toolkit/lessons.md)
        * Unit 01 Description
