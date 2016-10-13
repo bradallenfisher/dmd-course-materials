@@ -46,6 +46,7 @@
            * Read and discuss
            * Activities
            * Visual Design Case Study
+           * Topics
    * Unit 02
        * Unit 02 Project
            * [Interactive Story Project](projects/interactive_story_project.md)
