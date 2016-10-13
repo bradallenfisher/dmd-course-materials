@@ -1,10 +1,14 @@
 # Narrative
-Story can be both integral to the design process and the intended product. Story is always built into a visual or physical object. Some major considerations for the storytelling include:
+Story can be both integral to the design process and the intended product. Story is always built into a visual or physical object.
 
-1. Purpose
-2. Narrative structure
-3. Content
-4. Delivery Media
+Major considerations for the storytelling include:
+
+1. Narrative structure
+  - How is the story revealed? 
+2. Content
+  - What is the story about
+3. Delivery Media
+  -  
 
 ## Purpose
 >Design adds story to everyday life...
