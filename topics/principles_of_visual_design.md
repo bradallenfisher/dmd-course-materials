@@ -1,13 +1,13 @@
 # Principles of Visual Design
 
-Unity/Harmony
+## Unity/Harmony
 
-Balance
+## Balance
 
-Hierarchy
+## Hierarchy
 
-Scale
+## Scale
 
-Dominance/emphasis
+## Dominance/emphasis
 
-Similarity and Contrast
+## Similarity and Contrast
