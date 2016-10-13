@@ -16,8 +16,8 @@ In this activity, you will document a least one object each day for two weeks.
 
 **Instructions**
 
-1. Document, pin, or post one object that you come into contact with each day for two weeks. 
-2. Respond to questions in the corresponding discussion thread on Canvas.
+- Document, pin, or post one object that you come into contact with each day for two weeks. 
+- Respond to questions in the corresponding discussion thread on Canvas.
 
 **Questions:**
 
