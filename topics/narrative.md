@@ -8,7 +8,7 @@ Major considerations for the storytelling include:
 2. Content
   - What is the story about
 3. Delivery Media
-  -  
+  -  How will you tell your story so that people can understand and experience it?
 
 ## Purpose
 >Design adds story to everyday life...
