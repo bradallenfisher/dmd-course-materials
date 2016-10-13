@@ -44,6 +44,7 @@
                * [Chapter 6. Designs of Darkness](practice/bad_design.md)
        * Lesson 2: Visual Design
            * Read and discuss
+           * Activities
    * Unit 02
        * Unit 02 Project
            * [Interactive Story Project](projects/interactive_story_project.md)
