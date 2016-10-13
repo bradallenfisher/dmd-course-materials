@@ -51,6 +51,7 @@
            * Read and discuss
            * [Make a Brand](practice/make_a_brand.md)
            * Activities
+               * j
    * Unit 02
        * Unit 02 Project
            * [Hypertext Narrative Project](projects/hypertext_narrative_project.md)
