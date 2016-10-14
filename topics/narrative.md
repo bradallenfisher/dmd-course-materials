@@ -32,27 +32,6 @@ https://vimeo.com/150176538 [poor sound quality]
 ## History of Storytelling
 [https://openlibrary.org/books/OL7024013M/A_history_of_story-telling]( https://openlibrary.org/books/OL7024013M/A_history_of_story-telling)
 
-### Aristotle
-
-Aristotle's framework is comprised of 7 parts 
-
-1. Plot
-2. Character
-3. Theme
-4. Diction
-5. Melody
-6. Decor
-7. Spectacle
-
-### Freytag's Analysis
-
-Gustav Freytag (1816 - 1895), a German dramatist and novelist, developed the structure for the way stories are told in ancient Greek and Shakespearean drama. This analysis is known as Freytag's analysis. His analysis consisted of dividing a play into the following parts:
-
-1. exposition
-2. rising action
-3. climax
-4. falling action
-5. dénouement
 
 
 ## For your bookshelf
