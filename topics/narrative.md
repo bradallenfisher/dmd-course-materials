@@ -10,7 +10,7 @@ In the talk, [The storytelling animal: Jonathan Gottschall at TEDxFurmanU](https
 >*-Ellen Lupton, Design Fictions, https://vimeo.com/90492776*
 
 
-### Story Media
+### Contexts of story
 
 **Design thinking** sessions are team-based work sessions where problems are identified and quick prototypes are generated. Story can help team members empathize with the audience to create a better product or service and recognize new ways of approaching solutions.
 
