@@ -1,19 +1,10 @@
 # Narrative
 
+
+## Why stories?
 In the talk, [The storytelling animal: Jonathan Gottschall at TEDxFurmanU](https://www.youtube.com/watch?v=Vhd0XdedLpY), Jonathan Gottshcall tells about the pervasive role stories play in the human experience.
 
 
-
-Major considerations for the storytelling include:
-
-1. Narrative structure
-  - How is the story revealed? 
-2. Content
-  - What is the story about
-3. Delivery Media
-  -  How will you tell your story so that people can understand and experience it?
-
-## Purpose
 >Design adds story to everyday life...
 >
 >*-Ellen Lupton, Design Fictions, https://vimeo.com/90492776*
@@ -24,6 +15,15 @@ What does it mean to be a story teller from a designer's perspective? Perhaps on
 A narrative structure orders or disorders the content of a story for the audience. Hollywood film financiers tend to favor safe and time-tested structures to better the chances of a profitable return on their investment. The perception is that experimental or less used narrative structures tend to be risky investments. The same can be said for large game developers who are prone to sequels of high selling titles.
 
 This can explain why many exciting and niche stories tend to come from independent authors and screenwriters, indie game developers, indie filmmakers, and so on.
+
+Major considerations for the storytelling include:
+
+1. Narrative structure
+  - How is the story revealed? 
+2. Content
+  - What is the story about
+3. Delivery Media
+  -  How will you tell your story so that people can understand and experience it?
 
 ### Linear Narrative:
 Almost all Hollywood films, Shakespearean plays, and Greek and Roman Mythologies fall into this category.
