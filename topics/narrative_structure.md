@@ -6,7 +6,7 @@ Hollywood films tend to have structures that traditionally sell well in the box 
 This can explain why many of the boundary-pushing films tend to come from independent authors and screenwriters, indie game developers, indie filmmakers, and so on.
 
 
-### Freytag's Analysis
+## Freytag's Analysis
 
 Gustav Freytag (1816 - 1895), a German dramatist and novelist, developed the structure for the way stories are told in ancient Greek and Shakespearean drama. This analysis is known as Freytag's analysis, dramatic structure, or Freytag's Pyramid. His analysis consisted of dividing a play into the following parts:
 
@@ -17,21 +17,21 @@ Gustav Freytag (1816 - 1895), a German dramatist and novelist, developed the str
 5. dénouement/resolution
 
 
-### Linear Narrative:
+## Linear Narrative
 Almost all Hollywood films, Shakespearean plays, and Greek and Roman Mythologies fall into this category.
 
 - Three Act Structure
 - Five Act Structure
 - Journey
 
-#### Three Act Plot Diagram
+### Three Act Plot Diagram
 
 ![](plot_diagram_reverse2.png)
 
-### Non-linear Narrative:
+## Non-linear Narrative:
 A non-linear structure is not necessarily chronological or cause and effect based. Story is unfolded simultaneously and recursively.
 
-### Interactive Narrative
+## Interactive Narrative
 The storyline in an interactive narrative work is not predetermined. The story is constructed based on a viewer's choices real-time, and relies on sophisticated AI software to construct the environment around these choices.
 
 Example: [No Mans's Sky](http://www.no-mans-sky.com/about/)
