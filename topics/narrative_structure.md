@@ -5,14 +5,6 @@ Hollywood films tend to have structures that traditionally sell well in the box 
 
 This can explain why many of the boundary-pushing films tend to come from independent authors and screenwriters, indie game developers, indie filmmakers, and so on.
 
-Major considerations for the storytelling include:
-
-1. Narrative structure
-  - How is the story revealed? 
-2. Content
-  - What is the story about
-3. Delivery Media
-  -  How will you tell your story so that people can understand and experience it?
 
 ### Freytag's Analysis
 
