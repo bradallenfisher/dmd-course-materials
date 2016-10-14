@@ -9,6 +9,7 @@
 * unused
    * [Tell me a story](practice/tell_me_a_story.md)
    * [Non-linear Narrative](practice/non-linear_narrative.md)
+   * [Linear Narrative](practice/linear_narrative.md)
    * [Interactive Story Project](projects/interactive_story_project.md)
    * [Narrative Project: Self Design Option](projects/narrative_project_self_design_option.md)
    * [Lesson 2: Discursive Design](lessons/discursive_design.md)
@@ -87,7 +88,6 @@
                * [Chapter 9. The Lady in the Picture: Design and Revelation in Renaissance Art](practice/the_lady_in_the_picture_design_and_revelation_in_r.md)
                * [Chapter 10. In Jefferson's Footsteps: Modes of Self-Design](practice/in_jeffersons_footsteps_modes_of_self-design.md)
            * Activities
-               * [Linear Narrative](practice/linear_narrative.md)
                * [Story breakdown](practice/story_breakdown.md)
                * [Object story](practice/object_story.md)
    * Unit 03
