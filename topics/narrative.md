@@ -7,11 +7,6 @@ In the talk, [The storytelling animal: Jonathan Gottschall at TEDxFurmanU](https
 >
 >*-Ellen Lupton, Design Fictions, https://vimeo.com/90492776*
 
-What does it mean to be a story teller from a designer's perspective? Perhaps one of the greatest signs of a bad designer is one that introduces stories into the world arbitrarily.
-
-
-
-## Content
 A story typically contains the following components:
 
 1. Plot
@@ -26,24 +21,22 @@ Story authors tend to design their own custom plot devices for storytelling, whi
 
 **Design thinking** sessions are team-based work sessions where problems are identified and quick prototypes are generated. Story can help team members empathize with the audience to create a better product or service and recognize new ways of approaching solutions.
 
-**Films, novels, drawings and paintings, comic books, and games** are products that tell a story to highlight a moral or ethical quandary, contribute to discourse on a popular or marginalized subject, or function a teaching tool. 
+**Films, novels, drawings and paintings, comic books, and games** are products that tell a story to highlight a moral or ethical quandary, contribute to discourse on a popular or marginalized subject, function a teaching tool, entertain, illuminate, or . 
 
-** Podcasts**
-https://vimeo.com/150176538
+** Podcasts** often combine journalism techniques and sound editing to disseminate knowledge or entertainment. 
+https://vimeo.com/150176538 [poor sound quality]
 
-**Consumer products** use visual and sculptural elements to communicate how to operate or interact with it to make an object intuitive.
+**Industrial design** use visual and sculptural elements to communicate what a product does and how it's used.
 
-**Architecture** uses form and dimension of space and structure to tell the story of how people should use space by directing foot traffic flow, creating places for rest or work, navigating, etc.
+**Architecture** uses form and dimension of space and structure to tell the story of how people should use space, creating places for rest or work and all other aspects of sheltered human interaction.
 
-**Wayfinding** ...
+**Wayfinding** is tells the story of how to find your way in an unfamiliar place, often delivered through signs, markers, lights, color, and other architectural features.
 
-**Graphic design** ...
+**Graphic design** uses visual design elements to communicate complex ideas
 
 **Music** ...
 
 **Performance** ...
-
-**Transmedia** ...
 
 ## History of Storytelling
 [https://openlibrary.org/books/OL7024013M/A_history_of_story-telling]( https://openlibrary.org/books/OL7024013M/A_history_of_story-telling)
