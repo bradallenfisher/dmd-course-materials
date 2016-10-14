@@ -50,9 +50,7 @@ Almost all Hollywood films, Shakespearean plays, and Greek and Roman Mythologies
 ### Non-linear Narrative:
 A non-linear structure is not necessarily chronological or cause and effect based. Story is unfolded simultaneously and recursively.
 
-### Interactive Narration:
-
-### Interactive Narrative: (check source)
-Infinite possibilities based on viewer's choices and preferences.
+### Interactive Narrative
+The storyline in an interactive narrative work is not predetermined. The story is constructed based on a viewer's choices real-time, and relies on sophisticated AI software to construct the environment around these choices.
 
 Example: [No Mans's Sky](http://www.no-mans-sky.com/about/)
