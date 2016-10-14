@@ -1,7 +1,7 @@
 #Narrative
 
 ## Why stories?
-In the talk, [The storytelling animal: Jonathan Gottschall at TEDxFurmanU](https://www.youtube.com/watch?v=Vhd0XdedLpY), Jonathan Gottshcall tells about the pervasive role stories play in the human experience. Storytelling is how humans organize reality. As a designer, you are organizing reality for the people around you. It's hard to get right and the consequences can be catastrophic.
+In the talk, [The storytelling animal: Jonathan Gottschall at TEDxFurmanU](https://www.youtube.com/watch?v=Vhd0XdedLpY), Jonathan Gottshcall tells about the pervasive role stories play in the human experience. Storytelling is how humans organize reality. As a designer, you are organizing reality for the people around you.
 
 ## Story and Design
 
