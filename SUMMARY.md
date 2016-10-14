@@ -79,7 +79,7 @@
            * Topics
                * [Character](topics/character.md)
                * [Hypertext](topics/hypertext.md)
-               * [Narrative](topics/narrative.md)
+               * [Why stories?](topics/narrative.md)
                * [Narrative structure](topics/narrative_structure.md)
            * Narrative Case Study
            * Read and Discuss
