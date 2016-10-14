@@ -8,6 +8,7 @@
    * [Recommended Tools](introduction/recommended_tools.md)
 * unused
    * [Tell me a story](practice/tell_me_a_story.md)
+   * [Object story](practice/object_story.md)
    * [Non-linear Narrative](practice/non-linear_narrative.md)
    * [Linear Narrative](practice/linear_narrative.md)
    * [Interactive Story Project](projects/interactive_story_project.md)
@@ -88,7 +89,6 @@
                * [Chapter 9. The Lady in the Picture: Design and Revelation in Renaissance Art](practice/the_lady_in_the_picture_design_and_revelation_in_r.md)
                * [Chapter 10. In Jefferson's Footsteps: Modes of Self-Design](practice/in_jeffersons_footsteps_modes_of_self-design.md)
            * Activities
-               * [Object story](practice/object_story.md)
                * [Story breakdown](practice/story_breakdown.md)
    * Unit 03
        * Unit 03 Project
