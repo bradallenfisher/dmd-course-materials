@@ -24,17 +24,6 @@ Gustav Freytag (1816 - 1895), a German dramatist and novelist, developed the str
 4. falling action
 5. dénouement/resolution
 
-### Aristotle
-
-Aristotle's framework is comprised of 7 parts 
-
-1. Plot
-2. Character
-3. Theme
-4. Diction
-5. Melody
-6. Decor
-7. Spectacle
 
 ### Linear Narrative:
 Almost all Hollywood films, Shakespearean plays, and Greek and Roman Mythologies fall into this category.
