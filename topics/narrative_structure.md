@@ -3,7 +3,7 @@ A narrative structure orders or disorders the content of a story for the audienc
 
 Hollywood films tend to have structures that traditionally sell well in the box office, increasing the probability that they will see a return on the production investment. The perception is that experimental or uncommon narrative structures tend to be risky. The same can be said for large game developers who are prone to sequels of high selling titles.
 
-This can explain why many of the boundary-pushing films tend to come from independent authors and screenwriters, indie game developers, indie filmmakers, and so on.
+This can explain why many of the boundary-pushing films tend to come from independent authors and screenwriters, indie game developers, indie filmmakers, and so on. Their budgets are lower, and they are not looking at film as a financial investment.
 
 Major considerations for the storytelling include:
 
