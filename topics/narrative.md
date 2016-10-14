@@ -34,7 +34,7 @@ https://vimeo.com/150176538 [poor sound quality]
 
 
 
-## For your bookshelf
+## Bookshelf
 [Digital Storytelling: A Creator's Guide to Interactive Entertainment. Carolyn Handler Miller. 2014. ISBN-10: 0415836948](http://www.amazon.com/Digital-Storytelling-creators-interactive-entertainment/dp/0415836948)
 
 
