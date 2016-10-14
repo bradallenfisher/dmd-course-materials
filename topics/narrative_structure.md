@@ -16,7 +16,7 @@ Gustav Freytag (1816 - 1895), a German dramatist and novelist, developed the str
 4. falling action
 5. dénouement/resolution
 
-This structure was more accurate when applied to Greek and Shakespearean plays, whereas contemporary narrative structures have much greater contrast in rising and falling action.
+This structure was more fitting with Greek and Shakespearean plays, whereas contemporary narrative structures have much greater contrast in rising and falling action.
 
 ## Linear Narrative
 Almost all Hollywood films, Shakespearean plays, and Greek and Roman Mythologies fall into this category.
