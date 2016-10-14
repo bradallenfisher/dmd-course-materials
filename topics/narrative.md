@@ -9,15 +9,6 @@ In the talk, [The storytelling animal: Jonathan Gottschall at TEDxFurmanU](https
 >
 >*-Ellen Lupton, Design Fictions, https://vimeo.com/90492776*
 
-A story typically contains the following components:
-
-1. Plot
-2. Characters
-3. Setting
-4. Theme
-5. Conflict
-
-Story authors tend to design their own custom plot devices for storytelling, which helps establish a style. 
 
 ### Story Media
 
