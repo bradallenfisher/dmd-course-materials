@@ -89,6 +89,7 @@
                * [Non-linear Narrative](practice/non-linear_narrative.md)
                * [Linear Narrative](practice/linear_narrative.md)
                * [Story breakdown](practice/story_breakdown.md)
+               * Object story
    * Unit 03
        * Unit 03 Project
            * [Toolkit Design Project](projects/toolkit_design_project.md)
