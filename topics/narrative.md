@@ -28,17 +28,13 @@ https://vimeo.com/150176538 [poor sound quality]
 
 **Graphic design** uses visual design elements to communicate simple ideas like how to use a voting ballot to abstract ideas like a company's identity. 
 
-
-## History of Storytelling
-[https://openlibrary.org/books/OL7024013M/A_history_of_story-telling]( https://openlibrary.org/books/OL7024013M/A_history_of_story-telling)
-
-
-
 ## Bookshelf
 [Digital Storytelling: A Creator's Guide to Interactive Entertainment. Carolyn Handler Miller. 2014. ISBN-10: 0415836948](http://www.amazon.com/Digital-Storytelling-creators-interactive-entertainment/dp/0415836948)
 
+[A History of Story-telling]( https://openlibrary.org/books/OL7024013M/A_history_of_story-telling)
 
-## Citations:
+
+## Citations
 - http://www.storyboardthat.com/articles/education/english/narrative-structures
 - https://www.smashingmagazine.com/2010/01/better-user-experience-using-storytelling-part-one/
 - http://www.kickerstudio.com/2008/12/the-disciplines-of-user-experience/
