@@ -88,7 +88,7 @@
            * Activities
                * [Non-linear Narrative](practice/non-linear_narrative.md)
                * [Linear Narrative](practice/linear_narrative.md)
-               * [Story Breakdown](practice/story_breakdown.md)
+               * [Story Mapping](practice/story_breakdown.md)
    * Unit 03
        * Unit 03 Project
            * [Toolkit Design Project](projects/toolkit_design_project.md)
