@@ -84,6 +84,7 @@
                * [Hypertext](topics/hypertext.md)
                * [Narrative](topics/narrative.md)
                * [Narrative structure](topics/narrative_structure.md)
+               * Genre
            * [Narrative Case Study](lessons/narrative/narrative_case_study.md)
            * Read and Discuss
                * [Chapter 9. The Lady in the Picture: Design and Revelation in Renaissance Art](practice/the_lady_in_the_picture_design_and_revelation_in_r.md)
