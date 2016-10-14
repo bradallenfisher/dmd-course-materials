@@ -1,5 +1,5 @@
 # Why stories?
-In the talk, [The storytelling animal: Jonathan Gottschall at TEDxFurmanU](https://www.youtube.com/watch?v=Vhd0XdedLpY), Jonathan Gottshcall tells about the pervasive role stories play in the human experience.
+In the talk, [The storytelling animal: Jonathan Gottschall at TEDxFurmanU](https://www.youtube.com/watch?v=Vhd0XdedLpY), Jonathan Gottshcall tells about the pervasive role stories play in the human experience. Storytelling is how humans organize reality.
 
 ## Story and Design
 
@@ -40,7 +40,16 @@ https://vimeo.com/150176538 [poor sound quality]
 [https://openlibrary.org/books/OL7024013M/A_history_of_story-telling]( https://openlibrary.org/books/OL7024013M/A_history_of_story-telling)
 
 ### Aristotle
-...
+
+Aristotle's framework is comprised of 7 parts 
+
+1. Plot
+2. Character
+3. Theme
+4. Diction
+5. Melody
+6. Decor
+7. Spectacle
 
 ### Freytag's Analysis
 
@@ -51,11 +60,6 @@ Gustav Freytag (1816 - 1895), a German dramatist and novelist, developed the str
 3. climax
 4. falling action
 5. dénouement
-
-#### Syd Field's Paradigm
-...
-
-#### Frank Daniel's Sequence
 
 
 ## For your bookshelf
