@@ -23,7 +23,8 @@ Story authors tend to design their own custom plot devices for storytelling, whi
 
 **Films, novels, drawings and paintings, comic books, and games** are products that tell a story to highlight a moral or ethical quandary, contribute to discourse on a popular or marginalized subject, function a teaching tool, entertain, illuminate, or . 
 
-** Podcasts** often combine journalism techniques and sound editing to disseminate knowledge or entertainment. 
+** Podcasts** often combine journalism techniques and creative sound editing to disseminate knowledge and promote empathy.
+
 https://vimeo.com/150176538 [poor sound quality]
 
 **Industrial design** use visual and sculptural elements to communicate what a product does and how it's used.
