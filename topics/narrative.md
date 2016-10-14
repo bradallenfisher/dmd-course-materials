@@ -17,7 +17,7 @@ A story typically contains the following components:
 
 Story authors tend to design their own custom plot devices for storytelling, which helps establish a style. 
 
-### Delivery Media
+### Story Media
 
 **Design thinking** sessions are team-based work sessions where problems are identified and quick prototypes are generated. Story can help team members empathize with the audience to create a better product or service and recognize new ways of approaching solutions.
 
@@ -33,11 +33,8 @@ https://vimeo.com/150176538 [poor sound quality]
 
 **Wayfinding** is tells the story of how to find your way in an unfamiliar place, often delivered through signs, markers, lights, color, and other architectural features.
 
-**Graphic design** uses visual design elements to communicate complex ideas
+**Graphic design** uses visual design elements to communicate simple ideas like how to use a voting ballot to abstract ideas like a company's identity. 
 
-**Music** ...
-
-**Performance** ...
 
 ## History of Storytelling
 [https://openlibrary.org/books/OL7024013M/A_history_of_story-telling]( https://openlibrary.org/books/OL7024013M/A_history_of_story-telling)
@@ -65,10 +62,7 @@ Gustav Freytag (1816 - 1895), a German dramatist and novelist, developed the str
 [Digital Storytelling: A Creator's Guide to Interactive Entertainment. Carolyn Handler Miller. 2014. ISBN-10: 0415836948](http://www.amazon.com/Digital-Storytelling-creators-interactive-entertainment/dp/0415836948)
 
 
----
-
-
-## Attribution Links:
+## Citations:
 - http://www.storyboardthat.com/articles/education/english/narrative-structures
 - https://www.smashingmagazine.com/2010/01/better-user-experience-using-storytelling-part-one/
 - http://www.kickerstudio.com/2008/12/the-disciplines-of-user-experience/
