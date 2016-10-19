@@ -29,6 +29,7 @@
        * Unit 01 Project
            * [Ritual](projects/ritual.md)
            * Tutorials
+               * Paper Prototyping a Mobile App
        * [Lesson 1: What is Design?](lessons/introduction.md)
            * Topics
                * [What is Design?](topics/what_is_design.md)
