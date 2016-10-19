@@ -34,19 +34,19 @@ In this project, you will go through a design thinking process that inspires a h
 1. Choose one of the category responses. Write the response as a short sentence, **"In 2045 years, "** . An example sentence would be *In 2045, the world will restore all of the world's endangered wildlife species to healthy populations.*
 2. Define your **audience**. Who would need to see this story in order for it to become a reality?
 
-### Develop (Week 1)
+### Develop
 
 1. You will now use Twine to create a fictional, yet ***plausible*** narrative that describes how this imagined future you have described came to be. For example, shape-shifting lizard people are not plausible, but technology developed to enable a person to change their appearance at will is plausible. Develop and include the following in your story.
   -  Characters
   -  Conflict
   -  Resolution
 
-### Deliver (Week 1)
+### Deliver
 
 1. Post the web link of your Twine narrative to the Studio Project feed for the class to review.
 2. Download the Twine file and submit to the Studio Project Dropbox. Post the URL to the Studio page for your classmates to review.
 
-### Discuss (Week 2)
+### Discuss
 
 1. Now that you've produced a hypertext story, it's time to leave feedback for your classmates. Review three of your classmates' work and write a response that includes the following: 
   - What did you notice?
