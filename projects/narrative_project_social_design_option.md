@@ -11,7 +11,7 @@ In this project, you will go through a design thinking process that inspires a h
 
 ## Process
 
-### Discover (Week 1)
+### Discover
   1. Choose three categories that seem the most interesting from the following list:
     - education
     - economy
@@ -29,7 +29,7 @@ In this project, you will go through a design thinking process that inspires a h
     - labor
   2. Now that you have selected three categories, write them across the top of a sheet of paper to form three columns. Imagine an ideal or positive situation for that category for the year 2045. Respond to each category with a short one-sentence description of this scenario. Try to have an inspiration source for your ideas, though you do not need to mention it (IE - Flying cars as shown in the film, Blade Runner might inspire my idea that in the future, ). Write at least one response per category, but feel free to write down as many as you like. Limit yourself to 10 minutes. **Take a photo of your process and post it to the Studio Project feed**
 
-### Define (Week 1)
+### Define
 
 1. Choose one of the category responses. Write the response as a short sentence, **"In 2045 years, "** . An example sentence would be *In 2045, the world will restore all of the world's endangered wildlife species to healthy populations.*
 2. Define your **audience**. Who would need to see this story in order for it to become a reality?
