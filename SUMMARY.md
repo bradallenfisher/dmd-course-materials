@@ -47,7 +47,7 @@
                * [Daily Design Journal](practice/daily_design_journal.md)
        * Lesson 2: Visual Design
            * Topics
-               * Brand
+               * Identity
                * [Elements of Visual Design](topics/elements_of_visual_design.md)
                * [Principles of Visual Design](topics/principles_of_visual_design.md)
                * Semiotics
