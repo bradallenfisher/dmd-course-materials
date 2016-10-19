@@ -1,7 +1,7 @@
 # Ritual
 For this project, you will create a ritual that can help you or another person modify or improve some aspect of daily life.
 
-In this project, you will create an
+In this project, you will prototype an app interface that solves a simple problem.
 
 # Project Plan	
 
