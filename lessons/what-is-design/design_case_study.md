@@ -4,6 +4,8 @@ In this case study, we'll explore how the people worked together to design massi
 
 This is a great example of large scale outcomes from designers not using systems thinking when creating products. 
 
+## How did it happen?
+
 Chain of events, by stakeholder.
 
 Business and economics: **Product Design**
@@ -26,7 +28,8 @@ Government: **Policy Design**
 - Corporate lobbying prevents ecological policies from hindering sales of
 - Recycling initiatives are not timely and universally effective
 
-
 Ecological systems:
 
-- Animals eat the waste allowing plastic waste to both enter the food chain and harm wildlife.
+- Animals eat the waste allowing plastic waste to both enter the food chain 
+- Wildlife are harmed by ingesting or becoming trapped by waste
+- Climate systems cause garbage to wash onto coastlines and to form giant masses in the Pacific Ocean.
