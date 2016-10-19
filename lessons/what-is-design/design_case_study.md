@@ -1,8 +1,8 @@
 # Design Case Study
 
-How the US helped design giant patches of floating plastic garbage: [Garbage Patch Design](http://response.restoration.noaa.gov/about/media/how-big-great-pacific-garbage-patch-science-vs-myth.html)
+In this case study, we'll explore how the people worked together to design massive patches of garbage now floating in the Pacific Ocean: [Garbage Patch Design](http://response.restoration.noaa.gov/about/media/how-big-great-pacific-garbage-patch-science-vs-myth.html)
 
-Let's consider one of the most obvious and large impact outcomes of designers not using systems thinking when creating products. 
+This is a great example of large scale outcomes from designers not using systems thinking when creating products. 
 
 Chain of events, by stakeholder.
 
