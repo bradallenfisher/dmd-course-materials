@@ -53,6 +53,7 @@ In this project, you will go through a design thinking process that inspires a h
   - Where elements of dramatic plot evident?
   - Was the story about a positive future? How do you know?
   - What themes emerged in the story?
+  - Who do you think the audience is?
 
 ## Citation
 **Adapted from:** THINK CRITICALLY - ACT CREATIVELY: HARNESSING THE POWER OF FICTION FOR SOCIAL GOOD. Accessed on October 10, 2016. http://byanymedia.org/works/mapp/activity-1?path=activities
