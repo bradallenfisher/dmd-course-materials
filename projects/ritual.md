@@ -4,11 +4,12 @@ For this project, you will create a ritual that can help you or another person m
 In this project, you will prototype an app interface that solves a simple problem.
 
 ## Materials
-Camera
-InVisionApp account
-Paper
-Pens, pencils, markers
-Post-Its
+- Camera
+- InVisionApp account
+- Paper
+- Pens, pencils, markers
+- Post-Its
+
 
 ## Project Plan	
 
