@@ -26,7 +26,7 @@ Drawing for design: Pencil and paper tutorial **[Must produce or find a video fo
 
 Take pictures as documentation
 deliver narrative around images
-Make props for invented items or photoshop collages
+Make props for invented items or Photoshop collages
 (Modify house for instance)
 Good idea: Many ideas/ combined 
 
