@@ -1,6 +1,8 @@
 # Ritual
 For this project, you will create a ritual that can help you or another person modify or improve some aspect of daily life.
 
+In this project, you will create an
+
 # Project Plan	
 
 - Discover
