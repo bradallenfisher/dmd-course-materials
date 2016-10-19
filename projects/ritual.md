@@ -9,7 +9,12 @@ Linked topics: self design
 - InVisionApp account
 - Paper
 - Pens, pencils, markers
+- scissors
+- printer
 - Post-Its
+
+
+
 
 ## Project Plan	
 
