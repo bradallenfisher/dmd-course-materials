@@ -45,6 +45,18 @@
            * Activities
                * [Visual Manual](practice/visual_manual.md)
                * [Daily Design Journal](practice/daily_design_journal.md)
+       * [Lesson 3: UX](lessons/ux.md)
+           * Topics
+               * [Wireframing](topics/wireframing.md)
+               * [Digital Service or Product Project](projects/digital_service_or_product.md)
+               * [Mental model](topics/mental_model.md)
+           * [UX Case Study](topics/ux_case_study.md)
+           * Read and Discuss
+               * [Chapter 7. Face to Face with Design](practice/face_to_face_with_design.md)
+               * [Chapter 8. Giorgio Vasari and the Permutations of Design](practice/giorgio_vasari_and_the_permutations_of_design.md)
+           * Activities
+               * [Design an Interface](practice/design_an_interface.md)
+               * [Drawing a Journey Map](practice/drawing_a_journey_map.md)
        * Lesson 2: Visual Design
            * Topics
                * Brand
@@ -80,18 +92,6 @@
                * [Chapter 10. In Jefferson's Footsteps: Modes of Self-Design](practice/in_jeffersons_footsteps_modes_of_self-design.md)
            * Activities
                * [Object story](practice/object_story.md)
-   * [Lesson 3: UX](lessons/ux.md)
-       * Topics
-           * [Wireframing](topics/wireframing.md)
-           * [Digital Service or Product Project](projects/digital_service_or_product.md)
-           * [Mental model](topics/mental_model.md)
-       * [UX Case Study](topics/ux_case_study.md)
-       * Read and Discuss
-           * [Chapter 7. Face to Face with Design](practice/face_to_face_with_design.md)
-           * [Chapter 8. Giorgio Vasari and the Permutations of Design](practice/giorgio_vasari_and_the_permutations_of_design.md)
-       * Activities
-           * [Design an Interface](practice/design_an_interface.md)
-           * [Drawing a Journey Map](practice/drawing_a_journey_map.md)
    * Unit 03
        * Unit 03 Project
            * [Toolkit Design Project](projects/toolkit_design_project.md)
