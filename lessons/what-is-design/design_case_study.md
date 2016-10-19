@@ -1,5 +1,32 @@
 # Design Case Study
 
-Let's consider the result of design living within a large, complex system.
+How the US helped design giant patches of floating plastic garbage: [Garbage Patch Design](http://response.restoration.noaa.gov/about/media/how-big-great-pacific-garbage-patch-science-vs-myth.html)
 
-Design Problem: [Garbage Patch Design](http://response.restoration.noaa.gov/about/media/how-big-great-pacific-garbage-patch-science-vs-myth.html)
+Let's consider one of the most obvious and large impact outcomes of designers not using systems thinking when creating products. 
+
+Chain of events, by stakeholder.
+
+Business and economics: **Product Design**
+
+- Availability of cheap plastic materials and mass production technology.
+- Business goals and values do not align with minimizing impact to existing ecological system
+
+Public consensus:** marketing design**
+
+- Ad campaigns infiltrate popular culture
+- Wastefulness is normalized
+
+Waste management processes: **Service Design**
+
+- Wastefulness is good for business
+- No real long-term ecological considerations for disposal
+
+Government: **Policy Design**
+
+- Corporate lobbying prevents ecological policies from hindering sales of
+- Recycling initiatives are not timely and universally effective
+
+
+Ecological systems:
+
+- Animals eat the waste allowing plastic waste to both enter the food chain and harm wildlife.
