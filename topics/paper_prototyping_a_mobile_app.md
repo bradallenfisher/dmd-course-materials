@@ -14,3 +14,12 @@
   3. Give the Project a name
   4. Choose the iPhone template
 3.  Add your images to the project
+
+
+##Testing your project
+
+1. If you have a mobile phone, you can...
+
+
+## Demo project
+[Example Ritual Project Prototype](https://projects.invisionapp.com/share/K990OJVE8#/screens/198438028_Screen_Shot_2016-10-19_At_6-16-29_PM)
