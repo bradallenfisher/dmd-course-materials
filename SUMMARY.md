@@ -12,6 +12,7 @@
    * [Non-linear Narrative](practice/non-linear_narrative.md)
    * [Linear Narrative](practice/linear_narrative.md)
    * [Design Fiction Project](projects/design_fiction_project.md)
+   * [Design Intervention](practice/design_intervention.md)
    * [Interactive Story Project](projects/interactive_story_project.md)
    * [Narrative Project: Self Design Option](projects/narrative_project_self_design_option.md)
    * [Lesson 2: Discursive Design](lessons/discursive_design.md)
@@ -26,7 +27,6 @@
        * Unit 01 Description
        * [Icebreaker: Visual Telephone](icebreakers/icebreaker_visual_telephone.md)
        * Unit 01 Project
-           * [Design Intervention](practice/design_intervention.md)
            * [Ritual](projects/ritual.md)
        * [Lesson 1: What is Design?](lessons/introduction.md)
            * Topics
