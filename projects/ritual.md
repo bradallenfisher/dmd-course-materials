@@ -7,13 +7,26 @@ Linked topics: self design
 ## Materials
 - Camera
 - InVisionApp account
-- Paper
+- Graph Paper
 - Pens, pencils, markers
 - scissors
 - printer
 - Post-Its
 
 
+Steps
+
+1. Generate ideas
+2. Choose an idea
+3. refine and define idea as HMW question
+4. Develop features
+5. paper prototype
+  - Print out icons and other assets
+  - Draw/create Wireframes
+5. Take pictures of screens
+6. Upload to InVisionApp
+7. Share prototype
+8. Discuss
 
 
 ## Project Plan	
