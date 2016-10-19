@@ -1,6 +1,9 @@
 # Ritual
 For this project, you will create a ritual that can help you modify or improve some aspect of daily life. By the end of the project, you will have created a prototype mobile app interface.
 
+Linked topics: self design
+
+
 ## Materials
 - Camera
 - InVisionApp account
