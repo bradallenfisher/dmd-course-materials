@@ -28,6 +28,18 @@
        * Unit 01 Project
            * [Design Intervention](practice/design_intervention.md)
            * [Ritual](projects/ritual.md)
+       * [Lesson 3: UX](lessons/ux.md)
+           * Topics
+               * [Wireframing](topics/wireframing.md)
+               * [Digital Service or Product Project](projects/digital_service_or_product.md)
+               * [Mental model](topics/mental_model.md)
+           * [UX Case Study](topics/ux_case_study.md)
+           * Read and Discuss
+               * [Chapter 7. Face to Face with Design](practice/face_to_face_with_design.md)
+               * [Chapter 8. Giorgio Vasari and the Permutations of Design](practice/giorgio_vasari_and_the_permutations_of_design.md)
+           * Activities
+               * [Design an Interface](practice/design_an_interface.md)
+               * [Drawing a Journey Map](practice/drawing_a_journey_map.md)
        * [Lesson 1: What is Design?](lessons/introduction.md)
            * Topics
                * [What is Design?](topics/what_is_design.md)
@@ -65,18 +77,6 @@
            * Tutorials
                * [Twine Tutorial: Getting Started](topics/twine-tutorial-getting-started.md)
                * [Twine tutorial: Exploring Twine](topics/twine_tutorial_exploring_twine.md)
-       * [Lesson 3: UX](lessons/ux.md)
-           * Topics
-               * [Wireframing](topics/wireframing.md)
-               * [Digital Service or Product Project](projects/digital_service_or_product.md)
-               * [Mental model](topics/mental_model.md)
-           * [UX Case Study](topics/ux_case_study.md)
-           * Read and Discuss
-               * [Chapter 7. Face to Face with Design](practice/face_to_face_with_design.md)
-               * [Chapter 8. Giorgio Vasari and the Permutations of Design](practice/giorgio_vasari_and_the_permutations_of_design.md)
-           * Activities
-               * [Design an Interface](practice/design_an_interface.md)
-               * [Drawing a Journey Map](practice/drawing_a_journey_map.md)
        * [Lesson 4: Narrative](lessons/narrative.md)
            * [Introduction](lessons/narrative/introduction.md)
            * Topics
