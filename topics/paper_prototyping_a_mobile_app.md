@@ -3,6 +3,7 @@
 ## 
 1. Prototyping assets and materials
   1. Find and print icons from the [Noun Project](https://thenounproject.com)
+  2. Download the mobile device [prototyping template](http://sneakpeekit.com/)
 2. Layout design.
 
 ## Digital Prototype with InVisionApp
