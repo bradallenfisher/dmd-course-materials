@@ -7,7 +7,7 @@ In the talk, [The storytelling animal: Jonathan Gottschall at TEDxFurmanU](https
 
 >Design adds story to everyday life...
 >
->*-Ellen Lupton, Design Fictions, https://vimeo.com/90492776*
+>*– Ellen Lupton, Design Fictions, https://vimeo.com/90492776*
 
 
 ### Contexts of story
