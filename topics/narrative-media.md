@@ -23,8 +23,18 @@ Because story is ubiquitous to the human experience, you find it embedded in eve
 
 ## Education:
 
-## Activism:
+Liberal arts institutions tell stories that re-frame and challenge students' assumptions about the society and the world.
+
+## Journalism:
+
+Local news stations tell stories associated with the communities the are embedded within.
+
+National news stations tell stories associated with national and global interests.
+
+Newspapers, magazines, blogs, and other publications combine photography, video, and investigative reporting techniques to communicate stories.
 
 ## Governance:
 
 **Politicians** use stories to gain public support for proposed policies.
+
+**Activists** use signage, music, song, dance, and other types of performance to communicate their stories to the general public.
