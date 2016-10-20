@@ -33,6 +33,11 @@ Almost all Hollywood films, Shakespearean plays, and Greek and Roman Mythologies
 A non-linear structure is not necessarily chronological or cause and effect based. Story is unfolded simultaneously and recursively.
 
 ## Interactive Narrative
-The storyline in an interactive narrative work is not predetermined. The story is constructed based on a viewer's choices real-time, and relies on sophisticated AI software to construct the environment around these choices.
+The storyline in an interactive narrative work is not predetermined. The story is constructed based on a viewer's choices real-time. Games that use this structure often rely on sophisticated AI software to construct the environment around these choices.
 
-Example: [No Mans's Sky](http://www.no-mans-sky.com/about/)
+### Components
+An interactive narrative is comprised of decision or action points, where the user impacts the unfolding of the narrative by making a choice. The choice the user makes can determine which branching narrative path.
+
+These points, or nodes
+
+
