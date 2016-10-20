@@ -85,9 +85,9 @@
                * Organizing story development
                * [Audience](topics/audience.md)
                * [Character](topics/character.md)
+               * [Narrative](topics/narrative.md)
                * [Narrative structure](topics/narrative_structure.md)
                * [Hypertext](topics/hypertext.md)
-               * [Narrative](topics/narrative.md)
                * Genre
            * [Narrative Case Study](lessons/narrative/narrative_case_study.md)
            * Read and Discuss
