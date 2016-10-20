@@ -84,7 +84,7 @@ This bi-linear structure encourages users to move through a story vertically and
 
 ##### Sandbox or Open World
 
-A sandbox structure is one where the story unfolds based on how a player chooses to interact in what is typically an open environment. This is a loose structure where the setting of the story typically becomes central to the experience.
+A sandbox structure is one where the story unfolds based on how a player chooses to interact in what is typically a large, open environment. This is a loose structure where the setting of the story often becomes central to the experience.
 
 ![Sandbox Structure](../narrative-sandbox-structure.png)
 
