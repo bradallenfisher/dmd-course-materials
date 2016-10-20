@@ -79,7 +79,7 @@
            * Tutorials
                * [Twine Tutorial: Getting Started](topics/twine-tutorial-getting-started.md)
                * [Twine tutorial: Exploring Twine](topics/twine_tutorial_exploring_twine.md)
-       * [Lesson 4: Narrative](lessons/narrative.md)
+       * [Lesson 4: Storytelling](lessons/narrative.md)
            * [Introduction](lessons/narrative/introduction.md)
            * Topics
                * [Audience](topics/audience.md)
