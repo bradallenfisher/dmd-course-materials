@@ -54,7 +54,7 @@ In this project, you will go through a design thinking process that inspires a h
   - Was the story about a positive future? How do you know?
   - What themes emerged in the story?
   - Who do you think the audience is?
-2. Opportunity Map
+2. Document Opportunities
   - After receiving feedback on your project, write any opportunities that were discovered via conversation.
 
 ## Citation
