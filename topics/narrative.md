@@ -60,7 +60,7 @@ Almost all Hollywood films, Shakespearean plays, and Greek and Roman Mythologies
 - Five Act Structure
 - Journey
 
-### Three Act Plot Diagram
+#### Three Act Plot Diagram
 
 ![](plot_diagram_reverse2.png)
 
