@@ -2,7 +2,7 @@
 
 A narrative structure orders or disorders the content of a story for the audience. There are commonly used frameworks for storytelling which started with Aristotle's three part structure which consisted of a beginning, middle, and end.
 
-Hollywood films tend to have structures that traditionally sell well in the box office, increasing the probability that they will see a return on the production investment. The perception is that experimental or uncommon narrative structures tend to be risky. The same can be said for large game developers who are prone to sequels of high selling titles.
+Hollywood films tend to have structural models that traditionally sell well in the box office, increasing the probability that they will see a return on the production investment. The perception is that experimental or uncommon narrative structures tend to be risky. The same can be said for large game developers who are inclined to produce sequels of high selling titles.
 
 This can explain why many of the novel or boundary-pushing films tend to come from independent authors and screenwriters, indie game developers, indie filmmakers, and so on.
 
@@ -56,8 +56,32 @@ To develop the critical path:
 2. Determine essential actions and decisions
 3. Identify the optional narrative interactions that build around the central story
 
-#### Common Structural Patterns
+#### Non-linear Structural Patterns
 
+
+#### Linear Structural Patterns
+
+
+
+##### String of pearls
+
+In this linear structure, a user must complete node's requirements to continue to the next node.
+
+![String of pearls structure](../narrative-string-of-pearls-structure.png)
+
+##### Hero's journey
+
+In the linear structure, a user would follow the twelve stages of the hero's journey. There can be fewer or additional stages and still be considered a journey structure.
+
+![Hero's Journey Strucutre](../narrative-journey-structure.png)
+##### Parallel worlds
+
+In this quasi-linear structure, users are given the opportunity to explore multiple story-lines running in parallel. There is typically no way to experience all of the stories at once, though they may intersect at opportune times.
+
+![Parallel Structure](../narrative-parallel-structure.png)
+![Sandbox Structure](../narrative-sandbox-structure.png)
+
+![Drill-down structure](../narrative-drill-down-structure.png)
 
 
 ## Bookshelf
