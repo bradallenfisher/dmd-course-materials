@@ -86,7 +86,11 @@ To develop the critical path:
 
 1. All the critical story beats must be accounted for
 2. Determine essential actions and decisions
-3. Identify the optional narrative interactions
+3. Identify the optional narrative interactions that build around the central story
+
+#### Common Structural Patterns
+
+
 
 ## Bookshelf
 [Digital Storytelling: A Creator's Guide to Interactive Entertainment. Carolyn Handler Miller. 2014. ISBN-10: 0415836948](http://www.amazon.com/Digital-Storytelling-creators-interactive-entertainment/dp/0415836948)
