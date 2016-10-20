@@ -96,6 +96,11 @@ A sandbox structure is one where the story unfolds based on how a player chooses
 ![Graph structure](../narrative-graph-structure.png)
 A graph structure is where all nodes simultaneously connect will all nodes bi-bidirectionally. Discerning a narrative thread in just a structure can be difficult.
 
+#### More Structural Patterns
+
+It is quite possible that no good pattern exists for the kind of story you want to create. It is likely that you will want to produce your own structure according to the interaction needs of your story.
+
+
 ## Bookshelf
 [Digital Storytelling: A Creator's Guide to Interactive Entertainment. Carolyn Handler Miller. 2014. ISBN-10: 0415836948](http://www.amazon.com/Digital-Storytelling-creators-interactive-entertainment/dp/0415836948)
 
