@@ -9,34 +9,34 @@ In fictional film or literature, character types are used to enable viewers to e
 
 ## Character profile
 
-- Importance to story
+1. Importance to story
   - What role does the character play?
   - Characterization types
-- Physical Attributes
+2. Physical Attributes
   - Name
   - Age
   - Gender
   - Race/Ethnicity
-- Inner struggle and journey
+3. Inner struggle and journey
   - What motivates the character?
   - What does the character want more than anything?
   - What do they fear most?
   - How do they hide their true selves from the world?
   - What would they want to be remembered for?
   - What do they learn by the end of the story?
-- Personality
+4. Personality
   - Unique trait
   - Strengths
   - Weaknesses
   - Critical flaw that impacts the story
   - Behaviors and actions
   - Back story that explains why they are this way
-- Story interaction
+5. Story interaction
   - Internal conflicts
   - External conflicts
   - Meetings with other characters
   - How are character flaws introduced into the story?
-  - 
+
 ## Characterization
 
 ## Types in fictional stories
