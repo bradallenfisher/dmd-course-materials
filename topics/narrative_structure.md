@@ -60,13 +60,19 @@ To develop the critical path:
 
 ##### Sandbox or Open World
 
-A sandbox structure is one where the story unfolds based on how a player chooses to interact in what is typically an open environment. The setting of the story typically becomes important
+A sandbox structure is one where the story unfolds based on how a player chooses to interact in what is typically an open environment. This is a loose structure where the setting of the story typically becomes central to the experience.
 
 ![Sandbox Structure](../narrative-sandbox-structure.png)
 
+##### Sandbox or Open World
+
+A sandbox structure is one where the story unfolds based on how a player chooses to interact in what is typically an open environment. The setting of the story typically becomes important
+
+##### Graph
+![Graph structure](../narrative-graph-structure.png)
+A graph structure is where all nodes simultaneously connect will all nodes bi-bidirectionally. Discerning a narrative thread in just a structure can be difficult.
+
 #### Linear Structural Patterns
-
-
 
 ##### String of pearls
 
