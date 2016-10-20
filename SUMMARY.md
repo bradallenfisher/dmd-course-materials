@@ -82,11 +82,11 @@
        * [Lesson 4: Storytelling](lessons/narrative.md)
            * [Introduction](lessons/narrative/introduction.md)
            * Topics
+               * [Narrative](topics/narrative.md)
                * Organizing story development
                * [Audience](topics/audience.md)
                * [Character](topics/character.md)
                * Plot
-               * [Narrative](topics/narrative.md)
                * [Narrative structure](topics/narrative_structure.md)
                * [Hypertext](topics/hypertext.md)
                * [Media](topics/narrative-media.md)
