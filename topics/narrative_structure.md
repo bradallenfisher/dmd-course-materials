@@ -8,7 +8,7 @@ This can explain why many of the novel or boundary-pushing films tend to come fr
 
 ## Freytag's Analysis
 
-Gustav Freytag (1816 - 1895), a German dramatist and novelist, developed the structure for the way stories are told in ancient Greek and Shakespearean drama. This analysis is known as Freytag's analysis, dramatic structure, or Freytag's Pyramid. His analysis consisted of dividing a play into the following parts:
+Gustav Freytag (1816 - 1895), a German dramatist and novelist, developed the structure for the way stories are told in ancient Greek and Shakespearean drama. This analysis is known as Freytag's analysis, dramatic structure, or Freytag's Pyramid. His analysis consisted of the following parts:
 
 1. exposition
 2. rising action
