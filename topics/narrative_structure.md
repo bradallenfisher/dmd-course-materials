@@ -58,6 +58,11 @@ To develop the critical path:
 
 #### Non-linear Structural Patterns
 
+##### Sandbox or Open World
+
+A sandbox structure is one where the story unfolds based on how a player chooses to interact in what is typically an open environment. The setting of the story typically becomes important
+
+![Sandbox Structure](../narrative-sandbox-structure.png)
 
 #### Linear Structural Patterns
 
@@ -71,16 +76,14 @@ In this linear structure, a user must complete node's requirements to continue t
 
 ##### Hero's journey
 
+![Hero's Journey Strucutre](../narrative-journey-structure.png)
 In the linear structure, a user would follow the twelve stages of the hero's journey. There can be fewer or additional stages and still be considered a journey structure.
 
-![Hero's Journey Strucutre](../narrative-journey-structure.png)
 ##### Parallel worlds
 
-In this quasi-linear structure, users are given the opportunity to explore multiple story-lines running in parallel. There is typically no way to experience all of the stories at once, though they may intersect at opportune times.
-
 ![Parallel Structure](../narrative-parallel-structure.png)
-![Sandbox Structure](../narrative-sandbox-structure.png)
 
+In this quasi-linear structure, users are given the opportunity to explore multiple story-lines running in parallel. There is typically no way to experience all of the stories at once, though they may intersect at opportune times.
 ![Drill-down structure](../narrative-drill-down-structure.png)
 
 
