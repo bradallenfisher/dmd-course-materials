@@ -84,7 +84,11 @@ In the linear structure, a user would follow the twelve stages of the hero's jou
 ![Parallel Structure](../narrative-parallel-structure.png)
 
 In this quasi-linear structure, users are given the opportunity to explore multiple story-lines running in parallel. There is typically no way to experience all of the stories at once, though they may intersect at opportune times.
+
+##### Drill-down
 ![Drill-down structure](../narrative-drill-down-structure.png)
+
+This bi-linear structure encourages users to move through a story vertically and laterally, where lateral movement represents plot points and vertical movement represents the gathering information and details surrounding the plot.
 
 
 ## Bookshelf
