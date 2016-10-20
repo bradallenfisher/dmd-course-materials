@@ -35,9 +35,10 @@ A non-linear structure is not necessarily chronological or cause and effect base
 ## Interactive Narrative
 The storyline in an interactive narrative work is not predetermined. The story is constructed based on a viewer's choices real-time. Games that use this structure often rely on sophisticated AI software to construct the environment around these choices.
 
-### Components
+### Decision Nodes
 An interactive narrative is comprised of decision or action points called nodes, where the user impacts the unfolding of the narrative by making a choice or performing an action. The choice the user makes can determine which branching narrative path is taken.
 
 
 ![Branching paths](../interactive-narrative-branching-paths.png)
 
+For example, let's say you are playing a hypertext narrative, and your character is a young man who sees a hooded figure shoplifting. The options to proceed include a) tell the shopkeeper, b) follow the shoplifter, or c) do nothing. Depending on your choices, the story may unfold in three completely different ways.
