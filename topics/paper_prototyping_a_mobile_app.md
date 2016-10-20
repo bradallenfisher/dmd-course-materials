@@ -1,11 +1,9 @@
 # Paper Prototyping a Mobile App
 
 ## 
-1. Assembling materials to prototype with:
-  1. Choose interface icons from the [Noun Project](https://thenounproject.com)
-  2. Add the icons you want
-  2. Print them onto paper and 
-2. Design a layout for your interface. Must
+1. Prototyping assets and materials
+  1. Find and print icons from the [Noun Project](https://thenounproject.com)
+2. Layout design.
 
 ## Digital Prototype with InVisionApp
 
