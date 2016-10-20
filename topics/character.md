@@ -9,6 +9,8 @@ In fictional film or literature, character types are used to enable viewers to e
 
 ## Character profile
 
+Creating a character profile is helpful to describe the way in which a character connects with and supports the telling of a story. 
+
 1. Importance to story
   - What role does the character play?
   - Characterization types
