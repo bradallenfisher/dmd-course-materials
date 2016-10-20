@@ -1,19 +1,17 @@
 # Media
 
-### Contexts of story
+Because story is ubiquitous to the human experience, you find it embedded in every creative job or endeavor.
 
 ## Entertainment
 
-**Films, novels, drawings and paintings, comic books, and games** are products that tell a story to highlight a moral or ethical quandary, contribute to discourse on a popular or marginalized subject, function a teaching tool, entertain, illuminate, or . 
+**Films, novels, drawings and paintings, comic books, and games** are products that tell a story to highlight a moral or ethical quandary, contribute to discourse on a popular or marginalized subject, function a teaching tool, entertain, illuminate, etc. 
 
 ** Podcasts** often combine journalism techniques and creative sound editing to disseminate knowledge and promote empathy.
-
-https://vimeo.com/150176538 [poor sound quality]
 
 
 ## Product and service design:
 
-**Graphic design** uses visual design elements to communicate simple ideas like how to use a voting ballot to abstract ideas like a company's identity.
+**Graphic designers** use visual design elements to communicate simple ideas like how to use a voting ballot to abstract ideas like a company's brand identity.
 
 **Industrial design** use visual and sculptural elements to communicate what a product does and how it's used.
 
