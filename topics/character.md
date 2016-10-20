@@ -41,6 +41,8 @@ Creating a character profile is helpful to describe the way in which a character
 
 ## Characterization
 
+In the process of characterization, a writer will develop traits of a character according to how they will serve the story's plot requirements. Characters are often inspired by people from real life, but often become simplified and adapted as needed.
+
 ## Types in fictional stories
 
 Characters are often a combination of the following types:
