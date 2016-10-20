@@ -7,10 +7,41 @@ In fictional film or literature, character types are used to enable viewers to e
 - Animated Race Car: [Cars (2006)](http://www.imdb.com/title/tt0317219/)
 - Homicidal car tire: [Rubber (2010)](http://www.imdb.com/title/tt1612774/)
 
+## Character profile
 
-**Characterization types in fiction**
+- Importance to story
+  - What role does the character play?
+  - Characterization types
+- Physical Attributes
+  - Name
+  - Age
+  - Gender
+  - Race/Ethnicity
+- Inner struggle and journey
+  - What motivates the character?
+  - What does the character want more than anything?
+  - What do they fear most?
+  - How do they hide their true selves from the world?
+  - What would they want to be remembered for?
+  - What do they learn by the end of the story?
+- Personality
+  - Unique trait
+  - Strengths
+  - Weaknesses
+  - Critical flaw that impacts the story
+  - Behaviors and actions
+  - Back story that explains why they are this way
+- Story interaction
+  - Internal conflicts
+  - External conflicts
+  - Meetings with other characters
+  - How are character flaws introduced into the story?
+  - 
+## Characterization
 
-Characters are often a combination of these types.
+## Types in fictional stories
+
+Characters are often a combination of the following types:
 
 1. Main character
   - The story typically follows this character most closely. They are needed to resolve the conflict.
