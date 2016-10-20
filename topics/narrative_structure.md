@@ -39,5 +39,5 @@ The storyline in an interactive narrative work is not predetermined. The story i
 An interactive narrative is comprised of decision or action points called nodes, where the user impacts the unfolding of the narrative by making a choice or performing an action. The choice the user makes can determine which branching narrative path is taken.
 
 
-
+![Branching paths](../interactive-narrative-branching-paths.png)
 
