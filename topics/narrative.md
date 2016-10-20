@@ -26,7 +26,9 @@ https://vimeo.com/150176538 [poor sound quality]
 
 **Wayfinding** is tells the story of how to find your way in an unfamiliar place, often delivered through signs, markers, lights, color, and other architectural features.
 
-**Graphic design** uses visual design elements to communicate simple ideas like how to use a voting ballot to abstract ideas like a company's identity. 
+**Graphic design** uses visual design elements to communicate simple ideas like how to use a voting ballot to abstract ideas like a company's identity.
+
+**Politicians** use stories to gain public support for proposed policies.
 
 ## Bookshelf
 [Digital Storytelling: A Creator's Guide to Interactive Entertainment. Carolyn Handler Miller. 2014. ISBN-10: 0415836948](http://www.amazon.com/Digital-Storytelling-creators-interactive-entertainment/dp/0415836948)
