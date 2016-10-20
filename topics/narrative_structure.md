@@ -77,7 +77,7 @@ In this linear structure, a user must complete node's requirements to continue t
 ##### Hero's journey
 
 ![Hero's Journey Strucutre](../narrative-journey-structure.png)
-In the linear structure, a user would follow the twelve stages of the hero's journey. There can be fewer or additional stages and still be considered a journey structure.
+In the linear structure, a user would follow the twelve stages of the hero's journey. However, there can be fewer or additional stages and still be considered a journey structure.
 
 ##### Parallel worlds
 
