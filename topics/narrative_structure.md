@@ -5,6 +5,9 @@ Hollywood films tend to have structures that traditionally sell well in the box 
 
 This can explain why many of the novel or boundary-pushing films tend to come from independent authors and screenwriters, indie game developers, indie filmmakers, and so on.
 
+## Plot
+
+Beats or events in a story where decisions are made. This is different from story structure.
 
 ## Freytag's Analysis
 
@@ -42,3 +45,11 @@ An interactive narrative is comprised of decision or action points called nodes,
 ![Branching paths](../interactive-narrative-branching-paths.png)
 
 For example, let's say you are playing a hypertext narrative, and your character is a young man who sees a hooded figure shoplifting. The options to proceed include a) tell the shopkeeper, b) follow the shoplifter, or c) do nothing. Depending on your choices, the story may unfold in three completely different ways.
+
+### IF/THEN
+
+Logic...
+
+### Critical Story Path 
+
+A critical story path can be thought of as the shortest path possible through a series of decision nodes to complete the interactive story. To develop the critical path, you must ensure that all the critical beats, or 
