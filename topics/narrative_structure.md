@@ -56,22 +56,6 @@ To develop the critical path:
 2. Determine essential actions and decisions
 3. Identify the optional narrative interactions that build around the central story
 
-#### Non-linear Structural Patterns
-
-##### Sandbox or Open World
-
-A sandbox structure is one where the story unfolds based on how a player chooses to interact in what is typically an open environment. This is a loose structure where the setting of the story typically becomes central to the experience.
-
-![Sandbox Structure](../narrative-sandbox-structure.png)
-
-##### Sandbox or Open World
-
-A sandbox structure is one where the story unfolds based on how a player chooses to interact in what is typically an open environment. The setting of the story typically becomes important
-
-##### Graph
-![Graph structure](../narrative-graph-structure.png)
-A graph structure is where all nodes simultaneously connect will all nodes bi-bidirectionally. Discerning a narrative thread in just a structure can be difficult.
-
 #### Linear Structural Patterns
 
 ##### String of pearls
@@ -96,6 +80,21 @@ In this quasi-linear structure, users are given the opportunity to explore multi
 
 This bi-linear structure encourages users to move through a story vertically and laterally, where lateral movement represents plot points and vertical movement represents the gathering information and details surrounding the plot.
 
+#### Non-linear Structural Patterns
+
+##### Sandbox or Open World
+
+A sandbox structure is one where the story unfolds based on how a player chooses to interact in what is typically an open environment. This is a loose structure where the setting of the story typically becomes central to the experience.
+
+![Sandbox Structure](../narrative-sandbox-structure.png)
+
+##### Sandbox or Open World
+
+A sandbox structure is one where the story unfolds based on how a player chooses to interact in what is typically an open environment. The setting of the story typically becomes important
+
+##### Graph
+![Graph structure](../narrative-graph-structure.png)
+A graph structure is where all nodes simultaneously connect will all nodes bi-bidirectionally. Discerning a narrative thread in just a structure can be difficult.
 
 ## Bookshelf
 [Digital Storytelling: A Creator's Guide to Interactive Entertainment. Carolyn Handler Miller. 2014. ISBN-10: 0415836948](http://www.amazon.com/Digital-Storytelling-creators-interactive-entertainment/dp/0415836948)
