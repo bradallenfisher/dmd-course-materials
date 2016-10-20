@@ -31,7 +31,7 @@ In this project, you will go through a design thinking process that inspires a h
 
 ### Define
 
-1. Choose one of the category responses. Write the response as a short sentence, **"In 2045 years, "** . An example sentence would be *In 2045, the world will restore all of the world's endangered wildlife species to healthy populations.*
+1. Choose one of the category responses. Write the response as a short sentence, **"In 2045 years, ... "** . An example sentence would be *In 2045, the world will restore all of the world's endangered wildlife species to healthy populations.*
 2. Define your **audience**. Who would need to see this story in order for it to become a reality?
 
 ### Develop
