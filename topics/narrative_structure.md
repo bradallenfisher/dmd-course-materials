@@ -40,7 +40,7 @@ An interactive narrative is comprised of decision or action points called nodes,
 
 ![Branching paths](../interactive-narrative-branching-paths.png)
 
-For example, let's say you are playing a hypertext narrative, and your character is a young woman who sees a hooded figure shoplifting. The options to proceed include a) tell the shopkeeper, b) follow the shoplifter, or c) do nothing. Depending on which choice you select, the story may unfold in three completely different ways.
+For example, let's say you are playing a hypertext narrative, and your character is a young woman who sees a hooded figure shoplifting. The options to proceed include a) tell the shopkeeper, b) follow the shoplifter, or c) do nothing. Depending on which choice you select, the story may unfold in three different ways.
 
 #### Critical Story Path 
 
