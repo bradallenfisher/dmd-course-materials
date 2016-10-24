@@ -28,13 +28,13 @@ Almost all Hollywood films, Shakespearean plays, and Greek and Roman Mythologies
 
 ![](plot_diagram_reverse2.png)
 
-### Non-linear Narrative Structures:
+### Non-linear narrative structures:
 A non-linear structure is not necessarily chronological or cause and effect based. Story is unfolded simultaneously and recursively.
 
-### Interactive Narrative
+### Interactive narrative
 The story-line in an interactive narrative work is not predetermined. The story is constructed based on a viewer's choices real-time. Games that use this structure often rely on sophisticated AI software to construct the environment around these choices.
 
-#### Decision Nodes
+#### Decision nodes
 An interactive narrative is comprised of decision or action points called nodes, where the user impacts the unfolding of the narrative by making a choice or performing an action. The choice the user makes can determine which branching narrative path is taken. The decisions themselves are part of the plot, which handles dramatization of the events.
 
 
@@ -42,7 +42,7 @@ An interactive narrative is comprised of decision or action points called nodes,
 
 For example, let's say you are playing a hypertext narrative, and your character is a young woman who sees a hooded figure shoplifting. The options to proceed include a) tell the shopkeeper, b) follow the shoplifter, or c) do nothing. Depending on which choice you select, the story may unfold in three different ways.
 
-#### Critical Story Path 
+#### Critical story path 
 
 A critical story path can be thought of as the shortest path possible through a series of decision nodes to complete the interactive story.
 
@@ -52,7 +52,7 @@ To develop the critical path:
 2. Determine essential actions and decisions
 3. Identify the optional narrative interactions that build around the central story
 
-#### Linear Structural Patterns
+#### Linear structural patterns
 ##### Branching
 
 The branching structure is the structure used in choose your own adventure books and most interactive narratives. One problem with branching structures is the tendency to create overly complicated story paths.
@@ -82,23 +82,21 @@ In this quasi-linear structure, users are given the opportunity to explore multi
 
 This bi-linear structure encourages users to move through a story vertically and laterally, where lateral movement represents plot points and vertical movement represents the gathering information and details surrounding the plot.
 
-#### Non-linear Structural Patterns
+#### Non-linear structural patterns
 
-##### Sandbox or Open World
+##### Sandbox or open-world
 
-A sandbox structure is one where the story unfolds based on how a player chooses to interact in what is typically a large, open environment. This is a loose structure where the setting of the story often becomes central to the experience.
 
 ![Sandbox Structure](../narrative-sandbox-structure.png)
 
-##### Sandbox or Open World
 
-A sandbox structure is one where the story unfolds based on how a player chooses to interact in what is typically an open environment. The setting of the story typically becomes important
+A sandbox structure is one where the story unfolds based on how a player chooses to interact in what is typically a large, open environment. This is a loose structure where the setting of the story often becomes central to the experience.
 
 ##### Graph
 ![Graph structure](../narrative-graph-structure.png)
 A graph structure is where all nodes simultaneously connect with every other node bi-bidirectionally. Discerning a narrative thread in just a structure can be difficult.
 
-#### Creating Your Own Structural Patterns
+#### Creating your own structural patterns
 
 It is quite possible that no good pattern exists for the kind of story you want to create. It is likely that you will want to produce your own structure according to the interaction needs of your story.
 
