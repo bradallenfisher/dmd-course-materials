@@ -6,7 +6,7 @@ Hollywood films tend to have structural models that traditionally sell well in t
 
 This can explain why many of the novel or boundary-pushing films tend to come from independent authors and screenwriters, indie game developers, indie filmmakers, and so on.
 
-## Dramatic Strucutre
+## Dramatic structure
 
 Gustav Freytag (1816 - 1895), a German dramatist and novelist, developed the structure for the way stories are told in ancient Greek and Shakespearean drama. This analysis is known as Freytag's analysis, dramatic structure, or Freytag's Pyramid. His analysis consisted of the following parts:
 
