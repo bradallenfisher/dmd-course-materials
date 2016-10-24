@@ -28,7 +28,7 @@ Almost all Hollywood films, Shakespearean plays, and Greek and Roman Mythologies
 
 ![](plot_diagram_reverse2.png)
 
-### Non-linear narrative structures:
+### Non-linear narrative structures
 A non-linear structure is not necessarily chronological or cause and effect based. Story is unfolded simultaneously and recursively.
 
 ### Interactive narrative
