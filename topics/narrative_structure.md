@@ -18,11 +18,11 @@ Gustav Freytag (1816 - 1895), a German dramatist and novelist, developed the str
 
 This structure was more descriptive of Greek and Shakespearean plays, whereas contemporary narrative structures have much greater contrast in rising and falling action.
 
-Almost all Hollywood films, Shakespearean plays, and Greek and Roman Mythologies follow these linear structures:
+Almost all Hollywood films, Shakespearean plays, and Greek and Roman Mythologies align with the the following linear structures:
 
 - Three Act Structure
 - Five Act Structure
-- Journey
+- Hero's Journey
 
 #### Three Act Plot Diagram
 
